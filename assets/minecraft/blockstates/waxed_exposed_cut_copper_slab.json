@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/exposed_cut_copper_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/exposed_cut_copper"
+    },
+    "type=top": {
+      "model": "minecraft:block/exposed_cut_copper_slab_top"
+    },
+    "type=double,waterlogged=true":{
+      "model": "expansion:blocks/vulcanium_ore"
+    }
+  }
+}

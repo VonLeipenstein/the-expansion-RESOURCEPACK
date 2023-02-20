@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_horse_armor"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 2000002}, "model": "expansion:blocks/fabricator_animated_n"},
+        { "predicate": {"custom_model_data": 2000003}, "model": "expansion:blocks/fabricator_animated_e"},
+        { "predicate": {"custom_model_data": 2000004}, "model": "expansion:blocks/fabricator_animated_s"},
+        { "predicate": {"custom_model_data": 2000005}, "model": "expansion:blocks/fabricator_animated_w"},
+
+        { "predicate": {"custom_model_data": 2000010}, "model": "expansion:structures/assembler_static"},
+        { "predicate": {"custom_model_data": 2000011}, "model": "expansion:structures/assembler_south"},
+        { "predicate": {"custom_model_data": 2000012}, "model": "expansion:structures/assembler_east"},
+        { "predicate": {"custom_model_data": 2000013}, "model": "expansion:structures/assembler_north"},
+        { "predicate": {"custom_model_data": 2000014}, "model": "expansion:structures/assembler_west"}
+    ]
+}

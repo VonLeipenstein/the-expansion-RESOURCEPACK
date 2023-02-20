@@ -1,0 +1,106 @@
+{
+ "parent": "item/handheld_rod",
+ "textures": {
+  "layer0": "item/carrot_on_a_stick"
+ },
+ "overrides": [
+  { "predicate": {"custom_model_data": 1012000}, "model": "expansion:vehicles/rocket"},
+ 
+  { "predicate": {"custom_model_data": 1012002}, "model": "expansion:vehicles/spaceship"},
+  { "predicate": {"custom_model_data": 1012003}, "model": "expansion:vehicles/spaceship_landed"},
+  { "predicate": {"custom_model_data": 1012004}, "model": "expansion:vehicles/lunar_module"},
+  { "predicate": {"custom_model_data": 1012005}, "model": "expansion:vehicles/lunar_module_falling"},
+  
+  { "predicate": {"custom_model_data": 1012006}, "model": "expansion:vehicles/blaster_button"},
+
+  { "predicate": {"custom_model_data": 1012007}, "model": "expansion:vehicles/return_capsule"},
+  
+  { "predicate": {"custom_model_data": 1012008}, "model": "expansion:vehicles/moon_buggy/moon_buggy_0"},
+  { "predicate": {"custom_model_data": 1012009}, "model": "expansion:vehicles/moon_buggy/moon_buggy_1"},
+  { "predicate": {"custom_model_data": 1012010}, "model": "expansion:vehicles/moon_buggy/moon_buggy_2"},
+  { "predicate": {"custom_model_data": 1012011}, "model": "expansion:vehicles/moon_buggy/moon_buggy_3"},
+  { "predicate": {"custom_model_data": 1012012}, "model": "expansion:vehicles/moon_buggy/moon_buggy_4"},
+  { "predicate": {"custom_model_data": 1012013}, "model": "expansion:vehicles/moon_buggy/moon_buggy_5"},
+  { "predicate": {"custom_model_data": 1012014}, "model": "expansion:vehicles/moon_buggy/moon_buggy_6"},
+  { "predicate": {"custom_model_data": 1012015}, "model": "expansion:vehicles/moon_buggy/moon_buggy_7"},
+
+  { "predicate": {"custom_model_data": 1012016}, "model": "expansion:vehicles/the_boston/the_boston"},
+  { "predicate": {"custom_model_data": 1012017}, "model": "expansion:vehicles/the_boston/the_boston_landed"},
+
+  { "predicate": {"custom_model_data": 1012018}, "model": "expansion:vehicles/bomber/bomber"},
+  { "predicate": {"custom_model_data": 1012019}, "model": "expansion:vehicles/bomber/bomber_landed"},
+
+  { "predicate": {"custom_model_data": 1012020}, "model": "expansion:vehicles/lunar_module_bottom"},
+  { "predicate": {"custom_model_data": 1012021}, "model": "expansion:vehicles/lunar_module_top"},
+
+  { "predicate": {"custom_model_data": 1012022}, "model": "expansion:vehicles/zwaluw/zwaluw"},
+  { "predicate": {"custom_model_data": 1012023}, "model": "expansion:vehicles/zwaluw/zwaluw_landed"},
+
+  { "predicate": {"custom_model_data": 1012050}, "model": "expansion:structures/assembler_item"},
+
+  { "predicate": {"custom_model_data": 1012100}, "model": "expansion:armor/space_equipment/space_jetpack_blue"},
+  { "predicate": {"custom_model_data": 1012101}, "model": "expansion:armor/space_equipment/space_jetpack_black"},
+  { "predicate": {"custom_model_data": 1012102}, "model": "expansion:armor/space_equipment/space_jetpack_brown"},
+  { "predicate": {"custom_model_data": 1012103}, "model": "expansion:armor/space_equipment/space_jetpack_cyan"},
+  { "predicate": {"custom_model_data": 1012104}, "model": "expansion:armor/space_equipment/space_jetpack_gray"},
+  { "predicate": {"custom_model_data": 1012105}, "model": "expansion:armor/space_equipment/space_jetpack_green"},
+  { "predicate": {"custom_model_data": 1012106}, "model": "expansion:armor/space_equipment/space_jetpack_lblue"},
+  { "predicate": {"custom_model_data": 1012107}, "model": "expansion:armor/space_equipment/space_jetpack_lgray"},
+  { "predicate": {"custom_model_data": 1012108}, "model": "expansion:armor/space_equipment/space_jetpack_lime"},
+  { "predicate": {"custom_model_data": 1012109}, "model": "expansion:armor/space_equipment/space_jetpack_magenta"},
+  { "predicate": {"custom_model_data": 1012110}, "model": "expansion:armor/space_equipment/space_jetpack_orange"},
+  { "predicate": {"custom_model_data": 1012111}, "model": "expansion:armor/space_equipment/space_jetpack_pink"},
+  { "predicate": {"custom_model_data": 1012112}, "model": "expansion:armor/space_equipment/space_jetpack_purple"},
+  { "predicate": {"custom_model_data": 1012113}, "model": "expansion:armor/space_equipment/space_jetpack_red"},
+  { "predicate": {"custom_model_data": 1012114}, "model": "expansion:armor/space_equipment/space_jetpack_white"},
+  { "predicate": {"custom_model_data": 1012115}, "model": "expansion:armor/space_equipment/space_jetpack_yellow"},
+  { "predicate": {"custom_model_data": 1012116}, "model": "expansion:armor/trader_helmet"},
+
+  { "predicate": {"custom_model_data": 1012199}, "model": "expansion:items/invisible_model"},
+
+  { "predicate": {"custom_model_data": 1012201}, "model": "expansion:tools/wrench"},
+  { "predicate": {"custom_model_data": 1012202}, "model": "expansion:tools/cryoblaster"},
+  { "predicate": {"custom_model_data": 1012204}, "model": "expansion:tools/pocket_space"},
+  { "predicate": {"custom_model_data": 1012205}, "model": "expansion:tools/fleet_finder"},
+  
+  { "predicate": {"custom_model_data": 1012250}, "model": "expansion:tools/oxygen_tank/oxygen_10"},
+  { "predicate": {"custom_model_data": 1012251}, "model": "expansion:tools/oxygen_tank/oxygen_20"},
+  { "predicate": {"custom_model_data": 1012252}, "model": "expansion:tools/oxygen_tank/oxygen_30"},
+  { "predicate": {"custom_model_data": 1012253}, "model": "expansion:tools/oxygen_tank/oxygen_40"},
+  { "predicate": {"custom_model_data": 1012254}, "model": "expansion:tools/oxygen_tank/oxygen_60"},
+  { "predicate": {"custom_model_data": 1012255}, "model": "expansion:tools/oxygen_tank/oxygen_70"},
+  { "predicate": {"custom_model_data": 1012256}, "model": "expansion:tools/oxygen_tank/oxygen_80"},
+  { "predicate": {"custom_model_data": 1012257}, "model": "expansion:tools/oxygen_tank/oxygen_90"},
+  { "predicate": {"custom_model_data": 1012258}, "model": "expansion:tools/oxygen_tank/oxygen_100"},
+  
+  { "predicate": {"custom_model_data": 1012297}, "model": "expansion:items/rocket_top"},
+  { "predicate": {"custom_model_data": 1012298}, "model": "expansion:items/rocket_cockpit"},
+  { "predicate": {"custom_model_data": 1012299}, "model": "expansion:items/rocket_bottom"},
+
+  { "predicate": {"custom_model_data": 1012300}, "model": "expansion:blocks/workbench"},
+  { "predicate": {"custom_model_data": 1012301}, "model": "expansion:blocks/terraformer"},
+  { "predicate": {"custom_model_data": 1012302}, "model": "expansion:blocks/new_extractor"},
+  { "predicate": {"custom_model_data": 1012303}, "model": "expansion:blocks/planetarium"},
+  { "predicate": {"custom_model_data": 1012304}, "model": "expansion:blocks/compressor"},
+  { "predicate": {"custom_model_data": 1012305}, "model": "expansion:blocks/enhancer"},
+  { "predicate": {"custom_model_data": 1012306}, "model": "expansion:blocks/arc_furnace"},
+  { "predicate": {"custom_model_data": 1012307}, "model": "expansion:blocks/arc_furnace_on"},
+  { "predicate": {"custom_model_data": 1012308}, "model": "expansion:blocks/fabricator"},
+  { "predicate": {"custom_model_data": 1012309}, "model": "expansion:blocks/oxygenator"},
+  { "predicate": {"custom_model_data": 1012310}, "model": "expansion:blocks/oxygenator_animated"},
+  { "predicate": {"custom_model_data": 1012311}, "model": "expansion:blocks/tesla_coil"},
+  
+
+  { "predicate": {"custom_model_data": 1012400}, "model": "expansion:statues/quercus"},
+  { "predicate": {"custom_model_data": 1012401}, "model": "expansion:statues/tristan_arthur"},
+
+  { "predicate": {"custom_model_data": 1012500}, "model": "expansion:weapons/railgun"},
+  
+  { "predicate": {"custom_model_data": 1012600}, "model": "expansion:structures/portal_top_new"},
+  { "predicate": {"custom_model_data": 1012601}, "model": "expansion:structures/portal_bottom_new"},
+  { "predicate": {"custom_model_data": 1012602}, "model": "expansion:structures/portal_left_new"},
+  { "predicate": {"custom_model_data": 1012603}, "model": "expansion:structures/portal_right_new"},
+  { "predicate": {"custom_model_data": 1012604}, "model": "expansion:structures/portal_portal"},
+  { "predicate": {"custom_model_data": 1012605}, "model": "expansion:structures/portal_setup"}
+ ]
+}

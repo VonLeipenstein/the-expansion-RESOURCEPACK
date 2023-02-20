@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "expansion:vehicles/spaceship/blaster_button",
+		"particle": "expansion:vehicles/spaceship/blaster_button"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [16, 1, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0.5, 8.5]},
+			"faces": {
+				"north": {"uv": [8, 1, 15.5, 1.5], "texture": "#0"},
+				"east": {"uv": [8, 2, 15.5, 2.5], "texture": "#0"},
+				"south": {"uv": [8, 8, 15.5, 8.5], "texture": "#0"},
+				"west": {"uv": [8, 0, 15.5, 0.5], "texture": "#0"},
+				"up": {"uv": [7.5, 7.5, 0, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.5, 8, 0, 15.5], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [-0.5, 0.5, 0],
+			"scale": [1.05, 1.05, 1.05]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [90, 0, -180],
+			"translation": [0.5, 0.5, -8]
+		}
+	}
+}

@@ -1,0 +1,134 @@
+{ 
+    "railgun.shoot": {
+        "category": "player",
+        "sounds": [
+            "expansion:railgun/railgun_shoot"
+        ]
+    },
+    "railgun.reload": {
+        "category": "player",
+        "sounds": [
+            "expansion:railgun/railgun_reload"
+        ]
+    },
+    "railgun.dry_fire": {
+        "category": "player",
+        "sounds": [
+            "expansion:railgun/railgun_dry_fire"
+        ]
+    },
+    "buggy.engine_driving": {
+        "category": "player",
+        "sounds": [
+            "expansion:buggy/engine_driving"
+        ]
+    },
+    "buggy.engine_idle": {
+        "category": "player",
+        "sounds": [
+            "expansion:buggy/engine_idle"
+        ]
+    },
+    "rocket.launch": {
+        "category": "player",
+        "sounds": [
+            "expansion:rocket/launch"
+        ]
+    },
+    "spaceship.blaster": {
+        "category": "player",
+        "sounds": [
+            "expansion:spaceship/blaster"
+        ]
+    },
+    "lunarmodule.launch": {
+        "category": "player",
+        "sounds": [
+            "expansion:lunar_module/launch"
+        ]
+    },
+    "portal.transport": {
+        "category": "player",
+        "sounds": [
+            "expansion:portal/transport"
+        ]
+    },
+    "portal.insert_core": {
+        "category": "player",
+        "sounds": [
+            "expansion:portal/insert_core"
+        ]
+    },
+    "extractor.hum": {
+        "category": "player",
+        "sounds": [
+            "expansion:lacrymae_extractor/extractor_hum"
+        ]
+    },
+    "portal.shutdown": {
+        "category": "player",
+        "sounds": [
+            "expansion:portal/shutdown"
+        ]
+    },
+    "portal.humming": {
+        "category": "block",
+        "sounds": [
+            "expansion:portal/humming"
+        ]
+    },
+    "portal.activate": {
+        "category": "player",
+        "sounds": [
+            "expansion:portal/activate"
+        ]
+    },
+    "fleet_finder.ping": {
+        "category": "player",
+        "sounds": [
+            "expansion:fleet_finder/ping"
+        ]
+    },
+    "wrench.create": {
+        "category": "player",
+        "sounds": [
+            "expansion:wrench/create"
+        ]
+    },
+    "gui.button_click": {
+        "category": "block",
+        "sounds": [
+            "expansion:gui/button_click"
+        ]
+    },
+    "rboots.ascend": {
+        "category": "player",
+        "sounds": [
+            "expansion:rocket_boots/rocket_boots"
+        ]
+    },
+    "rboots.beep": {
+        "category": "player",
+        "sounds": [
+            "expansion:rocket_boots/warning_beep"
+        ]
+    },
+    "rboots.turnoff": {
+        "category": "player",
+        "sounds": [
+            "expansion:rocket_boots/turnoff"
+        ]
+    },
+    "teslacoil.zap": {
+        "category": "block",
+        "sounds": [
+            "expansion:tesla_coil/zap"
+        ]
+    },
+    "teslacoil.charge": {
+        "category": "block",
+        "sounds": [
+            "expansion:tesla_coil/charge"
+        ]
+    }
+}

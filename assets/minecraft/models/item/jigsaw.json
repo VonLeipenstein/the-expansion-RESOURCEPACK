@@ -1,0 +1,84 @@
+{
+ "parent": "block/jigsaw",
+ "overrides": [
+  { "predicate": {"custom_model_data": 123456}, "model": "expansion:items/cpu"},
+  { "predicate": {"custom_model_data": 123457}, "model": "expansion:items/buggy_tire"},
+  { "predicate": {"custom_model_data": 123459}, "model": "expansion:items/steel_ingot"},
+  { "predicate": {"custom_model_data": 123460}, "model": "expansion:items/steel_plate"},
+  { "predicate": {"custom_model_data": 123464}, "model": "expansion:items/spaceship_cockpit"},
+  { "predicate": {"custom_model_data": 123465}, "model": "expansion:items/spaceship_engines"},
+  { "predicate": {"custom_model_data": 123466}, "model": "expansion:items/spaceship_right_wing"},
+  { "predicate": {"custom_model_data": 123467}, "model": "expansion:items/spaceship_left_wing"},
+  { "predicate": {"custom_model_data": 123471}, "model": "expansion:items/magnet"},
+  { "predicate": {"custom_model_data": 123472}, "model": "expansion:items/copper_coil"},
+  { "predicate": {"custom_model_data": 123473}, "model": "expansion:items/gear"},
+  { "predicate": {"custom_model_data": 123474}, "model": "expansion:items/electromagnet"},
+  { "predicate": {"custom_model_data": 123475}, "model": "expansion:items/fan"},
+  { "predicate": {"custom_model_data": 123476}, "model": "expansion:items/circuit_board"},
+  { "predicate": {"custom_model_data": 123477}, "model": "expansion:items/simple_mechanism"},
+  { "predicate": {"custom_model_data": 123478}, "model": "expansion:items/complex_mechanism"},
+  { "predicate": {"custom_model_data": 123479}, "model": "expansion:items/thruster"},
+
+
+  { "predicate": {"custom_model_data": 123480}, "model": "expansion:items/equipment_modules/mobility"},
+  { "predicate": {"custom_model_data": 123481}, "model": "expansion:items/equipment_modules/oxygen"},
+  { "predicate": {"custom_model_data": 123482}, "model": "expansion:items/equipment_modules/cooling"},
+  { "predicate": {"custom_model_data": 123483}, "model": "expansion:items/equipment_modules/warming"},
+  { "predicate": {"custom_model_data": 123484}, "model": "expansion:items/equipment_modules/armored"},
+
+  { "predicate": {"custom_model_data": 123485}, "model": "expansion:items/elektromotor"},
+  { "predicate": {"custom_model_data": 123486}, "model": "expansion:items/power_cell"},
+  { "predicate": {"custom_model_data": 123487}, "model": "expansion:items/robot_arm"},
+  { "predicate": {"custom_model_data": 123488}, "model": "expansion:items/amethonium_plate"},
+  { "predicate": {"custom_model_data": 123489}, "model": "expansion:items/cooling_element"},
+  { "predicate": {"custom_model_data": 123490}, "model": "expansion:items/heating_element"},
+  { "predicate": {"custom_model_data": 123491}, "model": "expansion:items/oxygen_filter"},
+
+  { "predicate": {"custom_model_data": 123600}, "model": "expansion:items/raw_titanium"},
+  { "predicate": {"custom_model_data": 123601}, "model": "expansion:items/amethonium_ingot"},
+  { "predicate": {"custom_model_data": 123602}, "model": "expansion:items/vulcanium_shard"},
+  { "predicate": {"custom_model_data": 123603}, "model": "expansion:items/cryonite_crystal"},
+
+  { "predicate": {"custom_model_data": 124400}, "model": "expansion:blocks/compressor_gui"},
+  { "predicate": {"custom_model_data": 124401}, "model": "expansion:gui/gui_filler"},
+  { "predicate": {"custom_model_data": 124402}, "model": "expansion:blocks/enhancer_gui"},
+  { "predicate": {"custom_model_data": 124403}, "model": "expansion:gui/advancements/advancement_thumbnail"},
+  { "predicate": {"custom_model_data": 124404}, "model": "expansion:blocks/fabricator_gui"},
+  { "predicate": {"custom_model_data": 124405}, "model": "expansion:blocks/fabricator_gui_button"},
+  { "predicate": {"custom_model_data": 124406}, "model": "expansion:blocks/fabricator_gui_flash"},
+  { "predicate": {"custom_model_data": 124407}, "model": "expansion:blocks/workbench_gui"},
+  { "predicate": {"custom_model_data": 124408}, "model": "expansion:blocks/workbench_gui_button"},
+  { "predicate": {"custom_model_data": 124409}, "model": "expansion:blocks/enhancer_button"},
+
+  { "predicate": {"custom_model_data": 124410}, "model": "expansion:blocks/arc_furnace_gui"},
+
+  { "predicate": {"custom_model_data": 124411}, "model": "expansion:blocks/terraformer_gui"},
+  { "predicate": {"custom_model_data": 124412}, "model": "expansion:blocks/terraformer_cube_button"},
+  { "predicate": {"custom_model_data": 124413}, "model": "expansion:blocks/terraformer_tree_button"},
+  { "predicate": {"custom_model_data": 124414}, "model": "expansion:blocks/terraformer_particle_button"},
+  { "predicate": {"custom_model_data": 124415}, "model": "expansion:blocks/terraformer_redlight"},
+  { "predicate": {"custom_model_data": 124416}, "model": "expansion:blocks/terraformer_greenlight"},
+
+  { "predicate": {"custom_model_data": 124420}, "model": "expansion:blocks/oxygenator_gui"},
+  { "predicate": {"custom_model_data": 124421}, "model": "expansion:blocks/oxygenator_button_air"},
+  { "predicate": {"custom_model_data": 124422}, "model": "expansion:blocks/oxygenator_button_start"},
+  { "predicate": {"custom_model_data": 124423}, "model": "expansion:blocks/oxygenator_button_sphere"},
+  { "predicate": {"custom_model_data": 124424}, "model": "expansion:blocks/oxygenator_gui_flash"},
+  
+  { "predicate": {"custom_model_data": 124452}, "model": "expansion:blocks/arc_furnace_gui_animated"},
+
+  { "predicate": {"custom_model_data": 124460}, "model": "expansion:blocks/assembler_gui"}, 
+  
+  { "predicate": {"custom_model_data": 125000}, "model": "expansion:mobs/quercus_head"},
+  { "predicate": {"custom_model_data": 125001}, "model": "expansion:mobs/quercus_body_0"},
+  { "predicate": {"custom_model_data": 125002}, "model": "expansion:mobs/quercus_body_1"},
+  { "predicate": {"custom_model_data": 125003}, "model": "expansion:mobs/quercus_body_2"},
+  { "predicate": {"custom_model_data": 125004}, "model": "expansion:mobs/quercus_body_3"},
+
+  { "predicate": {"custom_model_data": 126000}, "model": "expansion:structures/portal_core_blue"},
+  { "predicate": {"custom_model_data": 126001}, "model": "expansion:structures/portal_core_green"},
+  { "predicate": {"custom_model_data": 126002}, "model": "expansion:structures/portal_core_red"},
+  { "predicate": {"custom_model_data": 126003}, "model": "expansion:structures/portal_core_purple"},
+  { "predicate": {"custom_model_data": 126004}, "model": "expansion:structures/portal_core_yellow"}
+ ] 
+}

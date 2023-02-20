@@ -1,0 +1,6 @@
+{
+    "parent": "block/purpur_slab",
+    "overrides": [
+     { "predicate": {"custom_model_data": 123456}, "model": "expansion:blocks/titanium_ore"}
+    ] 
+   }

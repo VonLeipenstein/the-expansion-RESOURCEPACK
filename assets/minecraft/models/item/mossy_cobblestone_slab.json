@@ -1,0 +1,6 @@
+{
+    "parent": "block/mossy_cobblestone_slab",
+    "overrides": [
+     { "predicate": {"custom_model_data": 123456}, "model": "expansion:blocks/cryonite_ore"}
+    ] 
+   }

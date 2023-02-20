@@ -1,0 +1,6 @@
+{
+    "parent": "block/exposed_cut_copper_slab",
+    "overrides": [
+     { "predicate": {"custom_model_data": 123456}, "model": "expansion:blocks/vulcanium_ore"}
+    ] 
+   }

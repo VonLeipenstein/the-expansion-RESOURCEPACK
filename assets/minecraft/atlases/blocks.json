@@ -1,0 +1,54 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "armor",
+            "prefix": "armor/"
+        },
+        {
+            "type": "directory",
+            "source": "blocks",
+            "prefix": "blocks/"
+        },
+        {
+            "type": "directory",
+            "source": "guides",
+            "prefix": "guides/"
+        },
+        {
+            "type": "directory",
+            "source": "items",
+            "prefix": "items/"
+        },
+        {
+            "type": "directory",
+            "source": "statues",
+            "prefix": "statues/"
+        },
+        {
+            "type": "directory",
+            "source": "structures",
+            "prefix": "structures/"
+        },
+        {
+            "type": "directory",
+            "source": "tools",
+            "prefix": "tools/"
+        },
+        {
+            "type": "directory",
+            "source": "vehicles",
+            "prefix": "vehicles/"
+        },
+        {
+            "type": "directory",
+            "source": "weapons",
+            "prefix": "weapons/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
+        }
+    ]
+}
