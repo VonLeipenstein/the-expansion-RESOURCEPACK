@@ -64,6 +64,8 @@
   { "predicate": {"custom_model_data": 124422}, "model": "expansion:blocks/oxygenator_button_start"},
   { "predicate": {"custom_model_data": 124423}, "model": "expansion:blocks/oxygenator_button_sphere"},
   { "predicate": {"custom_model_data": 124424}, "model": "expansion:blocks/oxygenator_gui_flash"},
+
+  { "predicate": {"custom_model_data": 124425}, "model": "expansion:blocks/modification_station_gui"},
   
   { "predicate": {"custom_model_data": 124452}, "model": "expansion:blocks/arc_furnace_gui_animated"},
 
