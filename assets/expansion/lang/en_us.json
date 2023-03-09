@@ -354,5 +354,13 @@
 	"exp_advancement_warmingmod_desc":"Obtain the Warming Module.",
 
 	"exp_advancement_special_thanks_root_title":"Special Thanks",
-	"exp_advancement_special_thanks_root_desc":"To all those who helped me make The Expansion."
+	"exp_advancement_special_thanks_root_desc":"To all those who helped me make The Expansion.",
+
+	"death.attack.zapped":"%1$s's life shockingly came to an end",
+	"death.attack.railgun":"%1$s successfully headbutted a supersonic bullet!",
+	"death.attack.space_freeze":"%1$s froze to death in the cold vacuum of space",
+	"death.attack.space_burn":"%1$s tried to defy the scorching heat of the Sun",
+	"death.attack.space_suffocate":"%1$s forgot that you can't breathe in space...",
+	"death.attack.drone_laser":"%1$s got lasered by a tiny flying space robot",
+	"death.attack.spaceship_blaster":"%1$s couldn't dodge the lasers"
 }
