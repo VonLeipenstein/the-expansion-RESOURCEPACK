@@ -94,6 +94,8 @@
   { "predicate": {"custom_model_data": 1012400}, "model": "expansion:statues/quercus"},
   { "predicate": {"custom_model_data": 1012401}, "model": "expansion:statues/tristan_arthur"},
 
+  { "predicate": {"custom_model_data": 1012410}, "model": "expansion:mobs/drone"},
+
   { "predicate": {"custom_model_data": 1012500}, "model": "expansion:weapons/railgun"},
   
   { "predicate": {"custom_model_data": 1012600}, "model": "expansion:structures/portal_top_new"},
