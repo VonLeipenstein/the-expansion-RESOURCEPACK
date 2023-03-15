@@ -95,6 +95,7 @@
   { "predicate": {"custom_model_data": 1012401}, "model": "expansion:statues/tristan_arthur"},
 
   { "predicate": {"custom_model_data": 1012410}, "model": "expansion:mobs/drone"},
+  { "predicate": {"custom_model_data": 1012411}, "model": "expansion:mobs/pet_drone"},
 
   { "predicate": {"custom_model_data": 1012500}, "model": "expansion:weapons/railgun"},
   

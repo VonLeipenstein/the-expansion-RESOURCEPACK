@@ -18,7 +18,7 @@ out vec4 vertexColor;
 out vec4 normal;
 
 void main() {
-    if((FogColor.g > FogColor.r && FogColor.g > FogColor.b) || approxEquals(FogColor.rgb * 255.0, vec3(255.0, 149.0, 31.0), 1.0)){
+    if((FogColor.g > FogColor.r && FogColor.g > FogColor.b) || approxEquals(FogColor.rgb * 255.0, vec3(255.0, 148.0, 28.0), 1.0)){
         gl_Position =vec4(2.0, 2.0, 2.0, 1.0);
     }
     else
