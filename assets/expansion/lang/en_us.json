@@ -104,6 +104,12 @@
 	"exp_guide1_habitable":"§2§lHabitable \n",
 	"exp_guide1_scorching":"§c§lScorching \n",
 	"exp_guide1_glacial":"§b§lGlacial \n", 
+
+	"exp_drone_cantfind":"] --I can't find any nearby unexplored structures...--",
+	"exp_drone_found":"] --Found it!--",
+	"exp_drone_hithead":"] --Ouch, I bumped my head...--",
+	"exp_drone_toofar":"] --Are you still following me?--",
+	"exp_drone_error":"] --Error! Multiple structures detected--",
 	
 	"exp_armor_equipment_name":"Space Equipment",
 	"exp_lore_tooltips":"§b§nTooltips:",
