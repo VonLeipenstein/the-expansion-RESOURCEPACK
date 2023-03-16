@@ -39,6 +39,8 @@
   { "predicate": {"custom_model_data": 123602}, "model": "expansion:items/vulcanium_shard"},
   { "predicate": {"custom_model_data": 123603}, "model": "expansion:items/cryonite_crystal"},
 
+  { "predicate": {"custom_model_data": 123800}, "model": "expansion:mobs/mod_drone"},
+
   { "predicate": {"custom_model_data": 124400}, "model": "expansion:blocks/compressor_gui"},
   { "predicate": {"custom_model_data": 124401}, "model": "expansion:gui/gui_filler"},
   { "predicate": {"custom_model_data": 124402}, "model": "expansion:blocks/enhancer_gui"},
