@@ -89,6 +89,7 @@
   { "predicate": {"custom_model_data": 1012309}, "model": "expansion:blocks/oxygenator"},
   { "predicate": {"custom_model_data": 1012310}, "model": "expansion:blocks/oxygenator_animated"},
   { "predicate": {"custom_model_data": 1012311}, "model": "expansion:blocks/tesla_coil"},
+  { "predicate": {"custom_model_data": 1012312}, "model": "expansion:blocks/modstation"},
   
 
   { "predicate": {"custom_model_data": 1012400}, "model": "expansion:statues/quercus"},

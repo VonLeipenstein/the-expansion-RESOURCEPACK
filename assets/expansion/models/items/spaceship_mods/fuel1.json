@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "expansion:items/spaceship_mods/spaceship_mod",
+	"textures": {
+		"0": "expansion:items/spaceship_mods/fuel1",
+		"particle": "expansion:items/spaceship_mods/fuel1"
+	}
+}

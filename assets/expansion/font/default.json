@@ -212,6 +212,13 @@
 		},
 		{
             "type": "bitmap",
+            "file": "expansion:guides/basic_guide/teslaturret_displayitem.png",
+			"ascent": 24,
+			"height": 32,
+			"chars": ["\uff29"]
+		},
+		{
+            "type": "bitmap",
             "file": "expansion:guides/basic_guide/rocket_displayitem.png",
 			"ascent": 8,
 			"height": 16,
@@ -699,6 +706,104 @@
 			"ascent": 12,
 			"height": 16,
 			"chars": ["\ufb01"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/tesla_turret_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb02"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/modstation_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb03"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/pet_drone_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb04"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/speedmod1_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb05"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/fuelmod1_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb06"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/monochrome_monitor_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb07"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/monochrome_monitor.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufb08"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/drone_displayitem.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufb09"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/modstation_displayitem.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufb10"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/spaceship_mods/fuel1.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufb11"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/spaceship_mods/speed1.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufb12"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/fuelmod1_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb13"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/speedmod1_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb14"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/ai_core.png",
+			"ascent": 12,
+			"height": 16,
+			"chars": ["\ufb15"]
 		},
 		{
             "type": "bitmap",

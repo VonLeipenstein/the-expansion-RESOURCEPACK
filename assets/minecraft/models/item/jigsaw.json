@@ -33,6 +33,18 @@
   { "predicate": {"custom_model_data": 123489}, "model": "expansion:items/cooling_element"},
   { "predicate": {"custom_model_data": 123490}, "model": "expansion:items/heating_element"},
   { "predicate": {"custom_model_data": 123491}, "model": "expansion:items/oxygen_filter"},
+  { "predicate": {"custom_model_data": 123492}, "model": "expansion:items/ai_core"},
+  { "predicate": {"custom_model_data": 123493}, "model": "expansion:items/monochrome_monitor"},
+
+  { "predicate": {"custom_model_data": 123500}, "model": "expansion:items/spaceship_mods/speed1"},
+  { "predicate": {"custom_model_data": 123501}, "model": "expansion:items/spaceship_mods/speed2"},
+  { "predicate": {"custom_model_data": 123502}, "model": "expansion:items/spaceship_mods/speed3"},
+  { "predicate": {"custom_model_data": 123503}, "model": "expansion:items/spaceship_mods/fuel1"},
+  { "predicate": {"custom_model_data": 123504}, "model": "expansion:items/spaceship_mods/fuel2"},
+  { "predicate": {"custom_model_data": 123505}, "model": "expansion:items/spaceship_mods/fuel3"},
+  { "predicate": {"custom_model_data": 123506}, "model": "expansion:items/spaceship_mods/blaster1"},
+  { "predicate": {"custom_model_data": 123507}, "model": "expansion:items/spaceship_mods/blaster2"},
+  { "predicate": {"custom_model_data": 123508}, "model": "expansion:items/spaceship_mods/blaster3"},
 
   { "predicate": {"custom_model_data": 123600}, "model": "expansion:items/raw_titanium"},
   { "predicate": {"custom_model_data": 123601}, "model": "expansion:items/amethonium_ingot"},
