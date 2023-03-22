@@ -73,9 +73,13 @@
   { "predicate": {"custom_model_data": 1012257}, "model": "expansion:tools/oxygen_tank/oxygen_90"},
   { "predicate": {"custom_model_data": 1012258}, "model": "expansion:tools/oxygen_tank/oxygen_100"},
   
-  { "predicate": {"custom_model_data": 1012297}, "model": "expansion:items/rocket_top"},
-  { "predicate": {"custom_model_data": 1012298}, "model": "expansion:items/rocket_cockpit"},
-  { "predicate": {"custom_model_data": 1012299}, "model": "expansion:items/rocket_bottom"},
+  { "predicate": {"custom_model_data": 1012294}, "model": "expansion:items/rocket_top"},
+  { "predicate": {"custom_model_data": 1012295}, "model": "expansion:items/rocket_cockpit"},
+  { "predicate": {"custom_model_data": 1012296}, "model": "expansion:items/rocket_bottom"},
+
+  { "predicate": {"custom_model_data": 1012297}, "model": "expansion:blocks/rocket_top"},
+  { "predicate": {"custom_model_data": 1012298}, "model": "expansion:blocks/rocket_cockpit"},
+  { "predicate": {"custom_model_data": 1012299}, "model": "expansion:blocks/rocket_bottom"},
 
   { "predicate": {"custom_model_data": 1012300}, "model": "expansion:blocks/workbench"},
   { "predicate": {"custom_model_data": 1012301}, "model": "expansion:blocks/terraformer"},

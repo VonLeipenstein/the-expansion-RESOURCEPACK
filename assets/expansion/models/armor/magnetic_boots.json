@@ -7,9 +7,9 @@
 	"elements": [
 		{
 			"name": "magnetic_boots_0",
-			"from": [4, 4, 8],
-			"to": [7, 13, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [4, 4, 7.5],
+			"to": [7, 13, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [4, 12, 7, 3], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [6, 3, 7, 12], "texture": "#0"},
@@ -21,9 +21,9 @@
 		},
 		{
 			"name": "magnetic_boots_1",
-			"from": [9, 4, 8],
-			"to": [12, 13, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [9, 4, 7.5],
+			"to": [12, 13, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [9, 12, 12, 3], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [11, 3, 12, 12], "texture": "#0"},
@@ -35,9 +35,9 @@
 		},
 		{
 			"name": "magnetic_boots_2",
-			"from": [3, 3, 8],
-			"to": [4, 12, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [3, 3, 7.5],
+			"to": [4, 12, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [3, 13, 4, 4], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [3, 4, 4, 13], "texture": "#0"},
@@ -49,9 +49,9 @@
 		},
 		{
 			"name": "magnetic_boots_3",
-			"from": [12, 3, 8],
-			"to": [13, 12, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [12, 3, 7.5],
+			"to": [13, 12, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [12, 13, 13, 4], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [12, 4, 13, 13], "texture": "#0"},
@@ -63,9 +63,9 @@
 		},
 		{
 			"name": "magnetic_boots_4",
-			"from": [2, 3, 8],
-			"to": [3, 7, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [2, 3, 7.5],
+			"to": [3, 7, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [2, 13, 3, 9], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [2, 9, 3, 13], "texture": "#0"},
@@ -77,9 +77,9 @@
 		},
 		{
 			"name": "magnetic_boots_5",
-			"from": [13, 3, 8],
-			"to": [14, 7, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [13, 3, 7.5],
+			"to": [14, 7, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [13, 13, 14, 9], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [13, 9, 14, 13], "texture": "#0"},
@@ -91,9 +91,9 @@
 		},
 		{
 			"name": "magnetic_boots_6",
-			"from": [1, 3, 8],
-			"to": [2, 6, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [1, 3, 7.5],
+			"to": [2, 6, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [1, 13, 2, 10], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [1, 10, 2, 13], "texture": "#0"},
@@ -105,9 +105,9 @@
 		},
 		{
 			"name": "magnetic_boots_7",
-			"from": [14, 3, 8],
-			"to": [15, 6, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [14, 3, 7.5],
+			"to": [15, 6, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [14, 13, 15, 10], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [14, 10, 15, 13], "texture": "#0"},
@@ -119,9 +119,9 @@
 		},
 		{
 			"name": "magnetic_boots_8",
-			"from": [4, 3, 8],
-			"to": [5, 4, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [4, 3, 7.5],
+			"to": [5, 4, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [4, 13, 5, 12], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [4, 12, 5, 13], "texture": "#0"},
@@ -133,9 +133,9 @@
 		},
 		{
 			"name": "magnetic_boots_9",
-			"from": [11, 3, 8],
-			"to": [12, 4, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 10.2]},
+			"from": [11, 3, 7.5],
+			"to": [12, 4, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.5, 9.7]},
 			"faces": {
 				"north": {"uv": [11, 13, 12, 12], "rotation": 180, "texture": "#0"},
 				"east": {"uv": [11, 12, 12, 13], "texture": "#0"},
@@ -171,8 +171,9 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
-			"rotation": [0, 180, 0],
-			"translation": [0, 13, 7]
+			"rotation": [90, 0, 0],
+			"translation": [0, -42.4, 0],
+			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
 			"rotation": [0, 180, 0]
@@ -181,7 +182,10 @@
 	"groups": [
 		{
 			"name": "magnetic_boots",
-			"origin": [8, 8, 8],
+			"origin": [8, 8, 7.5],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 		}
 	]

@@ -807,6 +807,34 @@
 		},
 		{
             "type": "bitmap",
+            "file": "expansion:armor/magnetic_boots.png",
+			"ascent": 10,
+			"height": 16,
+			"chars": ["\ufb16"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:armor/rocket_boots.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": ["\ufb17"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/magnetic_boots_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb18"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/rocket_boots_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb19"]
+		},
+		{
+            "type": "bitmap",
             "file": "expansion:guides/basic_guide/landscapes/moon_landscape.png",
 			"ascent": 12,
 			"height": 56,
