@@ -37,6 +37,7 @@
   { "predicate": {"custom_model_data": 1012023}, "model": "expansion:vehicles/zwaluw/zwaluw_landed"},
 
   { "predicate": {"custom_model_data": 1012050}, "model": "expansion:structures/assembler_item"},
+  { "predicate": {"custom_model_data": 1012051}, "model": "expansion:structures/assembler_advancement"},
 
   { "predicate": {"custom_model_data": 1012100}, "model": "expansion:armor/space_equipment/space_jetpack_blue"},
   { "predicate": {"custom_model_data": 1012101}, "model": "expansion:armor/space_equipment/space_jetpack_black"},
