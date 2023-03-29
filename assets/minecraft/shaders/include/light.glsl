@@ -62,7 +62,8 @@ vec4 minecraft_mix_light(vec3 lightDir0, vec3 lightDir1, vec3 normal, vec4 color
 }
 
 vec4 minecraft_sample_lightmap(sampler2D lightMap, ivec2 uv) {
-    if((FogColor.g > FogColor.r && FogColor.g > FogColor.b && !approxEquals(FogColor.rgb * 255.0, vec3(0.0, 0.0, 0.0), 1.0)) || approxEquals(FogColor.rgb * 255.0, vec3(255.0, 149.0, 31.0), 1.0)){ // run custom lighting on planets
+    //custom lighting on planets, this doesn't include space and makes an exception for the soulsand valley. 
+    if((FogColor.g > FogColor.r && FogColor.g > FogColor.b && !approxEquals(FogColor.rgb * 255.0, vec3(0.0, 0.0, 0.0), 1.0) && !approxEquals(FogColor.rgb * 255.0, vec3(25.0, 64.0, 62.0), 8.0)) || approxEquals(FogColor.rgb * 255.0, vec3(255.0, 149.0, 31.0), 1.0)){
         int PixelIndex = uv.x/16 + uv.y / 16 * 16;
         vec4 light = mix(clamp(darkPalette[lightmapDark[PixelIndex]] / 255.0, 0.1, 16.0), clamp(lightPalette[lightmapLight[PixelIndex]] / 255.0, 0.1, 16.0), clamp(2*sin((Pi*DayLength(FogColor) + Pi)) + 0.5, 0.0, 1.0));
         return light;
