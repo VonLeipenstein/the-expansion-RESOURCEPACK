@@ -63,9 +63,7 @@
   { "predicate": {"custom_model_data": 124407}, "model": "expansion:blocks/workbench_gui"},
   { "predicate": {"custom_model_data": 124408}, "model": "expansion:blocks/workbench_gui_button"},
   { "predicate": {"custom_model_data": 124409}, "model": "expansion:blocks/enhancer_button"},
-
   { "predicate": {"custom_model_data": 124410}, "model": "expansion:blocks/arc_furnace_gui"},
-
   { "predicate": {"custom_model_data": 124411}, "model": "expansion:blocks/terraformer_gui"},
   { "predicate": {"custom_model_data": 124412}, "model": "expansion:blocks/terraformer_cube_button"},
   { "predicate": {"custom_model_data": 124413}, "model": "expansion:blocks/terraformer_tree_button"},
@@ -84,7 +82,25 @@
   { "predicate": {"custom_model_data": 124452}, "model": "expansion:blocks/arc_furnace_gui_animated"},
 
   { "predicate": {"custom_model_data": 124460}, "model": "expansion:blocks/assembler_gui"}, 
-  
+
+  { "predicate": {"custom_model_data": 124470}, "model": "expansion:blocks/fabricator_gui_loader/loader_0"}, 
+  { "predicate": {"custom_model_data": 124471}, "model": "expansion:blocks/fabricator_gui_loader/loader_1"}, 
+  { "predicate": {"custom_model_data": 124472}, "model": "expansion:blocks/fabricator_gui_loader/loader_2"}, 
+  { "predicate": {"custom_model_data": 124473}, "model": "expansion:blocks/fabricator_gui_loader/loader_3"}, 
+  { "predicate": {"custom_model_data": 124474}, "model": "expansion:blocks/fabricator_gui_loader/loader_4"}, 
+  { "predicate": {"custom_model_data": 124475}, "model": "expansion:blocks/fabricator_gui_loader/loader_5"}, 
+  { "predicate": {"custom_model_data": 124476}, "model": "expansion:blocks/fabricator_gui_loader/loader_6"}, 
+  { "predicate": {"custom_model_data": 124477}, "model": "expansion:blocks/fabricator_gui_loader/loader_7"}, 
+  { "predicate": {"custom_model_data": 124478}, "model": "expansion:blocks/fabricator_gui_loader/loader_8"}, 
+  { "predicate": {"custom_model_data": 124479}, "model": "expansion:blocks/fabricator_gui_loader/loader_9"}, 
+  { "predicate": {"custom_model_data": 124480}, "model": "expansion:blocks/fabricator_gui_loader/loader_10"}, 
+  { "predicate": {"custom_model_data": 124481}, "model": "expansion:blocks/fabricator_gui_loader/loader_11"}, 
+  { "predicate": {"custom_model_data": 124482}, "model": "expansion:blocks/fabricator_gui_loader/loader_12"}, 
+  { "predicate": {"custom_model_data": 124483}, "model": "expansion:blocks/fabricator_gui_loader/loader_13"}, 
+  { "predicate": {"custom_model_data": 124484}, "model": "expansion:blocks/fabricator_gui_loader/loader_14"}, 
+  { "predicate": {"custom_model_data": 124485}, "model": "expansion:blocks/fabricator_gui_loader/loader_15"}, 
+  { "predicate": {"custom_model_data": 124486}, "model": "expansion:blocks/fabricator_gui_loader/loader_16"}, 
+    
   { "predicate": {"custom_model_data": 125000}, "model": "expansion:mobs/quercus_head"},
   { "predicate": {"custom_model_data": 125001}, "model": "expansion:mobs/quercus_body_0"},
   { "predicate": {"custom_model_data": 125002}, "model": "expansion:mobs/quercus_body_1"},
