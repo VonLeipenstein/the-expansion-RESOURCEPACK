@@ -9,6 +9,7 @@
   { "predicate": {"custom_model_data": 123465}, "model": "expansion:items/spaceship_engines"},
   { "predicate": {"custom_model_data": 123466}, "model": "expansion:items/spaceship_right_wing"},
   { "predicate": {"custom_model_data": 123467}, "model": "expansion:items/spaceship_left_wing"},
+  { "predicate": {"custom_model_data": 123468}, "model": "expansion:items/spaceship_nose"},
   { "predicate": {"custom_model_data": 123471}, "model": "expansion:items/magnet"},
   { "predicate": {"custom_model_data": 123472}, "model": "expansion:items/copper_coil"},
   { "predicate": {"custom_model_data": 123473}, "model": "expansion:items/gear"},
