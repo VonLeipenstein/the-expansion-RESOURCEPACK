@@ -892,7 +892,7 @@
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/frontpage.png",
-			"ascent": 32,
+			"ascent": 35,
 			"height": 64,
 			"chars": ["\ufa10"]
 		},
