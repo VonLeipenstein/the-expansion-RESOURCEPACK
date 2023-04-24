@@ -1,0 +1,58 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/cyan_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "expansion:blocks/fabricator/arm_z"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "expansion:blocks/fabricator/nozzle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "expansion:blocks/fabricator/arm_x"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "expansion:blocks/fabricator/frame"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "expansion:blocks/fabricator/product"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "expansion:blocks/fabricator/bone2"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"fabricator": {
+				"used_ids": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6
+				]
+			}
+		}
+	}
+}
