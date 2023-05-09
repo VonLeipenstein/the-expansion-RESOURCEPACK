@@ -1,0 +1,181 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/orange_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "expansion:vehicles/mech/hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "expansion:vehicles/mech/arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "expansion:vehicles/mech/arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "expansion:vehicles/mech/hand2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "expansion:vehicles/mech/arm_low2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "expansion:vehicles/mech/arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "expansion:vehicles/mech/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "expansion:vehicles/mech/foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "expansion:vehicles/mech/leg_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "expansion:vehicles/mech/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "expansion:vehicles/mech/leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "expansion:vehicles/mech/foot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "expansion:vehicles/mech/leg_low2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "expansion:vehicles/mech/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "expansion:vehicles/mech/leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "expansion:vehicles/mech/hips"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "expansion:vehicles/mech_torso/hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "expansion:vehicles/mech_torso/arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "expansion:vehicles/mech_torso/arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "expansion:vehicles/mech_torso/hand2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "expansion:vehicles/mech_torso/arm_low2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "expansion:vehicles/mech_torso/arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "expansion:vehicles/mech_torso/torso"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"mech": {
+				"used_ids": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					13,
+					14,
+					15,
+					16
+				]
+			},
+			"mech_torso": {
+				"used_ids": [
+					17,
+					18,
+					19,
+					20,
+					21,
+					22,
+					23
+				]
+			}
+		}
+	}
+}
