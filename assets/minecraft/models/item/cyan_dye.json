@@ -8,35 +8,41 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "expansion:blocks/fabricator/arm_z"
+			"model": "item/animated_java_empty"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "expansion:blocks/fabricator/nozzle"
+			"model": "expansion:blocks/fabricator/arm_z"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "expansion:blocks/fabricator/arm_x"
+			"model": "expansion:blocks/fabricator/nozzle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "expansion:blocks/fabricator/frame"
+			"model": "expansion:blocks/fabricator/arm_x"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "expansion:blocks/fabricator/product"
+			"model": "expansion:blocks/fabricator/frame"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
+			},
+			"model": "expansion:blocks/fabricator/product"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
 			},
 			"model": "expansion:blocks/fabricator/bone2"
 		}
@@ -45,12 +51,12 @@
 		"rigs": {
 			"fabricator": {
 				"used_ids": [
-					1,
 					2,
 					3,
 					4,
 					5,
-					6
+					6,
+					7
 				]
 			}
 		}

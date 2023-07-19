@@ -8,215 +8,221 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "expansion:structures/bone21"
+			"model": "item/animated_java_empty"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "expansion:structures/arm4"
+			"model": "expansion:structures/bone21"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "expansion:structures/small_arm_base4"
+			"model": "expansion:structures/arm4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "expansion:structures/bone25"
+			"model": "expansion:structures/small_arm_base4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "expansion:structures/bone16"
+			"model": "expansion:structures/bone25"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "expansion:structures/arm3"
+			"model": "expansion:structures/bone16"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "expansion:structures/small_arm_base3"
+			"model": "expansion:structures/arm3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "expansion:structures/bone15"
+			"model": "expansion:structures/small_arm_base3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 9
 			},
-			"model": "expansion:structures/bone26"
+			"model": "expansion:structures/bone15"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "expansion:structures/arm5"
+			"model": "expansion:structures/bone26"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "expansion:structures/small_arm_base5"
+			"model": "expansion:structures/arm5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 12
 			},
-			"model": "expansion:structures/bone20"
+			"model": "expansion:structures/small_arm_base5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 13
 			},
-			"model": "expansion:structures/bone11"
+			"model": "expansion:structures/bone20"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "expansion:structures/arm2"
+			"model": "expansion:structures/bone11"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "expansion:structures/small_arm_base2"
+			"model": "expansion:structures/arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "expansion:structures/bone2"
+			"model": "expansion:structures/small_arm_base2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "expansion:structures/ring"
+			"model": "expansion:structures/bone2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "expansion:structures/wheel"
+			"model": "expansion:structures/ring"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "expansion:structures/wheel2"
+			"model": "expansion:structures/wheel"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "expansion:structures/rails"
+			"model": "expansion:structures/wheel2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "expansion:structures/wheel3"
+			"model": "expansion:structures/rails"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "expansion:structures/wheel4"
+			"model": "expansion:structures/wheel3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 23
 			},
-			"model": "expansion:structures/rails2"
+			"model": "expansion:structures/wheel4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "expansion:structures/bone6"
+			"model": "expansion:structures/rails2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "expansion:structures/bone5"
+			"model": "expansion:structures/bone6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "expansion:structures/bone4"
+			"model": "expansion:structures/bone5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 27
 			},
-			"model": "expansion:structures/bone3"
+			"model": "expansion:structures/bone4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 28
 			},
-			"model": "expansion:structures/octagon"
+			"model": "expansion:structures/bone3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 29
 			},
-			"model": "expansion:structures/machine_arm_root"
+			"model": "expansion:structures/octagon"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 30
 			},
-			"model": "expansion:structures/bone10"
+			"model": "expansion:structures/machine_arm_root"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 31
 			},
-			"model": "expansion:structures/bone9"
+			"model": "expansion:structures/bone10"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 32
 			},
-			"model": "expansion:structures/bone8"
+			"model": "expansion:structures/bone9"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 33
 			},
-			"model": "expansion:structures/bone7"
+			"model": "expansion:structures/bone8"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 34
 			},
-			"model": "expansion:structures/octagon2"
+			"model": "expansion:structures/bone7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 35
 			},
-			"model": "expansion:structures/machine_arm_root2"
+			"model": "expansion:structures/octagon2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 36
+			},
+			"model": "expansion:structures/machine_arm_root2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
 			},
 			"model": "expansion:structures/base"
 		}
@@ -225,7 +231,6 @@
 		"rigs": {
 			"assembler": {
 				"used_ids": [
-					1,
 					2,
 					3,
 					4,
@@ -260,7 +265,8 @@
 					33,
 					34,
 					35,
-					36
+					36,
+					37
 				]
 			}
 		}
