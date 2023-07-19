@@ -1,0 +1,31 @@
+{
+    "version": "0.4.6",
+    "projects": {
+        "d68c518c-4056-0acb-9030-c64217b5d9a5": {
+            "project_name": "mech_legs",
+            "file_list": [
+                "foot.json",
+                "leg_low.json",
+                "bone4.json",
+                "leg.json",
+                "foot2.json",
+                "leg_low2.json",
+                "bone3.json",
+                "leg2.json",
+                "hips.json"
+            ]
+        },
+        "b0d79810-d670-e2bd-a364-96ab5b6e1718": {
+            "project_name": "mech_torso",
+            "file_list": [
+                "hand.json",
+                "arm_low.json",
+                "arm.json",
+                "hand2.json",
+                "arm_low2.json",
+                "arm2.json",
+                "torso.json"
+            ]
+        }
+    }
+}

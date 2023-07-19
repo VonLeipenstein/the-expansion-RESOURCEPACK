@@ -8,53 +8,59 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "expansion:vehicles/mech_legs/foot"
+			"model": "item/animated_java_empty"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "expansion:vehicles/mech_legs/leg_low"
+			"model": "expansion:vehicles/mech_legs/foot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "expansion:vehicles/mech_legs/bone4"
+			"model": "expansion:vehicles/mech_legs/leg_low"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "expansion:vehicles/mech_legs/leg"
+			"model": "expansion:vehicles/mech_legs/bone4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "expansion:vehicles/mech_legs/foot2"
+			"model": "expansion:vehicles/mech_legs/leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "expansion:vehicles/mech_legs/leg_low2"
+			"model": "expansion:vehicles/mech_legs/foot2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "expansion:vehicles/mech_legs/bone3"
+			"model": "expansion:vehicles/mech_legs/leg_low2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "expansion:vehicles/mech_legs/leg2"
+			"model": "expansion:vehicles/mech_legs/bone3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 9
+			},
+			"model": "expansion:vehicles/mech_legs/leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
 			},
 			"model": "expansion:vehicles/mech_legs/hips"
 		}
@@ -63,7 +69,6 @@
 		"rigs": {
 			"mech_legs": {
 				"used_ids": [
-					1,
 					2,
 					3,
 					4,
@@ -71,7 +76,8 @@
 					6,
 					7,
 					8,
-					9
+					9,
+					10
 				]
 			}
 		}
