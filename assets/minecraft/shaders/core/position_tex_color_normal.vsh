@@ -26,7 +26,7 @@ void main() {
     }
     else
     {
-        if(approxEquals(FogColor.rgb * 255.0, vec3(255.0, 144.0, 20.0), 1.0))
+        if(approxEquals(FogColor.rgb * 255.0, vec3(255.0, 148.0, 28.0), 1.0))
         {
             vertexColor = Color * (vec4(255.0, 144.0, 20.0, 50.0) / 255.0);
         }  
