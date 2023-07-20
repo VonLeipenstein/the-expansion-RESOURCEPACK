@@ -18,12 +18,12 @@
         "b0d79810-d670-e2bd-a364-96ab5b6e1718": {
             "project_name": "mech_torso",
             "file_list": [
-                "hand.json",
-                "arm_low.json",
-                "arm.json",
-                "hand2.json",
-                "arm_low2.json",
-                "arm2.json",
+                "left_hand.json",
+                "left_arm_low.json",
+                "left_arm.json",
+                "right_hand2.json",
+                "right_arm_low2.json",
+                "right_arm.json",
                 "torso.json"
             ]
         }

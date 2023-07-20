@@ -104,37 +104,37 @@
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "expansion:vehicles/mech_torso/hand"
+			"model": "expansion:vehicles/mech_torso/left_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "expansion:vehicles/mech_torso/arm_low"
+			"model": "expansion:vehicles/mech_torso/left_arm_low"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "expansion:vehicles/mech_torso/arm"
+			"model": "expansion:vehicles/mech_torso/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "expansion:vehicles/mech_torso/hand2"
+			"model": "expansion:vehicles/mech_torso/right_hand2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "expansion:vehicles/mech_torso/arm_low2"
+			"model": "expansion:vehicles/mech_torso/right_arm_low2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "expansion:vehicles/mech_torso/arm2"
+			"model": "expansion:vehicles/mech_torso/right_arm"
 		},
 		{
 			"predicate": {
