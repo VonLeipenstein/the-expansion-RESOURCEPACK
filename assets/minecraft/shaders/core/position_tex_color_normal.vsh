@@ -18,16 +18,27 @@ out vec4 vertexColor;
 out vec4 normal;
 
 void main() {
-    if((FogColor.g > FogColor.r && FogColor.g > FogColor.b) || approxEquals(FogColor.rgb * 255.0, vec3(255.0, 148.0, 28.0), 1.0)){
-        gl_Position =vec4(2.0, 2.0, 2.0, 1.0);
+    // remove clouds from planets without an atmosphere
+    if((FogColor.g > FogColor.r && FogColor.g > FogColor.b))
+    {
+        gl_Position = vec4(2.0, 2.0, 2.0, 1.0);
+        vertexColor = Color;
     }
     else
     {
+        if(approxEquals(FogColor.rgb * 255.0, vec3(255.0, 144.0, 20.0), 1.0))
+        {
+            vertexColor = Color * (vec4(255.0, 144.0, 20.0, 50.0) / 255.0);
+        }  
+        else
+        {
+            vertexColor = Color;
+        }
         gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+        
     }
     
     texCoord0 = UV0;
     vertexDistance = fog_distance(ModelViewMat, Position, FogShape);
-    vertexColor = Color;
     normal = ProjMat * ModelViewMat * vec4(Normal, 0.0);
 }

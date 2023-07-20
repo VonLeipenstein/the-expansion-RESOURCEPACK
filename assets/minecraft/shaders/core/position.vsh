@@ -21,7 +21,7 @@ out float vertexDistance;
 #define FUDGE 0.004
 
 void main() {
-    if (ProjMat[3][2] != -2.0 && ((FogColor.g > FogColor.r && FogColor.g > FogColor.b) || approxEquals(FogColor.rgb * 255.0, vec3(255.0, 149.0, 31.0), 1.0))) {
+    if (ProjMat[3][2] != -2.0 && (FogColor.g > FogColor.r && FogColor.g > FogColor.b)) {
         vec3 scaledPos = Position;
         ProjInv = inverse(ProjMat * ModelViewMat);
         isSky = 0.0;

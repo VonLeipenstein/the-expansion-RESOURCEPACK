@@ -44,7 +44,7 @@ float noise( in vec3 p )
 }
 
 void main() {
-    if((FogColor.g > FogColor.r && FogColor.g > FogColor.b) || approxEquals(FogColor.rgb * 255.0, vec3(255.0, 149.0, 31.0), 1.0)){
+    if(FogColor.g > FogColor.r && FogColor.g > FogColor.b){
         #moj_import <sky.glsl>
     }
     else{

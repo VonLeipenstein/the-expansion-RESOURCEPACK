@@ -34,9 +34,6 @@ void main() {
         else if (approxEquals(FogColor.rgb * 255.0, vec3(0.0, 0.0, 0.0), 1.0)){
             texCoord0 = vec2(UV0.x,UV0.y/frames+2/frames); //space uv shift
         }
-        else if (approxEquals(FogColor.rgb * 255.0, vec3(255.0, 149.0, 31.0), 1.0)){
-            texCoord0 = vec2(UV0.x,UV0.y/frames+2/frames); //mars uv shift
-        }
         else if (approxEquals(FogColor.rgb * 255.0, vec3(0.0, 6.0, 0.0), 1.0)){
             texCoord0 = vec2(UV0.x,UV0.y/frames+3/frames); //europa uv shift
         }
