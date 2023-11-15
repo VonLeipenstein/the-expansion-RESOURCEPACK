@@ -6,6 +6,13 @@
 	"exp_guide_craftedin":"§o\nCrafted in:  ",
 	"exp_guide_click":"\n§oClick to view recipe.",
 
+	"exp_moonstudy_1":"§7The Moon§f is beautiful tonight! I wonder what it's like to be up there...\nI might learn some new things if I keep watching...\n",
+	"exp_moonstudy_2":"§b§lRevelation 1:§f§r\n§7The Moon§f bears heavy resemblance with... §eCheese?§f \n§b§o[Moon Study Progress: 20%]\n",
+	"exp_moonstudy_3":"§b§lRevelation 2:§f§r\n§7§mThe Moon§f§m is oddly small?§r \n§7The Moon§f seems to be VERY far away. \n§b§o[Moon Study Progress: 40%]\n",
+	"exp_moonstudy_4":"§b§lRevelation 3:§f§r\nI need to travel very fast to espace the §aEarths§f gravitational forces... \n§b§o[Moon Study Progress: 60%]\n",
+	"exp_moonstudy_5":"§b§lRevelation 4:§f§r\nMaybe I can use explosives to blast myself to §7The Moon?§f It's only rocket science after all. \n§b§o[Moon Study Progress: 80%]\n",
+	"exp_moonstudy_6":"The stars revealed their secrets to me! I invented §4§lspacetravel! \n§b§o[Moon Study Progress: 100%]\n",
+
 	"exp_guide1_name":"Guide To Spacetravel",
 	"exp_guide1_title":"§l      Guide To \n    Spacetravel\n",
 	"exp_guide1_desc":"\nThis book will guide you on your journey to the stars.",
