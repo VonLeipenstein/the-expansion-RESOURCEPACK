@@ -18,6 +18,7 @@ out vec4 vertexColor;
 out vec4 normal;
 
 void main() {
+    
     // remove clouds from planets without an atmosphere
     if((FogColor.g > FogColor.r && FogColor.g > FogColor.b))
     {

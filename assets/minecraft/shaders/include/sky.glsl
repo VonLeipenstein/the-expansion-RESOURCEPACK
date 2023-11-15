@@ -20,7 +20,7 @@ if (isSky > 0.5) {
     fragColor = linear_fog(ColorModulator, pow(1.0 - ndusq, 8.0), 0.0, 1.0, FogColor);
 } 
 
-//stars
+// stars
 vec3 stars_direction = normalize(vec3(vdn, vdt, vdb));
 float stars_threshold = 8.0f;
 float stars_exposure = 200.0f;
