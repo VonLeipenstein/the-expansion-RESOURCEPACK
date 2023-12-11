@@ -891,6 +891,13 @@
 		},
 		{
             "type": "bitmap",
+            "file": "expansion:guides/basic_guide/fabricator_infographic.png",
+			"ascent": 8,
+			"height": 56,
+			"chars": ["\ufa06"]
+		},
+		{
+            "type": "bitmap",
             "file": "expansion:guides/basic_guide/frontpage.png",
 			"ascent": 35,
 			"height": 64,

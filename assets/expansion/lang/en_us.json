@@ -70,8 +70,8 @@
 	"exp_guide1_buggy":"§7\n\n---Moon Buggy-----\n",
 
 	"exp_guide1_arcfurnace_tip":"\n§b§oSmelts Alloys!",
-	"exp_guide1_fabricator_tip":"\n§b§oCrafts Items!",
-	"exp_guide1_fabricator_craft":"\n§oCrafting:\nThrow 15 steel ingots,\n5 copper ingots,\n2 diamonds,\nand a crafting table\non the ground.\n\nAlternatively:",
+	"exp_guide1_fabricator_tip":"\n§b§oCrafts Items!\n\n§f§oCrafting: ",
+	"exp_guide1_fabricator_craft":"§oThrow these items \non the ground!\n\nAlternatively:",
 	"exp_guide1_assembler_tip":"\n§b§oAssembles Complex Contraptions!",
 	"exp_guide1_compressor_tip":"\n§b§oFills Oxygen Tanks!",
 	"exp_guide1_oxygenator_tip":"\n§b§oProvides Oxygen in Enclosed Bases!",
