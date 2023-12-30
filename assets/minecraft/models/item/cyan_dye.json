@@ -14,49 +14,259 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "expansion:blocks/fabricator/arm_z"
+			"model": "expansion:structures/assembler/bone21"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "expansion:blocks/fabricator/nozzle"
+			"model": "expansion:structures/assembler/arm4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "expansion:blocks/fabricator/arm_x"
+			"model": "expansion:structures/assembler/small_arm_base4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "expansion:blocks/fabricator/frame"
+			"model": "expansion:structures/assembler/bone25"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "expansion:blocks/fabricator/product"
+			"model": "expansion:structures/assembler/bone16"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "expansion:blocks/fabricator/bone2"
+			"model": "expansion:structures/assembler/arm3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "expansion:structures/assembler/small_arm_base3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "expansion:structures/assembler/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "expansion:structures/assembler/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "expansion:structures/assembler/arm5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "expansion:structures/assembler/small_arm_base5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "expansion:structures/assembler/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "expansion:structures/assembler/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "expansion:structures/assembler/arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "expansion:structures/assembler/small_arm_base2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "expansion:structures/assembler/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "expansion:structures/assembler/ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "expansion:structures/assembler/wheel"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "expansion:structures/assembler/wheel2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "expansion:structures/assembler/rails"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "expansion:structures/assembler/wheel3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "expansion:structures/assembler/wheel4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "expansion:structures/assembler/rails2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "expansion:structures/assembler/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "expansion:structures/assembler/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "expansion:structures/assembler/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "expansion:structures/assembler/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "expansion:structures/assembler/octagon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "expansion:structures/assembler/machine_arm_root"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "expansion:structures/assembler/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "expansion:structures/assembler/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "expansion:structures/assembler/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "expansion:structures/assembler/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "expansion:structures/assembler/octagon2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "expansion:structures/assembler/machine_arm_root2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "expansion:structures/assembler/base"
 		}
 	],
 	"animated_java": {
 		"rigs": {
-			"fabricator": {
+			"assembler": {
 				"used_ids": [
 					2,
 					3,
 					4,
 					5,
 					6,
-					7
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					13,
+					14,
+					15,
+					16,
+					17,
+					18,
+					19,
+					20,
+					21,
+					22,
+					23,
+					24,
+					25,
+					26,
+					27,
+					28,
+					29,
+					30,
+					31,
+					32,
+					33,
+					34,
+					35,
+					36,
+					37
 				]
 			}
 		}
