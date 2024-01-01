@@ -200,7 +200,7 @@
 	"exp_blocks_oxygenator_guitip4":"All solid blocks count as airtight.",
 	"exp_blocks_oxygenator_guitip5":"Requires leaves to work.",
 	"exp_blocks_oxygenator_button_pressure":"Pressurize Room",
-	"exp_blocks_oxygenator_button_depressure":"de-pressurize Room",
+	"exp_blocks_oxygenator_button_depressure":"De-pressurize Room",
 	"exp_blocks_oxygenator_button_air":"Display Air",
 	"exp_blocks_oxygenator_button_sphere":"Display 20-Radius Sphere",
 

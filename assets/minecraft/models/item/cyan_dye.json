@@ -225,6 +225,42 @@
 				"custom_model_data": 37
 			},
 			"model": "expansion:structures/assembler/base"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "expansion:blocks/fabricator/arm_z"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "expansion:blocks/fabricator/nozzle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "expansion:blocks/fabricator/arm_x"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "expansion:blocks/fabricator/frame"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "expansion:blocks/fabricator/product"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "expansion:blocks/fabricator/bone2"
 		}
 	],
 	"animated_java": {
@@ -267,6 +303,16 @@
 					35,
 					36,
 					37
+				]
+			},
+			"fabricator": {
+				"used_ids": [
+					38,
+					39,
+					40,
+					41,
+					42,
+					43
 				]
 			}
 		}
