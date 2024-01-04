@@ -4765,7 +4765,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
-			"translation": [0, 2.5, 60.75],
+			"translation": [0, -5, 60.75],
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
@@ -4779,7 +4779,6 @@
 			"origin": [8.81075, 6.5, 1.76956],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -4843,7 +4842,6 @@
 			"origin": [0, 0, 0],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				55,
 				56,
@@ -4970,7 +4968,6 @@
 			"origin": [8, 8, 8],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184]
 		},
 		{
@@ -4978,7 +4975,6 @@
 			"origin": [0, 0, 0],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				185,
 				186,
@@ -5076,7 +5072,6 @@
 			"origin": [8.81075, 6.5, 1.76956],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				274,
 				275,
@@ -5140,7 +5135,6 @@
 			"origin": [8, 8, 8],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [329, 330, 331, 332]
 		},
 		{
@@ -5148,7 +5142,6 @@
 			"origin": [8, 8, 8],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344]
 		},
 		{
@@ -5156,7 +5149,6 @@
 			"origin": [3.25, 16.03671, -10.73334],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363]
 		}
 	]
