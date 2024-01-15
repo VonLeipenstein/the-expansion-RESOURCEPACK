@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "expansion:vehicles/mech_torso/mech"
+		"0": "expansion:vehicles/mech/mech"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "expansion:vehicles/mech_legs/mech"
+		"0": "expansion:vehicles/mech/mech"
 	},
 	"elements": [
 		{
@@ -391,7 +391,7 @@
 		{
 			"from": [
 				6,
-				-9.485230000000001,
+				-9.485229999999998,
 				-6.69059
 			],
 			"to": [
