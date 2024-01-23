@@ -1,0 +1,7 @@
+{
+	"parent": "expansion:vehicles/mech_torso/drill_right",
+	"textures": {
+		"1": "expansion:vehicles/mech_torso/blank",
+		"5": "expansion:vehicles/mech_torso/blank"
+	}
+}

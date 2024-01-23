@@ -1,0 +1,7 @@
+{
+	"parent": "expansion:vehicles/mech_torso/blaster_left",
+	"textures": {
+		"1": "expansion:vehicles/mech_torso/blank",
+		"3": "expansion:vehicles/mech_torso/blank"
+	}
+}

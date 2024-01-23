@@ -320,43 +320,625 @@
 			"predicate": {
 				"custom_model_data": 53
 			},
-			"model": "expansion:vehicles/mech_torso/left_hand"
+			"model": "expansion:vehicles/mech_torso/sword_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 54
 			},
-			"model": "expansion:vehicles/mech_torso/left_arm_low"
+			"model": "expansion:vehicles/mech_torso/blaster_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 55
 			},
-			"model": "expansion:vehicles/mech_torso/left_arm"
+			"model": "expansion:vehicles/mech_torso/drill_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 56
 			},
-			"model": "expansion:vehicles/mech_torso/right_hand2"
+			"model": "expansion:vehicles/mech_torso/left_hand"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 57
 			},
-			"model": "expansion:vehicles/mech_torso/right_arm_low2"
+			"model": "expansion:vehicles/mech_torso/left_arm_low"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 58
 			},
-			"model": "expansion:vehicles/mech_torso/right_arm"
+			"model": "expansion:vehicles/mech_torso/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 59
 			},
+			"model": "expansion:vehicles/mech_torso/drill_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "expansion:vehicles/mech_torso/blaster_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "expansion:vehicles/mech_torso/sword_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "expansion:vehicles/mech_torso/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 63
+			},
+			"model": "expansion:vehicles/mech_torso/right_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 64
+			},
+			"model": "expansion:vehicles/mech_torso/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
 			"model": "expansion:vehicles/mech_torso/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 66
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/sword_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/blaster_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/drill_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/left_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/drill_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/blaster_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/sword_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/right_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "expansion:vehicles/mech_torso/empty_left/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/sword_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/blaster_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/drill_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 82
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 83
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/left_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 84
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 85
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/drill_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 86
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/blaster_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 87
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/sword_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 88
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 89
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/right_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 90
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 91
+			},
+			"model": "expansion:vehicles/mech_torso/empty_right/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 92
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/sword_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 93
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/blaster_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 94
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/drill_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 95
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 96
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/left_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 97
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 98
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/drill_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 99
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/blaster_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 100
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/sword_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 102
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/right_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 103
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 104
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_l/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 105
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/sword_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 106
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/blaster_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 107
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/drill_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 108
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 109
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/left_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 110
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 111
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/drill_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 112
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/blaster_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 113
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/sword_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 114
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 115
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/right_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 116
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 117
+			},
+			"model": "expansion:vehicles/mech_torso/hold_blaster_r/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 118
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/sword_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 119
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/blaster_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 120
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/drill_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 121
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 122
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/left_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 123
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 124
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/drill_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 125
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/blaster_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 126
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/sword_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 127
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 128
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/right_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 129
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 130
+			},
+			"model": "expansion:vehicles/mech_torso/hold_drills/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 131
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/sword_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 132
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/blaster_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 133
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/drill_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 134
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 135
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/left_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 136
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 137
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/drill_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 138
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/blaster_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 139
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/sword_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 140
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 141
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/right_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 142
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 143
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_l/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 144
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/sword_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 145
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/blaster_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 146
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/drill_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 147
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 148
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/left_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 149
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 150
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/drill_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 151
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/blaster_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 152
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/sword_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 153
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 154
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/right_arm_low"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 155
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 156
+			},
+			"model": "expansion:vehicles/mech_torso/hold_sword_r/torso"
 		}
 	],
 	"animated_java": {
@@ -432,7 +1014,104 @@
 					56,
 					57,
 					58,
-					59
+					59,
+					60,
+					61,
+					62,
+					63,
+					64,
+					65,
+					66,
+					67,
+					68,
+					69,
+					70,
+					71,
+					72,
+					73,
+					74,
+					75,
+					76,
+					77,
+					78,
+					79,
+					80,
+					81,
+					82,
+					83,
+					84,
+					85,
+					86,
+					87,
+					88,
+					89,
+					90,
+					91,
+					92,
+					93,
+					94,
+					95,
+					96,
+					97,
+					98,
+					99,
+					100,
+					101,
+					102,
+					103,
+					104,
+					105,
+					106,
+					107,
+					108,
+					109,
+					110,
+					111,
+					112,
+					113,
+					114,
+					115,
+					116,
+					117,
+					118,
+					119,
+					120,
+					121,
+					122,
+					123,
+					124,
+					125,
+					126,
+					127,
+					128,
+					129,
+					130,
+					131,
+					132,
+					133,
+					134,
+					135,
+					136,
+					137,
+					138,
+					139,
+					140,
+					141,
+					142,
+					143,
+					144,
+					145,
+					146,
+					147,
+					148,
+					149,
+					150,
+					151,
+					152,
+					153,
+					154,
+					155,
+					156
 				]
 			}
 		}

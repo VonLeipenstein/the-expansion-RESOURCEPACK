@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"3": "expansion:vehicles/mech_torso/blaster_left"
+	},
+	"elements": [
+		{
+			"from": [
+				8,
+				-15,
+				2
+			],
+			"to": [
+				10,
+				6,
+				13
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						5.25,
+						0.5,
+						10.5
+					],
+					"texture": "#3"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						2.75,
+						5.25
+					],
+					"texture": "#3"
+				},
+				"south": {
+					"uv": [
+						0.5,
+						5.25,
+						1,
+						10.5
+					],
+					"texture": "#3"
+				},
+				"west": {
+					"uv": [
+						2.75,
+						0,
+						5.5,
+						5.25
+					],
+					"texture": "#3"
+				},
+				"up": {
+					"uv": [
+						1.5,
+						8,
+						1,
+						5.25
+					],
+					"texture": "#3"
+				},
+				"down": {
+					"uv": [
+						2,
+						5.25,
+						1.5,
+						8
+					],
+					"texture": "#3"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
