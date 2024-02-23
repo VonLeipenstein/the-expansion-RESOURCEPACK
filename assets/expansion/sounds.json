@@ -155,5 +155,47 @@
             "expansion:mobs/pet_drone/success",
             "expansion:mobs/pet_drone/error"
         ]
+    },
+    "mech.step": {
+        "category": "neutral",
+        "sounds": [
+            "expansion:mech/step"
+        ]
+    },
+    "mech.missile": {
+        "category": "neutral",
+        "sounds": [
+            "expansion:mech/missile"
+        ]
+    },
+    "mech.minigun.shot": {
+        "category": "neutral",
+        "sounds": [
+            "expansion:mech/minigunshot2"
+        ]
+    },
+    "mech.minigun.loop": {
+        "category": "neutral",
+        "sounds": [
+            "expansion:mech/minigun_loop"
+        ]
+    },
+    "mech.minigun.warmup": {
+        "category": "neutral",
+        "sounds": [
+            "expansion:mech/minigun_warmup"
+        ]
+    },
+    "mech.minigun.spinoff": {
+        "category": "neutral",
+        "sounds": [
+            "expansion:mech/minigun_spinoff"
+        ]
+    },
+    "mech.drill.loop": {
+        "category": "neutral",
+        "sounds": [
+            "expansion:mech/drill_loop"
+        ]
     }
 }

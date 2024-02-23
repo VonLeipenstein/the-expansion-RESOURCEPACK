@@ -36,6 +36,7 @@
 	 { "predicate": {"custom_model_data": 123491}, "model": "expansion:items/oxygen_filter"},
 	 { "predicate": {"custom_model_data": 123492}, "model": "expansion:items/ai_core"},
 	 { "predicate": {"custom_model_data": 123493}, "model": "expansion:items/monochrome_monitor"},
+	 { "predicate": {"custom_model_data": 123494}, "model": "expansion:weapons/missile"},
    
 	 { "predicate": {"custom_model_data": 123500}, "model": "expansion:items/spaceship_mods/speed1"},
 	 { "predicate": {"custom_model_data": 123501}, "model": "expansion:items/spaceship_mods/speed2"},
