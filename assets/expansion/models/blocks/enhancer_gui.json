@@ -37,7 +37,7 @@
 			"scale": [0, 0, 0]
 		},
 		"gui": {
-			"translation": [0, 29, 0],
+			"translation": [-18, 29, 0],
 			"scale": [3.66, 3.66, 3.66]
 		},
 		"head": {

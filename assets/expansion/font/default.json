@@ -72,7 +72,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/oxygen_cannister.png",
+            "file": "expansion:tools/oxygen_tank/tier1/10.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff09"]
@@ -151,90 +151,90 @@
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/arc_furnace_displayitem.png",
 			"ascent": 10,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff20"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/fabricator_displayitem.png",
-			"ascent": 20,
-			"height": 32,
+			"ascent": 27,
+			"height": 42.7,
 			"chars": ["\uff21"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/assembler_displayitem.png",
 			"ascent": 21,
-			"height": 42,
+			"height": 74.667,
 			"chars": ["\uff22"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/compressor_displayitem.png",
-			"ascent": 8,
-			"height": 16,
+			"ascent": 29,
+			"height": 42.7,
 			"chars": ["\uff23"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/oxygenator_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff24"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/terraformer_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff25"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/planetarium_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff26"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/extractor_displayitem.png",
-			"ascent": 24,
-			"height": 32,
+			"ascent": 29,
+			"height": 42.7,
 			"chars": ["\uff27"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/enhancer_displayitem.png",
-			"ascent": 8,
-			"height": 16,
+			"ascent": 29,
+			"height": 42.7,
 			"chars": ["\uff28"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/teslaturret_displayitem.png",
-			"ascent": 24,
-			"height": 32,
+			"ascent": 29,
+			"height": 42.7,
 			"chars": ["\uff29"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/rocket_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff30"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/buggy_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff31"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/spaceship_displayitem.png",
-			"ascent": 18,
+			"ascent": 12,
 			"height": 32,
 			"chars": ["\uff32"]
 		},
@@ -242,28 +242,28 @@
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/crafting_table_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff33"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/space_equipment_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff35"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/railgun_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff36"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/cryoblaster_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\uff37"]
 		},
 		{
@@ -275,14 +275,14 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/coolingmodule_displayitem.png",
+            "file": "expansion:items/equipment_modules/cooling.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff39"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/warmingmodule_displayitem.png",
+            "file": "expansion:items/equipment_modules/warming.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff40"]
@@ -403,7 +403,7 @@
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/recipes/oxygen_filter_recipe.png",
 			"ascent": 8,
-			"height": 58,
+			"height": 77,
 			"chars": ["\uff57"]
 		},
 		{
@@ -480,14 +480,14 @@
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/recipes/arc_furnace_recipe.png",
 			"ascent": 8,
-			"height": 58,
+			"height": 77,
 			"chars": ["\uff68"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/recipes/fabricator_recipe.png",
 			"ascent": 8,
-			"height": 58,
+			"height": 77,
 			"chars": ["\uff69"]
 		},
 		{
@@ -536,14 +536,14 @@
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/recipes/enhancer_recipe.png",
 			"ascent": 8,
-			"height": 58,
+			"height": 77,
 			"chars": ["\uff76"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/recipes/space_equipment_recipe.png",
 			"ascent": 8,
-			"height": 58,
+			"height": 77,
 			"chars": ["\uff77"]
 		},
 		{
@@ -648,7 +648,7 @@
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/recipes/spaceship_cockpit_recipe.png",
 			"ascent": 8,
-			"height": 58,
+			"height": 77,
 			"chars": ["\uff92"]
 		},
 		{
@@ -753,7 +753,7 @@
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/recipes/monochrome_monitor_recipe.png",
 			"ascent": 8,
-			"height": 58,
+			"height": 77,
 			"chars": ["\ufb07"]
 		},
 		{
@@ -767,14 +767,14 @@
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/drone_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\ufb09"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/modstation_displayitem.png",
 			"ascent": 8,
-			"height": 16,
+			"height": 21.3,
 			"chars": ["\ufb10"]
 		},
 		{
@@ -902,6 +902,20 @@
 			"ascent": 35,
 			"height": 64,
 			"chars": ["\ufa10"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/10.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa11"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/oxygen_tanktier2_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa12"]
 		}
 	]
 }

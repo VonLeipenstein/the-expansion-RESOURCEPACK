@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "expansion:gui/gui_filler",
-		"particle": "expansion:gui/gui_filler"
+		"0": "expansion:guides/gui_filler",
+		"particle": "expansion:guides/gui_filler"
 	},
 	"elements": [
 		{

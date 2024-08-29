@@ -1,0 +1,9 @@
+{
+	"parent": "animated_java:item/mech_torso/default/barrel_left",
+	"textures": {
+		"2": "animated_java:item/mech_torso/blank",
+		"3": "animated_java:item/mech_torso/blank",
+		"4": "animated_java:item/mech_torso/blank",
+		"5": "animated_java:item/mech_torso/blank"
+	}
+}

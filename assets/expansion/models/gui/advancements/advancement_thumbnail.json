@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "expansion:gui/advancements/advancement_thumbnail",
-		"particle": "expansion:gui/advancements/advancement_thumbnail"
+		"0": "expansion:guides/advancements/advancement_thumbnail",
+		"particle": "expansion:guides/advancements/advancement_thumbnail"
 	},
 	"elements": [
 		{

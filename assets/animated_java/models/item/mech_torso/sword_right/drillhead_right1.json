@@ -1,0 +1,8 @@
+{
+	"parent": "animated_java:item/mech_torso/default/drillhead_right1",
+	"textures": {
+		"2": "animated_java:item/mech_torso/blank",
+		"4": "animated_java:item/mech_torso/blank",
+		"5": "animated_java:item/mech_torso/blank"
+	}
+}

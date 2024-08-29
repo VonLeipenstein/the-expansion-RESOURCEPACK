@@ -81,6 +81,8 @@
    
 	 { "predicate": {"custom_model_data": 124425}, "model": "expansion:blocks/modification_station_gui"},
 	 { "predicate": {"custom_model_data": 124426}, "model": "expansion:blocks/modstation_mech_gui"},
+	 { "predicate": {"custom_model_data": 124427}, "model": "expansion:blocks/modstation_none_gui"},
+	 { "predicate": {"custom_model_data": 124428}, "model": "expansion:blocks/modstation_buggy_gui"},
 	 
 	 { "predicate": {"custom_model_data": 124452}, "model": "expansion:blocks/arc_furnace_gui_animated"},
    

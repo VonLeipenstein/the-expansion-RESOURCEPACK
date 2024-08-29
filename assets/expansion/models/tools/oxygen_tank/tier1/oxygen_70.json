@@ -1,0 +1,7 @@
+{
+    "parent": "expansion:tools/oxygen_tank/oxygen_tank",
+    "textures": {
+		"0": "expansion:tools/oxygen_tank/tier1/70",
+		"particle": "expansion:tools/oxygen_tank/tier1/70"
+    }
+  }
