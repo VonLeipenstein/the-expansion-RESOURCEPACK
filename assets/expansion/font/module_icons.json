@@ -7,6 +7,41 @@
                 "\u200c": 0
             }
         },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/sprites/container/bundle/bundle_progressbar_border.png",
+			"ascent": -12,
+			"height": 16,
+			"chars": ["\ufa00"]
+		},
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/sprites/container/bundle/bundle_progressbar_border.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff00"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/empty_icon.png",
+			"ascent": -12,
+			"height": 16,
+			"chars": ["\ufb00"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/cooling.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff39"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/warming.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff40"]
+		},
         {
             "type": "bitmap",
             "file": "expansion:tools/oxygen_tank/tier1/10.png",
