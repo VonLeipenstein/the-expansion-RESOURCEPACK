@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "expansion:items/gui_filler_visible"
+    }
+}
