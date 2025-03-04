@@ -247,10 +247,23 @@
 	"exp_cntrp_assembler_name":"Assembler",
 	"exp_cntrp_portal_name":"Portal",
 	
+	"exp_modules_lore":"§o§7Modules: ",
+	"exp_modules_ifadded":"§7This Module provides: ",
+	"exp_modules_whenapplied":"§7Apply Modules to suit pieces in the §o§9§lEnhancer",
+
+	"exp_modules_oxygenlvl_lore":"§o§c§lOxygen §r§7Level: ",
+
 	"exp_modules_durability_name":"§fDurability Module",
+	"exp_modules_durability_lore":"§o§7Durability: ",
+
 	"exp_modules_rocket_name":"§fRocket Boots",
+
 	"exp_modules_coldresist_name":"§fCold Resistance Module",
+	"exp_modules_coldresist_lore":"§o§b§lCold§r §7Resistance: ",
+
 	"exp_modules_heatresist_name":"§fHeat Resistance Module",
+	"exp_modules_heatresist_lore":"§o§6§lHeat§r §7Resistance: ",
+
 	"exp_modules_magnetic_name":"§fMagentic Module",
 	"exp_modules_tempmodulator_name":"§fTemperature Modulator",
 	"exp_modules_aquatic_name":"§fAquatic Module",
@@ -406,7 +419,7 @@
 	"exp_screentxt_lowoxygen_title":"low Oxygen!",
 	"exp_screentxt_planetariumerror_title":"Proximity Error!",
 	"exp_screentxt_planetariumerror_subtitle":"Too close to another Planetarium",
-	"exp_screentxt_oxygen_level":"Oxygen Level: ",
+	"exp_screentxt_oxygen_level":"§fOxygen Level: ",
 	"exp_screentxt_buggyoxygen_level":"Buggy oxygen Level: ",
 	"exp_screentxt_position_actionbar":"Position: ",
 	"exp_screentxt_speed_actionbar":"Speed: ",
