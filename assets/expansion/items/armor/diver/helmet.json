@@ -1,0 +1,22 @@
+{
+    "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": 
+        [
+            {
+                "when": "head",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "expansion:armor/helmets/diver",
+                    "tints": []
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "expansion:items/armor/diver/helmet",
+            "tints": []
+        }
+    }
+}
