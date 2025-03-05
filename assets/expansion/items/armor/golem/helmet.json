@@ -5,17 +5,17 @@
         "cases": 
         [
             {
-                "when": "head",
+                "when": "gui",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "expansion:armor/helmets/golem",
+                    "model": "expansion:items/armor/golem/helmet",
                     "tints": []
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "expansion:items/armor/golem/helmet",
+            "model": "expansion:items/armor/golem/helmet_3d",
             "tints": []
         }
     }

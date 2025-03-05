@@ -5,17 +5,17 @@
         "cases": 
         [
             {
-                "when": "head",
+                "when": "gui",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "expansion:armor/helmets/pilot",
+                    "model": "expansion:items/armor/pilot/helmet",
                     "tints": []
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "expansion:items/armor/pilot/helmet",
+            "model": "expansion:items/armor/pilot/helmet_3d",
             "tints": []
         }
     }

@@ -5,17 +5,17 @@
         "cases": 
         [
             {
-                "when": "head",
+                "when": "gui",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "expansion:armor/helmets/trooper",
+                    "model": "expansion:items/armor/trooper/helmet",
                     "tints": []
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "expansion:items/armor/trooper/helmet",
+            "model": "expansion:items/armor/trooper/helmet_3d",
             "tints": []
         }
     }

@@ -5,17 +5,17 @@
         "cases": 
         [
             {
-                "when": "head",
+                "when": "gui",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "expansion:armor/helmets/nasa",
+                    "model": "expansion:items/armor/nasa/helmet",
                     "tints": []
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "expansion:items/armor/nasa/helmet",
+            "model": "expansion:items/armor/nasa/helmet_3d",
             "tints": []
         }
     }

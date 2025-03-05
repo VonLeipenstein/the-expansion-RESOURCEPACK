@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "expansion:items/materials/vulcanium_shard",
+        "model": "expansion:items/vulcanium_shard",
         "tints": []
     }
 }

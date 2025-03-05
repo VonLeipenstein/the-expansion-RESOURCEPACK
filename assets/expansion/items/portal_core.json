@@ -7,41 +7,41 @@
           "when": "blue",
           "model": {
             "type": "minecraft:model",
-            "model": "expansion:items/portal_cores/blue"
+            "model": "expansion:items/blue"
           }
         },
         {
             "when": "green",
             "model": {
               "type": "minecraft:model",
-              "model": "expansion:items/portal_cores/green"
+              "model": "expansion:items/green"
             }
         },
         {
             "when": "purple",
             "model": {
               "type": "minecraft:model",
-              "model": "expansion:items/portal_cores/purple"
+              "model": "expansion:items/purple"
             }
         },
         {
             "when": "red",
             "model": {
               "type": "minecraft:model",
-              "model": "expansion:items/portal_cores/red"
+              "model": "expansion:items/red"
             }
         },
         {
             "when": "yellow",
             "model": {
               "type": "minecraft:model",
-              "model": "expansion:items/portal_cores/yellow"
+              "model": "expansion:items/yellow"
             }
         }
       ],
       "fallback": {
         "type": "minecraft:model",
-        "model": "expansion:items/portal_cores/blue"
+        "model": "expansion:items/blue"
       }
     }
   }

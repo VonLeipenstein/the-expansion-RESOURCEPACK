@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "expansion:items/materials/raw_titanium",
+        "model": "expansion:items/raw_titanium",
         "tints": []
     }
 }
