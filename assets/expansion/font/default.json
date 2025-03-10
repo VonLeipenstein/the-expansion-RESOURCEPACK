@@ -916,6 +916,118 @@
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa12"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/diver/helmet.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa13"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/diver/chestplate.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa14"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/diver/leggings.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa15"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/diver/boots.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa16"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/nasa/helmet.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa17"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/nasa/chestplate.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa18"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/nasa/leggings.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa19"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/nasa/boots.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa20"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk1_helmet_recipe.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa21"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk1_chestplate_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa22"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk1_leggings_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa23"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk1_boots_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa24"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk2_helmet_recipe.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa25"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk2_chestplate_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa26"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk2_leggings_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa27"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk2_boots_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa28"]
 		}
 	]
 }
