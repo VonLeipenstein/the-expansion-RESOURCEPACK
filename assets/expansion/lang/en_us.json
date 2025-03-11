@@ -269,6 +269,9 @@
 	"exp_modules_durability_name":"§fDurability Module",
 	"exp_modules_durability_lore":"§o§7Durability: ",
 
+	"exp_modules_armor_name":"§fArmor Module",
+	"exp_modules_armor_lore":"§o§7Armor: ",
+
 	"exp_modules_rocket_name":"§fRocket Boots",
 
 	"exp_modules_coldresist_name":"§fCold Resistance Module",
