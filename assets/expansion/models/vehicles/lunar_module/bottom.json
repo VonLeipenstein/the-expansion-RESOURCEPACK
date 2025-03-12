@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"1": "expansion:vehicles/lunar_module/lunar_module"
+		"1": "expansion:vehicles/lunar_module/lunar_module",
+		"particle": "expansion:vehicles/lunar_module/lunar_module"
 	},
 	"elements": [
 		{

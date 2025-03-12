@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"1": "expansion:blocks/terraformer/terraformer_gui"
+		"1": "expansion:blocks/terraformer/terraformer_gui",
+		"particle": "expansion:blocks/terraformer/terraformer_gui"
 	},
 	"elements": [
 		{

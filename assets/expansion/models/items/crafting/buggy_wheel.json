@@ -1,7 +1,8 @@
 {
 	"texture_size": [112, 112],
 	"textures": {
-		"1": "expansion:vehicles/buggy/moon_buggy"
+		"1": "expansion:vehicles/buggy/moon_buggy",
+		"particle": "expansion:vehicles/buggy/moon_buggy"
 	},
 	"elements": [
 		{

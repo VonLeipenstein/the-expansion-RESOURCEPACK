@@ -1,7 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "expansion:weapons/railgun/railgun"
+		"1": "expansion:weapons/railgun/railgun",
+		"particle": "expansion:weapons/railgun/railgun"
 	},
 	"elements": [
 		{

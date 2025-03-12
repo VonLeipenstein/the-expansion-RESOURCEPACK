@@ -1,7 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "expansion:blocks/planetarium/planetarium"
+		"1": "expansion:blocks/planetarium/planetarium",
+		"particle": "expansion:blocks/planetarium/planetarium"
 	},
 	"elements": [
 		{

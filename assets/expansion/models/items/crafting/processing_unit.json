@@ -1,7 +1,8 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "expansion:items/processing_unit"
+		"1": "expansion:items/processing_unit",
+		"particle": "expansion:items/processing_unit"
 	},
 	"elements": [
 		{

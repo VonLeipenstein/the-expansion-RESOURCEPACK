@@ -1,7 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"2": "expansion:blocks/tesla_coil/tesla_coil"
+		"2": "expansion:blocks/tesla_coil/tesla_coil",
+		"particle": "expansion:blocks/tesla_coil/tesla_coil"
 	},
 	"elements": [
 		{

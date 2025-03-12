@@ -1,7 +1,8 @@
 {
 	"texture_size": [48, 48],
 	"textures": {
-		"1": "expansion:armor/trader_helmet"
+		"1": "expansion:armor/trader_helmet",
+		"particle": "expansion:armor/trader_helmet"
 	},
 	"elements": [
 		{

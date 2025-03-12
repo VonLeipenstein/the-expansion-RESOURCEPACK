@@ -1,7 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "expansion:blocks/fabricator/fabricator"
+		"1": "expansion:blocks/fabricator/fabricator",
+		"particle": "expansion:blocks/fabricator/fabricator"
 	},
 	"elements": [
 		{

@@ -275,14 +275,14 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/equipment_modules/cooling.png",
+            "file": "expansion:guides/basic_guide/heatresist_mk1_displayitem.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff39"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/equipment_modules/warming.png",
+            "file": "expansion:guides/basic_guide/coldresist_mk1_displayitem.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff40"]
@@ -737,14 +737,14 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/speedmod1_recipe.png",
+            "file": "expansion:guides/basic_guide/recipes/durability_mk1_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb05"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/fuelmod1_recipe.png",
+            "file": "expansion:guides/basic_guide/recipes/durability_mk2_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb06"]
@@ -814,28 +814,28 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:armor/magnetic_boots.png",
-			"ascent": 10,
+            "file": "expansion:guides/basic_guide/magneticmodule_displayitem.png",
+			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufb16"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:armor/rocket_boots.png",
-			"ascent": 7,
+            "file": "expansion:guides/basic_guide/rocketmodule_displayitem.png",
+			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufb17"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/magnetic_boots_recipe.png",
+            "file": "expansion:guides/basic_guide/recipes/magneticmodule_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb18"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/rocket_boots_recipe.png",
+            "file": "expansion:guides/basic_guide/recipes/rocketmodule_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb19"]
@@ -1028,6 +1028,76 @@
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa28"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/coldresist_mk2_displayitem.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa29"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/heatresist_mk2_displayitem.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa30"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/coldresist_mk2_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa31"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/heatresist_mk2_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa32"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/durability_mk1_displayitem.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa33"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/durability_mk2_displayitem.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa34"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/repair_kit.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa35"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/repairkit_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa36"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/thermometer.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa37"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/thermometer_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa38"]
 		}
 	]
 }

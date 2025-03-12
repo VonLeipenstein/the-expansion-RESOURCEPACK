@@ -1,7 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "expansion:vehicles/rocket/rocket_cockpit"
+		"1": "expansion:vehicles/rocket/rocket_cockpit",
+		"particle": "expansion:vehicles/rocket/rocket_cockpit"
 	},
 	"elements": [
 		{

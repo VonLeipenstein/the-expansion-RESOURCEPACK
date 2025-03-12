@@ -1,0 +1,7 @@
+{
+	"parent": "expansion:items/modules/module_template",
+	"textures": {
+		"0": "expansion:items/equipment_modules/mk1_frame",
+		"particle": "expansion:items/equipment_modules/mk1_frame"
+	}
+}

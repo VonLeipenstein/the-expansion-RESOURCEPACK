@@ -1,7 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "expansion:vehicles/rocket/rocket_top"
+		"2": "expansion:vehicles/rocket/rocket_top",
+		"particle": "expansion:vehicles/rocket/rocket_top"
 	},
 	"elements": [
 		{

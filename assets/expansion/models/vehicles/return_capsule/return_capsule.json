@@ -1,7 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "expansion:vehicles/return_capsule/return_capsule"
+		"1": "expansion:vehicles/return_capsule/return_capsule",
+		"particle": "expansion:vehicles/return_capsule/return_capsule"
 	},
 	"elements": [
 		{

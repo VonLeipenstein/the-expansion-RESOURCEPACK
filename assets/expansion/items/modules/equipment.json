@@ -1,47 +1,105 @@
 {
-    "model": {
-      "type": "minecraft:select",
-      "property": "minecraft:custom_model_data",
-      "cases": [
-        {
-          "when": "armored",
-          "model": {
-            "type": "minecraft:model",
-            "model": "expansion:items/modules/equipment/armored"
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "entries": [
+          {
+            "threshold": 1,
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/mk1_frame"
+            }
+          },
+          {
+            "threshold": 2,
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/mk2_frame"
+            }
+          },
+          {
+            "threshold": 3,
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/mk3_frame"
+            }
           }
-        },
-        {
-          "when": "cooling",
-          "model": {
-            "type": "minecraft:model",
-            "model": "expansion:items/modules/equipment/cooling"
-          }
-        },
-        {
-          "when": "mobility",
-          "model": {
-            "type": "minecraft:model",
-            "model": "expansion:items/modules/equipment/mobility"
-          }
-        },
-        {
-          "when": "oxygen",
-          "model": {
-            "type": "minecraft:model",
-            "model": "expansion:items/modules/equipment/oxygen"
-          }
-        },
-        {
-          "when": "warming",
-          "model": {
-            "type": "minecraft:model",
-            "model": "expansion:items/modules/equipment/warming"
-          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "expansion:items/modules/mk1_frame"
         }
-      ],
-      "fallback": {
-        "type": "minecraft:model",
-        "model": "expansion:items/modules/equipment/oxygen"
+      },
+      {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+          {
+            "when": "warming",
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/cold_resistance"
+            }
+          },
+          {
+            "when": "cooling",
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/heat_resistance"
+            }
+          },
+          {
+            "when": "armor",
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/armor"
+            }
+          },
+          {
+            "when": "durability",
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/durability"
+            }
+          },
+          {
+            "when": "speed",
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/speed"
+            }
+          },
+          {
+            "when": "rocket",
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/rocket"
+            }
+          },
+          {
+            "when": "magnetic",
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/magnetic"
+            }
+          },
+          {
+            "when": "slot",
+            "model": {
+              "type": "minecraft:model",
+              "model": "expansion:items/modules/slot"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "expansion:items/modules/cold_resistance"
+        }
       }
-    }
+    ]
   }
+}

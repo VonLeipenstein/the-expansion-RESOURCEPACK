@@ -15,7 +15,7 @@
                 "when": "flash",
                 "model": {
                   "type": "minecraft:model",
-                  "model": "expansion:blocks/oxygenator/gui/animated"
+                  "model": "expansion:blocks/oxygenator/gui/flash"
                 }
               }
             ],

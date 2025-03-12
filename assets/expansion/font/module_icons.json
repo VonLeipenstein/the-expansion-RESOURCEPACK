@@ -10,247 +10,198 @@
 		{
             "type": "bitmap",
             "file": "minecraft:gui/sprites/container/bundle/bundle_progressbar_border.png",
-			"ascent": -12,
+			"ascent": -14,
 			"height": 16,
 			"chars": ["\ufa00"]
 		},
 		{
             "type": "bitmap",
             "file": "minecraft:gui/sprites/container/bundle/bundle_progressbar_border.png",
-			"ascent": 8,
+			"ascent": 6,
 			"height": 16,
 			"chars": ["\uff00"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/empty_icon.png",
-			"ascent": -12,
+            "file": "minecraft:gui/sprites/container/bundle/bundle_progressbar_border.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufb00"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/equipment_modules/cooling.png",
-			"ascent": 8,
+            "file": "expansion:items/equipment_modules/mk1_frame.png",
+			"ascent": 6,
 			"height": 16,
-			"chars": ["\uff39"]
+			"chars": ["\ufb01"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/equipment_modules/warming.png",
-			"ascent": 8,
+            "file": "expansion:items/equipment_modules/mk2_frame.png",
+			"ascent": 6,
+			"height": 16,
+			"chars": ["\ufb02"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/mk3_frame.png",
+			"ascent": 6,
+			"height": 16,
+			"chars": ["\ufb03"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/cold_resistance.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\uff40"]
 		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/heat_resistance.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\uff41"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/armor.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\uff42"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/speed.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\uff43"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/durability.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\uff44"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/magnetic.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\uff45"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/rocket.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\uff46"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/equipment_modules/slot.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\uff47"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/volume/0.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\ufa00"]
+		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/10.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/10.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa01"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/20.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/20.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa02"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/30.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/30.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa03"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/40.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/40.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa04"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/50.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/50.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa05"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/60.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/60.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa06"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/70.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/70.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa07"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/80.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/80.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa08"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/90.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/90.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa09"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/100.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/volume/100.png",
+			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa0a"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/10.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/mk1_frame.png",
+			"ascent": 6,
 			"height": 16,
 			"chars": ["\uff01"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/20.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/mk2_frame.png",
+			"ascent": 6,
 			"height": 16,
 			"chars": ["\uff02"]
 		},
         {
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/30.png",
-			"ascent": 8,
+            "file": "expansion:tools/oxygen_tank/mk3_frame.png",
+			"ascent": 6,
 			"height": 16,
 			"chars": ["\uff03"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/40.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff04"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/50.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff05"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/60.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff06"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/70.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff07"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/80.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff08"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/90.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff09"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/100.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff0a"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/10.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0021"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/20.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0022"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/30.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0023"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/40.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0024"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/50.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0025"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/60.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0026"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/70.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0027"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/80.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0028"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/90.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0029"]
-		},
-        {
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier3/100.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\u0030"]
 		}
 	]
 }

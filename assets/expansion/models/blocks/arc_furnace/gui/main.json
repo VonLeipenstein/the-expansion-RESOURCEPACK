@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"1": "expansion:blocks/arc_furnace/arc_furnace_gui_0"
+		"1": "expansion:blocks/arc_furnace/arc_furnace_gui_0",
+		"particle": "expansion:blocks/arc_furnace/arc_furnace_gui_0"
 	},
 	"elements": [
 		{
