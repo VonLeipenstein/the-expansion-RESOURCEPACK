@@ -1,6 +1,19 @@
 {
     "model": {
-        "type": "minecraft:model",
-        "model": "expansion:items/gui_filler_visible"
+        "type": "select",
+        "property": "display_context",
+        "cases": 
+        [
+            {
+                "when": "gui",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "expansion:items/gui_filler_visible"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:empty"
+        }
     }
 }
