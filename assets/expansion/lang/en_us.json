@@ -267,7 +267,7 @@
 	"exp_lore_tooltips":"§7Tooltips: ",
 	
 	"exp_modules_lore":"§o§7Modules: ",
-	"exp_modules_guidelore":"\n§7Apply §9§lModules§r§7 to your §3§lSpacesuit§r§7 in the §9§lEnhancer",
+	"exp_modules_guidelore":"\n§7Apply §9§lModules§r§7 to your \n§3§lSpacesuit§r§7 in the §9§lEnhancer",
 	"exp_modules_ifadded":"§7This Module provides: ",
 	"exp_modules_whenapplied_line1":"§7Apply §9§lModules§r§7 to §3§lSpacesuit§r",
 	"exp_modules_whenapplied_line2":"§7pieces in the §o§9§lEnhancer",
@@ -304,11 +304,11 @@
 
 	"exp_modules_coldresist_name":"§fCold Resistance Module",
 	"exp_modules_coldresist_lore":"§7 • §o§b§lCold§r §7Resistance: ",
-	"exp_modules_coldresist_guidelore":"\n§7Reinforces your §3§lSpacesuit§r§7 to withstand extreme §b§lCold",
+	"exp_modules_coldresist_guidelore":"\n§7Reinforces your §3§lSpacesuit§r§7 to \nwithstand extreme §b§lCold",
 
 	"exp_modules_heatresist_name":"§fHeat Resistance Module",
 	"exp_modules_heatresist_lore":"§7 • §o§6§lHeat§r §7Resistance: ",
-	"exp_modules_heatresist_guidelore":"\n§7Reinforces your §3§lSpacesuit§r§7 to withstand extreme §6§lHeat",
+	"exp_modules_heatresist_guidelore":"\n§7Reinforces your §3§lSpacesuit§r§7 to \nwithstand extreme §6§lHeat",
 
 	"exp_modules_magnetic_name":"§fMagnetic Module",
 	"exp_modules_magnetic_lore":"§7 • Reduced low gravity effects",
