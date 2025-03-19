@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
 		"2": "expansion:structures/assembler/assembler_item",
@@ -4189,7 +4190,7 @@
 		},
 		"gui": {
 			"rotation": [30, 225, 0],
-			"translation": [0, 3.75, 80],
+			"translation": [0, 3.75, -14],
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"head": {
@@ -4264,13 +4265,11 @@
 			"name": "double_ring",
 			"origin": [0.8, 0.8, 0.8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				{
 					"name": "ring",
 					"origin": [0, 0.8, 0.6],
 					"color": 0,
-					"nbt": "{}",
 					"children": [
 						57,
 						58,
@@ -4314,14 +4313,12 @@
 							"name": "bone25",
 							"origin": [0, 0.8, 1.15],
 							"color": 0,
-							"nbt": "{}",
 							"children": [
 								95,
 								{
 									"name": "small_arm_base4",
 									"origin": [-0.66, 2.375, 0.45],
 									"color": 0,
-									"nbt": "{}",
 									"children": [
 										96,
 										97,
@@ -4335,7 +4332,6 @@
 											"name": "arm4",
 											"origin": [-0.68678, 2.375, 0.6],
 											"color": 0,
-											"nbt": "{}",
 											"children": [
 												104,
 												105,
@@ -4343,7 +4339,6 @@
 													"name": "bone21",
 													"origin": [-1.53197, 2.375, 0.6],
 													"color": 0,
-													"nbt": "{}",
 													"children": [
 														106,
 														107,
@@ -4355,21 +4350,18 @@
 															"name": "bone22",
 															"origin": [-1.55697, 2.375, 0.6],
 															"color": 0,
-															"nbt": "{}",
 															"children": [
 																112,
 																{
 																	"name": "bone23",
 																	"origin": [-1.55697, 2.375, 0.6],
 																	"color": 0,
-																	"nbt": "{}",
 																	"children": [
 																		113,
 																		{
 																			"name": "bone24",
 																			"origin": [-1.55697, 2.375, 0.6],
 																			"color": 0,
-																			"nbt": "{}",
 																			"children": [114]
 																		}
 																	]
@@ -4388,14 +4380,12 @@
 							"name": "bone15",
 							"origin": [0, 0.8, 1.15],
 							"color": 0,
-							"nbt": "{}",
 							"children": [
 								115,
 								{
 									"name": "small_arm_base3",
 									"origin": [-0.66, 2.375, 0.45],
 									"color": 0,
-									"nbt": "{}",
 									"children": [
 										116,
 										117,
@@ -4409,7 +4399,6 @@
 											"name": "arm3",
 											"origin": [-0.68678, 2.375, 0.6],
 											"color": 0,
-											"nbt": "{}",
 											"children": [
 												124,
 												125,
@@ -4417,7 +4406,6 @@
 													"name": "bone16",
 													"origin": [-1.53197, 2.375, 0.6],
 													"color": 0,
-													"nbt": "{}",
 													"children": [
 														126,
 														127,
@@ -4430,21 +4418,18 @@
 															"name": "bone17",
 															"origin": [-1.55697, 2.375, 0.6],
 															"color": 0,
-															"nbt": "{}",
 															"children": [
 																133,
 																{
 																	"name": "bone18",
 																	"origin": [-1.55697, 2.375, 0.6],
 																	"color": 0,
-																	"nbt": "{}",
 																	"children": [
 																		134,
 																		{
 																			"name": "bone19",
 																			"origin": [-1.55697, 2.375, 0.6],
 																			"color": 0,
-																			"nbt": "{}",
 																			"children": [135]
 																		}
 																	]
@@ -4463,14 +4448,12 @@
 							"name": "bone20",
 							"origin": [0, 0.8, 1.15],
 							"color": 0,
-							"nbt": "{}",
 							"children": [
 								136,
 								{
 									"name": "small_arm_base5",
 									"origin": [-0.66, 2.375, 0.45],
 									"color": 0,
-									"nbt": "{}",
 									"children": [
 										137,
 										138,
@@ -4484,7 +4467,6 @@
 											"name": "arm5",
 											"origin": [-0.68678, 2.375, 0.6],
 											"color": 0,
-											"nbt": "{}",
 											"children": [
 												145,
 												146,
@@ -4492,7 +4474,6 @@
 													"name": "bone26",
 													"origin": [-1.53197, 2.375, 0.6],
 													"color": 0,
-													"nbt": "{}",
 													"children": [
 														147,
 														148,
@@ -4505,21 +4486,18 @@
 															"name": "bone27",
 															"origin": [-1.55697, 2.375, 0.6],
 															"color": 0,
-															"nbt": "{}",
 															"children": [
 																154,
 																{
 																	"name": "bone28",
 																	"origin": [-1.55697, 2.375, 0.6],
 																	"color": 0,
-																	"nbt": "{}",
 																	"children": [
 																		155,
 																		{
 																			"name": "bone29",
 																			"origin": [-1.55697, 2.375, 0.6],
 																			"color": 0,
-																			"nbt": "{}",
 																			"children": [156]
 																		}
 																	]
@@ -4538,14 +4516,12 @@
 							"name": "bone2",
 							"origin": [0, 0.8, 1.15],
 							"color": 0,
-							"nbt": "{}",
 							"children": [
 								157,
 								{
 									"name": "small_arm_base2",
 									"origin": [0.66, -0.775, 0.45],
 									"color": 0,
-									"nbt": "{}",
 									"children": [
 										158,
 										159,
@@ -4559,7 +4535,6 @@
 											"name": "arm2",
 											"origin": [0.68678, -0.775, 0.6],
 											"color": 0,
-											"nbt": "{}",
 											"children": [
 												166,
 												167,
@@ -4567,7 +4542,6 @@
 													"name": "bone11",
 													"origin": [1.53197, -0.775, 0.6],
 													"color": 0,
-													"nbt": "{}",
 													"children": [
 														168,
 														169,
@@ -4580,21 +4554,18 @@
 															"name": "bone12",
 															"origin": [1.55697, -0.775, 0.6],
 															"color": 0,
-															"nbt": "{}",
 															"children": [
 																175,
 																{
 																	"name": "bone13",
 																	"origin": [1.55697, -0.775, 0.6],
 																	"color": 0,
-																	"nbt": "{}",
 																	"children": [
 																		176,
 																		{
 																			"name": "bone14",
 																			"origin": [1.55697, -0.775, 0.6],
 																			"color": 0,
-																			"nbt": "{}",
 																			"children": [177]
 																		}
 																	]
@@ -4615,7 +4586,6 @@
 					"name": "rails",
 					"origin": [0.7, -1.6, -0.1],
 					"color": 0,
-					"nbt": "{}",
 					"children": [
 						178,
 						179,
@@ -4635,14 +4605,12 @@
 							"name": "wheel",
 							"origin": [-1.7, -1, 0.8],
 							"color": 0,
-							"nbt": "{}",
 							"children": [192, 193, 194, 195]
 						},
 						{
 							"name": "wheel2",
 							"origin": [-1.7, -1, 0.4],
 							"color": 0,
-							"nbt": "{}",
 							"children": [196, 197, 198, 199]
 						}
 					]
@@ -4651,7 +4619,6 @@
 					"name": "rails2",
 					"origin": [-0.7, -1.6, -0.1],
 					"color": 0,
-					"nbt": "{}",
 					"children": [
 						200,
 						201,
@@ -4671,14 +4638,12 @@
 							"name": "wheel3",
 							"origin": [1.7, -1, 0.4],
 							"color": 0,
-							"nbt": "{}",
 							"children": [214, 215, 216, 217]
 						},
 						{
 							"name": "wheel4",
 							"origin": [1.7, -1, 0.8],
 							"color": 0,
-							"nbt": "{}",
 							"children": [218, 219, 220, 221]
 						}
 					]
@@ -4689,7 +4654,6 @@
 			"name": "machine_arm_root",
 			"origin": [-1.37426, -1.13, -1.32574],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				222,
 				223,
@@ -4700,7 +4664,6 @@
 					"name": "octagon",
 					"origin": [-1.31544, -0.57652, -1.27605],
 					"color": 0,
-					"nbt": "{}",
 					"children": [
 						227,
 						228,
@@ -4716,7 +4679,6 @@
 							"name": "bone3",
 							"origin": [-1.425, -0.375, -1.235],
 							"color": 0,
-							"nbt": "{}",
 							"children": [
 								237,
 								238,
@@ -4731,7 +4693,6 @@
 									"name": "bone4",
 									"origin": [-1.525, 0.225, -1.835],
 									"color": 0,
-									"nbt": "{}",
 									"children": [
 										246,
 										247,
@@ -4744,7 +4705,6 @@
 											"name": "bone5",
 											"origin": [-1.225, 1.00331, -0.8415],
 											"color": 0,
-											"nbt": "{}",
 											"children": [
 												253,
 												254,
@@ -4755,7 +4715,6 @@
 													"name": "bone6",
 													"origin": [-1.225, 0.99785, -1.05294],
 													"color": 0,
-													"nbt": "{}",
 													"children": [258, 259, 260, 261, 262]
 												}
 											]
@@ -4772,7 +4731,6 @@
 			"name": "machine_arm_root",
 			"origin": [-1.37426, -1.13, -1.32574],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				263,
 				264,
@@ -4783,7 +4741,6 @@
 					"name": "octagon",
 					"origin": [-1.31544, -0.57652, -1.27605],
 					"color": 0,
-					"nbt": "{}",
 					"children": [
 						268,
 						269,
@@ -4799,7 +4756,6 @@
 							"name": "bone3",
 							"origin": [-1.425, -0.375, -1.235],
 							"color": 0,
-							"nbt": "{}",
 							"children": [
 								278,
 								279,
@@ -4814,7 +4770,6 @@
 									"name": "bone4",
 									"origin": [-1.525, 0.225, -1.835],
 									"color": 0,
-									"nbt": "{}",
 									"children": [
 										287,
 										288,
@@ -4827,7 +4782,6 @@
 											"name": "bone5",
 											"origin": [-1.225, 1.00331, -0.8415],
 											"color": 0,
-											"nbt": "{}",
 											"children": [
 												294,
 												295,
@@ -4838,7 +4792,6 @@
 													"name": "bone6",
 													"origin": [-1.225, 0.99785, -1.05294],
 													"color": 0,
-													"nbt": "{}",
 													"children": [299, 300, 301, 302, 303]
 												}
 											]

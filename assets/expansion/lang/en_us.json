@@ -25,6 +25,7 @@
 
 	"exp_guide1_contents_oxygen":"- Oxygen\n",
 	"exp_guide1_contents_temperature":"- Temperature\n",
+	"exp_guide1_contents_spacesuit":"- Spacesuit\n",
 	"exp_guide1_contents_checklist":"- Launch Checklist\n",
 
 	"exp_guide1_contents_itemrecipes":"- Item Recipes\n",
@@ -48,11 +49,14 @@
 	"exp_guide1_vehiclerecipes":"§lVehicle Recipes\n",
 
 	"exp_guide1_oxygen_title":"§lOxygen\n\n",
-	"exp_guide1_oxygen_body":"§c§lOxygen§r is a luxury in space! You will need a portable source of oxygen to survive there. The §3§lSpacesuit§r provides oxygen in such harsh environments. \nFrequently refill your suit with §3§lOxygen Tanks§r",
-
-	"exp_guide1_temperature_title":"§lTemperature\n\n",
-	"exp_guide1_temperature_body":"Space can be very §b§lCold§r or §6§lHot§r. Your §3§lSpacesuit§r protects you against these rough conditions. \n\n§c§lBeware§r that the §3§lSpacesuit§r itself will take damage from the environment if not properly protected with §9§lModules§r.",
+	"exp_guide1_oxygen_body":"§c§lOxygen§r is a luxury in space! Use §3§lOxygen§r §3§lTanks§r as a portable source of oxygen on your travels, and refill them with the §3§lCompressor§r. \n\nFor Space Bases, the §c§lOxygenator§r and §2§lTerraformer§r can provide a permanent oxygen supply.",
 	
+	"exp_guide1_temperature_title":"§lTemperature\n\n",
+	"exp_guide1_temperature_body":"Space can be very §b§lCold§r or §6§lHot§r. Your §3§lSpacesuit§r protects you against these rough conditions. \n\n§c§lBeware§r that your §3§lSpacesuit§r will take §8§lDurability§r damage from the environment if its §b§lCold§r/§6§lHot§r §7§lResistance§r is insufficient.",
+	
+	"exp_guide1_spacesuit_title":"§lSpacesuit\n\n",
+	"exp_guide1_spacesuit_body":"Your §3§lSpacesuit§r provides §c§lOxygen§r and protects you against extreme §b§lCold§r or §6§lHeat§r. Taking care of your suit is of utmost importance, as a damaged suit leaks §c§lOxygen§r. \n§9§lModules§r can enhance the resistances of your suit. \nRepair your Spacesuit with a §8§lRepair Kit§r.",
+
 	"exp_guide1_checklist_title":"§lLaunch Checklist\n\n",
 	"exp_guide1_checklist_body":"🗹 A trusty §3§lSpacesuit§r\n\n🗹 A reliable §8§lRocket§r\n\n🗹 Plenty of §c§lOxygen§r\n\n🗹 A §8§lRepair Kit§r\n\n🗹 An §c§lOxygenator§r, §3§lCompressor§r and §2§lLeaves§r if I plan on staying",
 
@@ -290,7 +294,7 @@
 
 	"exp_modules_mk1":"§f Mk1",
 	"exp_modules_mk2":"§f Mk2",
-	"exp_modules_mk3":"§f Mk2",
+	"exp_modules_mk3":"§f Mk3",
 
 	"exp_modules_oxygenlvl_lore":"§o§c§lOxygen §r§7Level: ",
 
@@ -468,8 +472,8 @@
 	"exp_items_core_tip":"§7 • Insert into a portal to make a Portal Code.",
 
 	"exp_screentxt_genspace_actionbar":"Generating Solar System",
-	"exp_screentxt_equipmenterror_title":"Equipment Error!",
-	"exp_screentxt_equipmenterror_subtitle":"Equip your Space Equipment",
+	"exp_screentxt_equipmenterror_title":"Spacesuit Error!",
+	"exp_screentxt_equipmenterror_subtitle":"Equip a full Spacesuit",
 	"exp_screentxt_nofuel_title":"Fueling failed!",
 	"exp_screentxt_nofuel_subtitle":"Hold 16 Blaze Powder and try again",
 	"exp_screentxt_hightemp_title":"High Temperature!",

@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
 		"1": "expansion:blocks/fabricator/fabricator",
@@ -503,8 +504,6 @@
 			"name": "bone2",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -531,38 +530,28 @@
 					"name": "bone",
 					"origin": [0, 0, 0],
 					"color": 1,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [
 						{
 							"name": "frame",
 							"origin": [5.00001, 29, -5.29288],
 							"color": 0,
-							"nbt": "{}",
-							"armAnimationEnabled": false,
 							"children": [
 								{
 									"name": "arm_z",
 									"origin": [0, 5, 0],
 									"color": 0,
-									"nbt": "{}",
-									"armAnimationEnabled": false,
 									"children": [21]
 								},
 								{
 									"name": "arm_x",
 									"origin": [0, 5, 0],
 									"color": 0,
-									"nbt": "{}",
-									"armAnimationEnabled": false,
 									"children": [
 										22,
 										{
 											"name": "nozzle",
 											"origin": [0, 5, 1],
 											"color": 0,
-											"nbt": "{}",
-											"armAnimationEnabled": false,
 											"children": [23, 24, 25]
 										}
 									]
@@ -583,8 +572,6 @@
 					"name": "product",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [34]
 				}
 			]
