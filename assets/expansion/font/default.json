@@ -690,21 +690,21 @@
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/titanium_ore_displayitem.png",
 			"ascent": 12,
-			"height": 16,
+			"height": 64,
 			"chars": ["\uff98"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/cryonite_ore_displayitem.png",
 			"ascent": 12,
-			"height": 16,
+			"height": 64,
 			"chars": ["\uff99"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:guides/basic_guide/vulcanium_ore_displayitem.png",
 			"ascent": 12,
-			"height": 16,
+			"height": 64,
 			"chars": ["\ufb00"]
 		},
 		{
