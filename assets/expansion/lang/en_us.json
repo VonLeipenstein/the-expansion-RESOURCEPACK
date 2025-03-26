@@ -501,7 +501,7 @@
 
 	"exp_screentxt_oxygen_pressurefail":"§c§lPressurization Failed",
 	"exp_screentxt_oxygen_toolong":"§cPressurization took over 20 seconds.",
-	"exp_screentxt_oxygen_blockcap":"§cBlock capacity (2000) exceeded, room is too large.",
+	"exp_screentxt_oxygen_blockcap":"§cMax Size exceeded (20x20x20), room is too large.",
 	"exp_screentxt_oxygen_scancap":"§cScan capacity (100) exceeded, room is too vast.",
 	"exp_screentxt_oxygen_noleaves":"§cLeaves reservior depleted.",
 
