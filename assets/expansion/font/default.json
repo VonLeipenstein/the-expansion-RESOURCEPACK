@@ -1098,6 +1098,34 @@
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa38"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/fuel_canister/tier1/fuel_canister.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa39"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/fuel_canister_mk1.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa40"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/fuel_canister/tier2/fuel_canister.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa41"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/fuel_canister_mk2.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa42"]
 		}
 	]
 }
