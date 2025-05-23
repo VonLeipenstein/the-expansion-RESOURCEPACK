@@ -1,1 +1,15 @@
-{"pack":{"pack_format":55,"description":{"text":"Resources for ","extra":[{"text":"The Expansion","color":"blue","italic":false}]}}}
+{
+	"pack": {
+		"pack_format": 55,
+		"description": {
+			"text": "Resources for ",
+			"extra": [
+				{
+					"text": "The Expansion",
+					"color": "blue",
+					"italic": false
+				}
+			]
+		}
+	}
+}
