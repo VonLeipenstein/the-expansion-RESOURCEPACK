@@ -1,6 +1,7 @@
 #version 150
 
 #moj_import <minecraft:fog.glsl>
+#moj_import <minecraft:dimcheck.glsl>
 
 in vec3 Position;
 
@@ -21,7 +22,7 @@ out float vertexDistance;
 #define FUDGE 0.004
 
 void main() {
-    if (ProjMat[3][2] != -2.0 && (FogColor.g > FogColor.r && FogColor.g > FogColor.b)) {
+    if (FromExpansion(FogColor) && ProjMat[3][2] != -2.0) {
         vec3 scaledPos = Position;
         ProjInv = inverse(ProjMat * ModelViewMat);
         isSky = 0.0;
@@ -45,7 +46,7 @@ void main() {
 
             // ignore model view so the cone follows the camera angle.
             gl_Position = ProjMat * vec4(scaledPos, 1.0);
-        } 
+        }
         else 
         {
             gl_Position = ProjMat * ModelViewMat * vec4(scaledPos, 1.0);

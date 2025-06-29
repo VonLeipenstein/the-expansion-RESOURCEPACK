@@ -1,6 +1,7 @@
 #version 150
 
 #moj_import <minecraft:fog.glsl>
+#moj_import <minecraft:dimcheck.glsl>
 
 in vec3 Position;
 in vec2 UV0;
@@ -24,7 +25,7 @@ void main() {
     vec4 newColor = Color * ColorModulator;
 
     // remove clouds from planets without an atmosphere
-    if(FogColor.g > FogColor.r && FogColor.g > FogColor.b)
+    if(FromExpansion(FogColor))
     {
         newPosition =  ModelViewMat * vec4(2.0, 2.0, 2.0, 1.0);
     }

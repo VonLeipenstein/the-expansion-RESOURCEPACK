@@ -24,6 +24,7 @@ if (isSky > 0.5) {
 vec3 stars_direction = normalize(vec3(vdn, vdt, vdb));
 float stars_threshold = 8.0f;
 float stars_exposure = 200.0f;
+
 float stars = pow(clamp(noise(stars_direction * 200.0f), 0.0f, 1.0f), stars_threshold) * stars_exposure;
 stars *= mix(0.4, 1.4, noise(stars_direction * 100.0f + vec3(GameTime*500)));
 
