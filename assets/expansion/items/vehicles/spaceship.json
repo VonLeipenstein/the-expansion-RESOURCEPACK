@@ -35,14 +35,32 @@
                 {
                 "when": "landed",
                 "model": {
-                    "type": "minecraft:model",
-                    "model": "expansion:vehicles/spaceship/spaceship_landed"
+                    "type": "minecraft:composite",
+                    "models": [
+                      {
+                        "type": "minecraft:model",
+                        "model": "expansion:vehicles/spaceship/spaceship_parent"
+                      },
+                      {
+                        "type": "minecraft:model",
+                        "model": "expansion:vehicles/spaceship/spaceship_landed"
+                      }
+                    ]
                 }
-                }
+              }
             ],
             "fallback": {
-                "type": "minecraft:model",
-                "model": "expansion:vehicles/spaceship/spaceship"
+              "type": "minecraft:composite",
+              "models": [
+                {
+                  "type": "minecraft:model",
+                  "model": "expansion:vehicles/spaceship/spaceship_parent"
+                },
+                {
+                  "type": "minecraft:model",
+                  "model": "expansion:vehicles/spaceship/spaceship"
+                }
+              ]
             }
           }
         }
