@@ -27,8 +27,21 @@
         }
       ],
       "fallback": {
-        "type": "minecraft:model",
-        "model": "expansion:vehicles/rocket/rocket"
+        "type": "minecraft:select",
+        "property": "display_context",
+        "cases": [
+          {
+            "when": "gui",
+            "model": {
+              "type": "model",
+              "model": "expansion:vehicles/rocket/icon"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "model",
+          "model": "expansion:vehicles/rocket/rocket"
+        }
       }
     }
   }

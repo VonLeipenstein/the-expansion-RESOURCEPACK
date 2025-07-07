@@ -233,9 +233,9 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/spaceship_displayitem.png",
-			"ascent": 12,
-			"height": 32,
+            "file": "expansion:guides/basic_guide/spaceship_icon.png",
+			"ascent": 8,
+			"height": 16,
 			"chars": ["\uff32"]
 		},
 		{
@@ -1101,28 +1101,28 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/fuel_canister/tier1/fuel_canister.png",
+            "file": "expansion:tools/fuel_cell/mk1_frame.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa39"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/fuel_canister_mk1.png",
+            "file": "expansion:guides/basic_guide/recipes/fuel_cell_mk1_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa40"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/fuel_canister/tier2/fuel_canister.png",
+            "file": "expansion:tools/fuel_cell/mk2_frame.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa41"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/fuel_canister_mk2.png",
+            "file": "expansion:guides/basic_guide/recipes/fuel_cell_mk2_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa42"]

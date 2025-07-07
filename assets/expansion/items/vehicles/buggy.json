@@ -1,7 +1,19 @@
 {
     "model": {
-        "type": "minecraft:model",
-        "model": "expansion:vehicles/buggy/moon_buggy",
-        "tints": []
+        "type": "minecraft:select",
+        "property": "display_context",
+        "cases": [
+            {
+                "when": "gui",
+                "model": {
+                    "type": "model",
+                    "model": "expansion:vehicles/buggy/icon"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "expansion:vehicles/buggy/moon_buggy"
+        }
     }
 }
