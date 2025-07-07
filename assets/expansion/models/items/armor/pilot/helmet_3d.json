@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "expansion:armor/helmets/pilot"
+		"1": "expansion:armor/helmets/pilot",
+		"particle": "expansion:armor/helmets/pilot"
 	},
 	"elements": [
 		{

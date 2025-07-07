@@ -2,7 +2,7 @@
 	"parent": "expansion:blocks/gui_parent",
 	"texture_size": [64, 64],
 	"textures": {
-		"7": "expansion:blocks/arc_furnace/arc_furnace_on",
+		"0": "expansion:blocks/arc_furnace/arc_furnace_on",
 		"particle": "expansion:blocks/arc_furnace/arc_furnace"
 	},
 	"display": {

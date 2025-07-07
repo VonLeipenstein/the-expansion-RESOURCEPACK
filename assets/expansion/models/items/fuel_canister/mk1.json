@@ -1,8 +1,0 @@
-{
-    "parent": "expansion:items/fuel_canister/parent",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "expansion:tools/fuel_canister/tier1/fuel_canister",
-		"particle": "expansion:tools/fuel_canister/tier1/fuel_canister"
-	}
-}

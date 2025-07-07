@@ -219,16 +219,16 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/rocket_displayitem.png",
+            "file": "expansion:guides/basic_guide/rocket_icon.png",
 			"ascent": 8,
-			"height": 21.3,
+			"height": 16,
 			"chars": ["\uff30"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/buggy_displayitem.png",
+            "file": "expansion:guides/basic_guide/buggy_icon.png",
 			"ascent": 8,
-			"height": 21.3,
+			"height": 16,
 			"chars": ["\uff31"]
 		},
 		{
