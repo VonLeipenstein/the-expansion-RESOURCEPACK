@@ -1,7 +1,5 @@
 #version 150
 
-#moj_import <minecraft:compare_float.glsl>
-
 vec4 linear_fog(vec4 inColor, float vertexDistance, float fogStart, float fogEnd, vec4 fogColor) {
     if (vertexDistance <= fogStart) {
         return inColor;

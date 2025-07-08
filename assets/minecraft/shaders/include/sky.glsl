@@ -4,6 +4,8 @@ screenPos.xy = (screenPos.xy / ScreenSize - vec2(0.5)) * 2.0;
 screenPos.zw = vec2(1.0);
 vec3 view = normalize((ProjInv * screenPos).xyz);
 
+#define Pi 3.14159265359
+
 // sun angle
 float angle = Pi * 0.9;
 
@@ -26,23 +28,24 @@ float stars_threshold = 8.0f;
 float stars_exposure = 200.0f;
 
 float stars = pow(clamp(noise(stars_direction * 200.0f), 0.0f, 1.0f), stars_threshold) * stars_exposure;
-stars *= mix(0.4, 1.4, noise(stars_direction * 100.0f + vec3(GameTime*500)));
+stars *= mix(0.4, 1.4, noise(stars_direction * 100.0f));
 
 // draws the sun
-if (vdn > -SunRadius(FogColor) && vdn < SunRadius(FogColor) && 
-    vdb > -SunRadius(FogColor) && vdb < SunRadius(FogColor) &&
+float SunSize = SunRadius(FogColor);
+if (vdn > -SunSize && vdn < SunSize && 
+    vdb > -SunSize && vdb < SunSize &&
     vdt < 0.0
     ) {
     fragColor = vec4(255.0, 255.0, 172.0, 255.0) / 255.0;
 
-    if (vdn > -SunRadius(FogColor) + (SunRadius(FogColor) * 0.33) && vdn < SunRadius(FogColor) - (SunRadius(FogColor) * 0.33) && 
-        vdb > -SunRadius(FogColor) + (SunRadius(FogColor) * 0.33) && vdb < SunRadius(FogColor) - (SunRadius(FogColor) * 0.33) &&
+    if (vdn > -SunSize + (SunSize * 0.33) && vdn < SunSize - (SunSize * 0.33) && 
+        vdb > -SunSize + (SunSize * 0.33) && vdb < SunSize - (SunSize * 0.33) &&
         vdt < 0.0
     ) {
     fragColor = vec4(255.0, 255.0, 255.0, 255.0) / 255.0;
 
-        if (vdn > -SunRadius(FogColor) + (SunRadius(FogColor) * 0.66) && vdn < SunRadius(FogColor) - (SunRadius(FogColor) * 0.66) && 
-            vdb > -SunRadius(FogColor) + (SunRadius(FogColor) * 0.66) && vdb < SunRadius(FogColor) - (SunRadius(FogColor) * 0.66) &&
+        if (vdn > -SunSize + (SunSize * 0.66) && vdn < SunSize - (SunSize * 0.66) && 
+            vdb > -SunSize + (SunSize * 0.66) && vdb < SunSize - (SunSize * 0.66) &&
             vdt < 0.0
         ) {
         fragColor = vec4(255.0, 255.0, 255.0, 255.0) / 255.0;
@@ -50,6 +53,6 @@ if (vdn > -SunRadius(FogColor) && vdn < SunRadius(FogColor) &&
     }
 }
 else {
-    float dist = distance(vdt, -1.0) / SunRadius(FogColor) / 0.5 + 0.1; // makes the sun glow
+    float dist = distance(vdt, -1.0) / SunSize / 0.5 + 0.1; // makes the sun glow
     fragColor = mix(vec4(255.0, 255.0, 172.0, 255.0)/255.0, vec4(vec3(stars), 1.0), 1.0 - 0.1 / dist);
 }

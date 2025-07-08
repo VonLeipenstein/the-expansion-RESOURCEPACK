@@ -2,6 +2,7 @@
 
 #moj_import <minecraft:fog.glsl>
 #moj_import <minecraft:dimcheck.glsl>
+#moj_import <minecraft:compare_float.glsl>
 
 in vec3 Position;
 in vec2 UV0;

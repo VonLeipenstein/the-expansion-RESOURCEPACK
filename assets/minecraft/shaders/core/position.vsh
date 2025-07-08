@@ -1,5 +1,6 @@
 #version 150
 
+#moj_import <minecraft:compare_float.glsl>
 #moj_import <minecraft:fog.glsl>
 #moj_import <minecraft:dimcheck.glsl>
 
