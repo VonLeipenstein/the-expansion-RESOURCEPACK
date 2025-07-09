@@ -44,5 +44,6 @@
         "type": "minecraft:model",
         "model": "expansion:blocks/enhancer/enhancer"
       }
-    }
+    },
+    "oversized_in_gui": true
   }

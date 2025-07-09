@@ -1,8 +1,8 @@
 #version 150
 
-#moj_import <minecraft:compare_float.glsl>
+#moj_import <expansion:compare_float.glsl>
 #moj_import <minecraft:fog.glsl>
-#moj_import <minecraft:dimcheck.glsl>
+#moj_import <expansion:dimcheck.glsl>
 
 in vec3 Position;
 

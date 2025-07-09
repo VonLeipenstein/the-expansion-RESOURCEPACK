@@ -1,20 +1,32 @@
 #version 150
 
+// Can't moj_import in things used during startup, when resource packs don't exist.
+// This is a copy of dynamicimports.glsl and projection.glsl
+layout(std140) uniform DynamicTransforms {
+    mat4 ModelViewMat;
+    vec4 ColorModulator;
+    vec3 ModelOffset;
+    mat4 TextureMat;
+    float LineWidth;
+};
+layout(std140) uniform Projection {
+    mat4 ProjMat;
+};
+#moj_import <minecraft:fog.glsl>
+
 in vec3 Position;
 in vec2 UV0;
 in vec4 Color;
 
-uniform vec4 FogColor;
-uniform mat4 ModelViewMat;
-uniform mat4 ProjMat;
 uniform sampler2D Sampler0;
 
 out vec2 texCoord0;
 out vec4 vertexColor;
 
 // import functions
-#moj_import <minecraft:compare_float.glsl>
-#moj_import <minecraft:shift_texture.glsl>
+#moj_import <expansion:compare_float.glsl>
+#moj_import <expansion:shift_texture.glsl>
+#moj_import <expansion:dimcheck.glsl>
 
 void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
@@ -41,7 +53,5 @@ void main() {
             texCoord0 = vec2(UV0.x, UV0.y / 4.0);
         }
     }
-    else {
-        texCoord0 = UV0;
-    }
+    else texCoord0 = UV0;
 }

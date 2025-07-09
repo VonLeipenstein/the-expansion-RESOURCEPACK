@@ -16,5 +16,6 @@
         "type": "minecraft:model",
         "model": "expansion:blocks/extractor/extractor"
       }
-    }
+    },
+    "oversized_in_gui": true
   }

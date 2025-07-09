@@ -162,5 +162,6 @@
         "type": "minecraft:model",
         "model": "expansion:blocks/fabricator/fabricator"
       }
-    }
+    },
+    "oversized_in_gui": true
   }

@@ -16,5 +16,6 @@
         "type": "minecraft:model",
         "model": "expansion:blocks/tesla_turret/tesla_turret"
       }
-    }
+    },
+    "oversized_in_gui": true
   }

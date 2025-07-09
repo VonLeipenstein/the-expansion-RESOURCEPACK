@@ -44,5 +44,6 @@
         "type": "minecraft:model",
         "model": "expansion:blocks/modstation/modstation"
       }
-    }
+    },
+    "oversized_in_gui": true
   }

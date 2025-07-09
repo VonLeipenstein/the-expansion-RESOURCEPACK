@@ -269,7 +269,7 @@
 		{
             "type": "bitmap",
             "file": "expansion:tools/wrench.png",
-			"ascent": 8,
+			"ascent": 10,
 			"height": 16,
 			"chars": ["\uff38"]
 		},

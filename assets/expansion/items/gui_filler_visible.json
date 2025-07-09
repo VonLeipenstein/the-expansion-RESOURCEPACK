@@ -15,5 +15,6 @@
         "fallback": {
             "type": "minecraft:empty"
         }
-    }
+    },
+    "oversized_in_gui": true
 }

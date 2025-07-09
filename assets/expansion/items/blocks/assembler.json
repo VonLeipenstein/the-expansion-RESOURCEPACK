@@ -16,5 +16,6 @@
         "type": "minecraft:model",
         "model": "expansion:blocks/assembler/assembler"
       }
-    }
+    },
+    "oversized_in_gui": true
   }

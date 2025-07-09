@@ -1,11 +1,11 @@
 #version 150
 
 #moj_import <minecraft:fog.glsl>
-#moj_import <minecraft:compare_float.glsl>
-#moj_import <minecraft:sun_radius.glsl>
-#moj_import <minecraft:dimcheck.glsl>
-#moj_import <minecraft:hash.glsl>
-#moj_import <minecraft:noise.glsl>
+#moj_import <expansion:compare_float.glsl>
+#moj_import <expansion:sun_radius.glsl>
+#moj_import <expansion:dimcheck.glsl>
+#moj_import <expansion:hash.glsl>
+#moj_import <expansion:noise.glsl>
 
 uniform vec4 ColorModulator;
 uniform float FogStart;
@@ -24,7 +24,7 @@ out vec4 fragColor;
 
 void main() {
     if (FromExpansion(FogColor)) {
-        #moj_import <sky.glsl>
+        #moj_import <expansion:sky.glsl>
     }
     else {
         fragColor = linear_fog(ColorModulator, vertexDistance, FogStart, FogEnd, FogColor);
