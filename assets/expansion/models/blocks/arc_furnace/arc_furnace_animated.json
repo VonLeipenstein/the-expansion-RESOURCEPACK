@@ -1,9 +1,9 @@
 {
-	"parent": "expansion:blocks/gui_parent",
+	"parent": "expansion:blocks/arc_furnace/arc_furnace",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "expansion:blocks/arc_furnace/arc_furnace_on",
-		"particle": "expansion:blocks/arc_furnace/arc_furnace"
+		"1": "expansion:blocks/arc_furnace/arc_furnace_on",
+		"particle": "expansion:blocks/arc_furnace/arc_furnace_on"
 	},
 	"display": {
 		"gui": {

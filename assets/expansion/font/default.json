@@ -247,16 +247,9 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/space_equipment_displayitem.png",
+            "file": "expansion:weapons/railgun/icon.png",
 			"ascent": 8,
-			"height": 21.3,
-			"chars": ["\uff35"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:guides/basic_guide/railgun_displayitem.png",
-			"ascent": 8,
-			"height": 21.3,
+			"height": 16,
 			"chars": ["\uff36"]
 		},
 		{
@@ -541,13 +534,6 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/space_equipment_recipe.png",
-			"ascent": 8,
-			"height": 77,
-			"chars": ["\uff77"]
-		},
-		{
-            "type": "bitmap",
             "file": "expansion:guides/basic_guide/recipes/oxygen_tank_recipe.png",
 			"ascent": 8,
 			"height": 58,
@@ -765,9 +751,9 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/drone_displayitem.png",
+            "file": "expansion:mobs/pet_drone_icon.png",
 			"ascent": 8,
-			"height": 21.3,
+			"height": 16,
 			"chars": ["\ufb09"]
 		},
 		{
