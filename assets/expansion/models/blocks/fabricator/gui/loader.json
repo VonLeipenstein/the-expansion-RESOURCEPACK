@@ -1,4 +1,6 @@
 {
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
 	"elements": [
 		{
 			"from": [14.875, -8, 15.875],
@@ -32,7 +34,7 @@
 			"scale": [0, 0, 0]
 		},
 		"gui": {
-			"translation": [-7.75, 9, 80],
+			"translation": [-7.75, 9, 1],
 			"scale": [2.24695, 2.24305, 2.12]
 		},
 		"head": {
