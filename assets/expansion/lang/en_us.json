@@ -273,10 +273,10 @@
 	
 	"exp_lore_tooltips":"§7Tooltips: ",
 	
-	"exp_upgrades_guidelore":"\n§7Apply §a§lUpgrades§r§7 to your \n§3§lVehicles§r§7 in the §a§lModification Station",
+	"exp_upgrades_guidelore":"\n§7Apply §a§lUpgrades§r§7 to your \n§3§lVehicles§r§7 in the §a§lVehicle Upgrader",
 	"exp_upgrades_ifadded":"§7This Upgrade provides: ",
 	"exp_upgrades_whenapplied_line1":"§7Apply §a§lUpgrades§r§7 to §3§lVehicles§r",
-	"exp_upgrades_whenapplied_line2":"§7in the §o§a§lModification Station",
+	"exp_upgrades_whenapplied_line2":"§7in the §o§a§lVehicle Upgrader",
 	"exp_upgrades_maxspeed_lore":"§7 • §o§7Max Speed: ",
 	"exp_upgrades_fuelefficiency_lore":"§7 • §o§7Fuel Consumption: ",
 	
