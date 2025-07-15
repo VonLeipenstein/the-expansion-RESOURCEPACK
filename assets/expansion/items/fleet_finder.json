@@ -1,7 +1,19 @@
 {
     "model": {
-        "type": "minecraft:model",
-        "model": "expansion:items/fleet_finder",
-        "tints": []
+        "type": "minecraft:select",
+        "property": "display_context",
+        "cases": [
+            {
+                "when": "gui",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "expansion:items/fleet_finder_icon"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "expansion:items/fleet_finder"
+        }
     }
 }
