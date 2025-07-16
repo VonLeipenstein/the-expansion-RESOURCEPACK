@@ -419,9 +419,9 @@
 	"exp_vehicles_spaceship_tip4":"§7 • Leftclick while inside in Space to toggle Navigation Markers.",
 	"exp_vehicles_spaceship_dismantle":"§7Click again to §c§lDismantle§r§7 the §9§lSpaceship§r§7.\nThis will drop all 5 §9§lSpaceship§r§7 parts as well as any applied §a§lUpgrades§r§7.\n§c§lWARNING!§r§7 All Fuel and the Fuel Cell will be lost.",
 	"exp_vehicles_combine_skin":"§7 • Apply this skin to your Spaceship with the Vehicle Upgrader.",
-	"exp_vehicles_dismantle_tip1":"§7§c§lDismantle§r§7 this using the §c§lWrench.",
-	"exp_vehicles_dismantle_tip2":"§7Sneak+Leftclick using the §c§lWrench§r§7 to §c§lDismantle§r§7.",
-	"exp_vehicles_dismantle_module":"§7It is not possible to §c§lDismantle§r§7 the §e§lLunar Module§r§7.\nHow do you plan to get back to §a§lEarth§r§7 then?",
+	"exp_vehicles_dismantle_tip1":"§f§c§nDismantle§r§f this using the §c§nWrench.",
+	"exp_vehicles_dismantle_tip2":"§fSneak+Leftclick to §c§nDismantle§r§f.",
+	"exp_vehicles_dismantle_module":"§fIt is not possible to §c§nDismantle§r§f the §e§nLunar Module§r§f.\nHow do you plan to get back to §a§nEarth§r§f then?",
 
 	"exp_weapons_railgun_name":"Railgun",
 	"exp_weapons_railgun_ammo":"§b§lAmmo: ",
@@ -526,7 +526,7 @@
 	"exp_screentxt_oxygen_nobreathe":"§cThe air is no longer breathable.",
 	
 	"exp_screentxt_oxygen_pressuresuccess":"§a§lBase Pressurized",
-	"exp_screentxt_oxygen_detected":"§a§lOxygen Detected",
+	"exp_screentxt_oxygen_detected":"§aOxygen Detected",
 	"exp_screentxt_oxygen_breathe":"§aThe air inside is breathable now.",
 
 	"exp_screentxt_rocket_fuelfail1":"§c§lYou need ",

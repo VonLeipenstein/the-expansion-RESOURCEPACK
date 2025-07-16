@@ -2,6 +2,11 @@
 	"sources": [
 		{
 			"type": "directory",
+			"source": "blueprint",
+			"prefix": "blueprint/"
+		},
+		{
+			"type": "directory",
 			"source": "armor",
 			"prefix": "armor/"
 		},
@@ -49,11 +54,6 @@
 			"type": "directory",
 			"source": "mobs",
 			"prefix": "mobs/"
-		},
-		{
-			"type": "directory",
-			"source": "blueprint",
-			"prefix": "blueprint/"
 		}
 	]
 }
