@@ -361,10 +361,8 @@
 				"assets/animated_java/models/blueprint/rocket/button.json",
 				"assets/animated_java/models/blueprint/rocket/root.json",
 				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/rocket/black_filler.png",
 				"assets/animated_java/textures/blueprint/rocket/button.png",
-				"assets/animated_java/textures/blueprint/rocket/filer.png",
-				"assets/animated_java/textures/blueprint/rocket/rocket_interior.png",
-				"assets/animated_java/textures/blueprint/rocket/rocket_walls.png",
 				"assets/animated_java/textures/blueprint/rocket/screens.png"
 			]
 		}
