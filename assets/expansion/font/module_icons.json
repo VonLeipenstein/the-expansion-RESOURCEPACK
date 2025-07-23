@@ -105,13 +105,6 @@
 			"height": 16,
 			"chars": ["\uff47"]
 		},
-		{
-            "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/volume/0.png",
-			"ascent": 16,
-			"height": 16,
-			"chars": ["\ufa00"]
-		},
         {
             "type": "bitmap",
             "file": "expansion:tools/oxygen_tank/volume/10.png",
@@ -181,6 +174,13 @@
 			"ascent": 16,
 			"height": 16,
 			"chars": ["\ufa0a"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/volume/0.png",
+			"ascent": 16,
+			"height": 16,
+			"chars": ["\ufa0b"]
 		},
 		{
             "type": "bitmap",

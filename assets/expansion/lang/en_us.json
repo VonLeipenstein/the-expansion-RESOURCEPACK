@@ -421,7 +421,7 @@
 	"exp_vehicles_combine_skin":"§7 • Apply this skin to your Spaceship with the Vehicle Upgrader.",
 	"exp_vehicles_dismantle_tip1":"§f§c§nDismantle§r§f this using the §c§nWrench.",
 	"exp_vehicles_dismantle_tip2":"§fSneak+Leftclick to §c§nDismantle§r§f.",
-	"exp_vehicles_dismantle_module":"§fIt is not possible to §c§nDismantle§r§f the §e§nLunar Module§r§f.\nHow do you plan to get back to §a§nEarth§r§f then?",
+	"exp_vehicles_dismantle_module":"§fIt is not possible to §c§nDismantle§r§f the §e§nLunar Module§r§f.",
 	"exp_vehicles_recycle":"§a§nRecycle§r§f this using the §c§nWrench.",
 
 	"exp_weapons_railgun_name":"Railgun",
