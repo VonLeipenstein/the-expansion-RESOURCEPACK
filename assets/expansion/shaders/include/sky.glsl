@@ -14,14 +14,6 @@ float vdn = dot(view, vec3(0.0, cos(angle), sin(angle)));
 float vdb = dot(view, vec3(1.0, 0.0, 0.0));
 float vdt = dot(view, vec3(0.0, sin(-angle), cos(-angle)));
 
-// custom fog calculation if sky because sky disc is no longer above the head
-if (isSky > 0.5) {
-    float ndusq = clamp(dot(view, vec3(0.0, 1.0, 0.0)), 0.0, 1.0);
-    ndusq = ndusq * ndusq;
-
-    fragColor = linear_fog(ColorModulator, pow(1.0 - ndusq, 8.0), 0.0, 1.0, FogColor);
-} 
-
 // stars
 vec3 stars_direction = normalize(vec3(vdn, vdt, vdb));
 float stars_threshold = 8.0f;

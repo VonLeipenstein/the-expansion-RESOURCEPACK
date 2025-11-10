@@ -1,6 +1,5 @@
 {
 	"pack": {
-		"pack_format": 55,
 		"description": {
 			"text": "Resources for ",
 			"extra": [
@@ -11,21 +10,7 @@
 				}
 			]
 		},
-		"supported_formats": [
-			55,
-			64
-		]
-	},
-	"overlays": {
-		"entries": [
-			{
-				"directory": "1.21.5",
-				"formats": 55
-			},
-			{
-				"directory": "1.21.6",
-				"formats": [63, 64]
-			}
-		]
+		"min_format": [65],
+		"max_format": [69,0]
 	}
 }

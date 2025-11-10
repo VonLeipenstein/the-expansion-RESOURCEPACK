@@ -1,0 +1,35 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "expansion:items/phaser_shield",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [35, 50, 0],
+			"translation": [-1, -4, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [35, -110, 0],
+			"translation": [-1, -4, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, -5],
+			"translation": [-7, -5, 2],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, -5],
+			"translation": [-7, -5, 2],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"gui": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -1, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [-90, -73.25, -90],
+			"translation": [0, -14.5, 0.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}
