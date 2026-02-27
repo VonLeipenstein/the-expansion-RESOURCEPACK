@@ -102,7 +102,7 @@
 	"exp_guide1_magnboots_tip":"\n§7Keep both feet on the ground!",
 	"exp_guide1_rocketboots_tip":"\n§7Keep both feet off the ground?",
 	"exp_guide1_rocket_tip":"\n§7Launches to §f§lThe Moon§r§7!",
-	"exp_guide1_rocket_craft":"\n\n§7Crafting:\nPlace the Rocket Parts\non top of each other\nlike blocks.",
+	"exp_guide1_rocket_craft":"\n\n§7Crafting:\nStack the Rocket Parts\non top of a Launch Pad.",
 	"exp_guide1_buggy_tip":"\n§7Assists in Exploration!",
 	"exp_guide1_spaceship_tip":"\n§7Conquer Space!\nConsumes §5§lLacrymae§r§7 as fuel.",
 
@@ -198,7 +198,10 @@
 	"exp_blocks_extractor_guitip3":"§fWait for the extraction to finish.",
 
 	"exp_blocks_planetarium_name":"Planetarium",
-	"exp_blocks_planetarium_tip1":"§7 • A very pretty showcase of the §e§lSolar System§r§7!",
+	"exp_blocks_planetarium_tip1":"§7 • A pretty showcase of the §e§lSolar System§r§7!",
+	
+	"exp_blocks_launchpad_name":"Launch Pad",
+	"exp_blocks_launchpad_tip1":"§7 • Required to launch rockets!",
 
 	"exp_blocks_terraformer_name":"Terraformer",
 	"exp_blocks_terraformer_tip1":"§7 • Provides §c§lOxygen§r§7 in a very large radius.",
@@ -412,6 +415,20 @@
 	"exp_vehicles_rocket_launch":"Launch",
 	"exp_vehicles_rocket_fuel":"Fuel",
 	"exp_vehicles_rocket_dismantle":"§7Click again to §c§lDismantle§r§7 the §6§lRocket§r§7.\nThis will drop all 3 §6§lRocket§r§7 parts.\n§c§lWARNING!§r§7 All Fuel will be lost",
+	
+	"exp_vehicles_rocketsegment_weight":"§7 • Weight: ",
+	"exp_vehicles_rocketsegment_thrust":"§7 • Thrust: ",
+	"exp_vehicles_rocketsegment_fuel":"§7 • Fuel Capacity: ",
+
+	"exp_vehicles_rocketsegment_control_name":"Control Cabin",
+	"exp_vehicles_rocketsegment_control_tip1":"§7 • Required for a manual launch.",
+	"exp_vehicles_rocketsegment_top_name":"Nose Cone",
+	"exp_vehicles_rocketsegment_top_tip1":"§7 • Required for structural integrity.",
+	"exp_vehicles_rocketsegment_engine_name":"Rocket Engine",
+	"exp_vehicles_rocketsegment_engine_tip1":"§7 • Required for propulsion.",
+	"exp_vehicles_rocketsegment_fuel_name":"Fuel Tanks",
+	"exp_vehicles_rocketsegment_fuel_tip1":"§7 • Required to provide fuel for combustion.",
+
 	"exp_vehicles_spaceship_name":"Spaceship",
 	"exp_vehicles_spaceship_tip1":"§7 • Rightclick when placed to enter or fuel.",
 	"exp_vehicles_spaceship_tip2":"§7 • Consumes §5§lLacrymae§r§7 as fuel.",
@@ -511,6 +528,10 @@
 	"exp_screentxt_swaptank_subtitle_inship":"§cFuel Cells can only be swapped from §noutside§r§c the ship",
 	"exp_screentxt_launchpad_subtitle_invalid":"Can only place the §6Rocket Engines§f or any §cRocket§f on here",
 	"exp_screentxt_launchpad_subtitle_engine":"Place the §6Rocket Engines§f first",
+	"exp_screentxt_launchpad_subtitle_occupied":"This §6Launch Pad§f is occupied",
+	"exp_screentxt_rocketpart_tryplace_bottom":"Can only be placed on top of the §6Launch Pad§f",
+	"exp_screentxt_rocketpart_tryplace_cockpit":"Can only be placed on top of the §6Rocket Engines§f",
+	"exp_screentxt_rocketpart_tryplace_top":"Can only be placed on top of the §6Rocket Cockpit§f",
 	"exp_screentxt_oxygen_level":"§fOxygen Level: ",
 	"exp_screentxt_buggyoxygen_level":"Buggy oxygen Level: ",
 	"exp_screentxt_position_actionbar":"Position: ",
@@ -518,6 +539,11 @@
 	"exp_screentxt_fuel_actionbar":"Fuel: ",
 	"exp_screentxt_loaderror_chat":"The Expansion was not installed correctly, the custom dimensions didn't load. Try rejoining or restarting your world and make sure that you are not playing on an incompatible server jar.",
 	"exp_screentxt_solarsystemsuccess_chat":"<§9The Expansion§r> Solar System generation completed successfully!",
+	"exp_screentxt_drone_subtitle_alreadyactive": "Another §aPet Drone§f is already active",
+	"exp_screentxt_refilltank_subtitle_nofullsuit": "Wear a full §9Spacesuit§f to refill your §bOxygen Tank",
+	"exp_screentxt_refilltank_subtitle_notank": "No §bOxygen Tank§f in suit. Add it using the §9Enhancer",
+	"exp_screentxt_usetool_subtitle_notinvehicle": "Can't be used inside vehicles",
+	"exp_screentxt_tryplace_subtitle_cargorocket": "Can only be placed on top of the §6Launch Pad§f",
 
 	"exp_screentxt_oxygen_pressurefail":"§c§lPressurization Failed",
 	"exp_screentxt_oxygen_toolong":"§cPressurization took over 20 seconds.",

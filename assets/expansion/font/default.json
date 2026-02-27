@@ -1112,6 +1112,20 @@
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa42"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:blocks/launch_pad/launch_pad_icon.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa43"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/launchpad_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa44"]
 		}
 	]
 }
