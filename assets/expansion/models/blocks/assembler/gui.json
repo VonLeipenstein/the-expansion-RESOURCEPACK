@@ -1,6 +1,5 @@
 {
 	"parent": "expansion:blocks/gui_parent",
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "expansion:structures/assembler/assembler_gui",
 		"particle": "expansion:structures/assembler/assembler_gui"
