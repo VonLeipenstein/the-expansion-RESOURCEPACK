@@ -526,7 +526,7 @@
 	"exp_screentxt_lowoxygen_subtitle_nosuit":"Incomplete Spacesuit!",
 	"exp_screentxt_lowoxygen_subtitle_tankdepleted":"Oxygen Tank Depleted!",
 	"exp_screentxt_swaptank_subtitle_inship":"§cFuel Cells can only be swapped from §noutside§r§c the ship",
-	"exp_screentxt_launchpad_subtitle_invalid":"Can only place the §6Rocket Engines§f or any §cRocket§f on here",
+	"exp_screentxt_launchpad_subtitle_invalid":"Place a §6Rocket Segment§f to start building your §cRocket§f",
 	"exp_screentxt_launchpad_subtitle_engine":"Place the §6Rocket Engines§f first",
 	"exp_screentxt_launchpad_subtitle_occupied":"This §6Launch Pad§f is occupied",
 	"exp_screentxt_rocketpart_tryplace_bottom":"Can only be placed on top of the §6Launch Pad§f",
