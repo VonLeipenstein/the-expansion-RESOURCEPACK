@@ -11,14 +11,14 @@
               "model": "expansion:vehicles/rocket/top"
           }
         },
-                {
+        {
           "when": "cockpit",
           "model": {
               "type": "minecraft:model",
               "model": "expansion:vehicles/rocket/cockpit"
           }
         },
-                {
+        {
           "when": "bottom",
           "model": {
               "type": "minecraft:model",

@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "display_context",
+        "cases": [
+            {
+                "when": "gui",
+                "model": {
+                    "type": "model",
+                    "model": "expansion:vehicles/rocket/top/tier1"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "expansion:vehicles/rocket/top/tier1"
+        }
+    }
+}

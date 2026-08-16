@@ -72,7 +72,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier1/10.png",
+            "file": "expansion:tools/oxygen_tank/mk1_frame.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff09"]
@@ -345,7 +345,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/steel_smelt.png",
+            "file": "expansion:guides/basic_guide/recipes/steel_ingot_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff50"]
@@ -654,7 +654,7 @@
 		{
             "type": "bitmap",
             "file": "expansion:items/raw_titanium.png",
-			"ascent": 12,
+			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff95"]
 		},
@@ -891,7 +891,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/tier2/10.png",
+            "file": "expansion:tools/oxygen_tank/mk2_frame.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa11"]
@@ -1126,6 +1126,62 @@
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa44"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/titanium_ingot.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa45"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/titanium_plate.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa46"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/titanium_ingot_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa47"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/titanium_plate_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa48"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/launch_control_displayitem.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa49"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/launch_control_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa50"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/mk3_frame.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa51"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/oxygen_tanktier2_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa52"]
 		}
 	]
 }

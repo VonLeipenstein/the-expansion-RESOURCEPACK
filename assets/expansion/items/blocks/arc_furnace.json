@@ -7,22 +7,32 @@
         {
           "when": "gui",
           "model": {
-            "type": "minecraft:select",
-            "property": "minecraft:custom_model_data",
-            "index": 1,
-            "cases": [
+            "type": "minecraft:composite",
+            "models": [
               {
-                "when": "animated",
-                "model": {
+                "type": "minecraft:select",
+                "property": "minecraft:custom_model_data",
+                "index": 1,
+                "cases": [
+                  {
+                    "when": "animated",
+                    "model": {
+                      "type": "minecraft:model",
+                      "model": "expansion:blocks/arc_furnace/gui/coils_animated"
+                    }
+                  }
+                ],
+                "fallback": {
                   "type": "minecraft:model",
-                  "model": "expansion:blocks/arc_furnace/gui/animated"
+                  "model": "expansion:blocks/arc_furnace/gui/coils"
                 }
+              },
+              {
+                "type": "minecraft:model",
+                "model": "expansion:blocks/arc_furnace/gui/main"
               }
-            ],
-            "fallback": {
-              "type": "minecraft:model",
-              "model": "expansion:blocks/arc_furnace/gui/main"
-            }
+            ]
+            
           }
         },
         {
