@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "expansion:items/amethonium_ingot",
-		"particle": "expansion:items/amethonium_ingot"
+		"0": "expansion:items/nebulanium_ingot",
+		"particle": "expansion:items/nebulanium_ingot"
 	},
 	"elements": [
 		{

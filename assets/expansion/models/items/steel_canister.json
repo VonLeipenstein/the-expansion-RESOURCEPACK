@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "expansion:items/canister",
+	"textures": {
+		"0": "expansion:items/steel_canister",
+		"particle": "expansion:items/steel_canister"
+	}
+}

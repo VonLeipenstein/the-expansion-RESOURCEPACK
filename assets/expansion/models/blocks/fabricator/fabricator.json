@@ -504,6 +504,7 @@
 		{
 			"name": "bone2",
 			"origin": [0, 0, 0],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				0,
@@ -530,28 +531,33 @@
 				{
 					"name": "bone",
 					"origin": [0, 0, 0],
+					"scope": 0,
 					"color": 1,
 					"children": [
 						{
 							"name": "frame",
 							"origin": [5.00001, 29, -5.29288],
+							"scope": 0,
 							"color": 0,
 							"children": [
 								{
 									"name": "arm_z",
 									"origin": [0, 5, 0],
+									"scope": 0,
 									"color": 0,
 									"children": [21]
 								},
 								{
 									"name": "arm_x",
 									"origin": [0, 5, 0],
+									"scope": 0,
 									"color": 0,
 									"children": [
 										22,
 										{
 											"name": "nozzle",
 											"origin": [0, 5, 1],
+											"scope": 0,
 											"color": 0,
 											"children": [23, 24, 25]
 										}
@@ -572,6 +578,7 @@
 				{
 					"name": "product",
 					"origin": [0, 0, 0],
+					"scope": 0,
 					"color": 0,
 					"children": [34]
 				}

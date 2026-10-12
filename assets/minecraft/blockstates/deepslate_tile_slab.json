@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/deepslate_tile_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/deepslate_tiles"
+    },
+    "type=top": {
+      "model": "minecraft:block/deepslate_tile_slab_top"
+    },
+    "type=double,waterlogged=true":{
+      "model": "expansion:blocks/nebulite_ore"
+    }
+  }
+}

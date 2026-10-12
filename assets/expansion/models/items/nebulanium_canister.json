@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "expansion:items/canister",
+	"textures": {
+		"0": "expansion:items/nebulanium_canister",
+		"particle": "expansion:items/nebulanium_canister"
+	}
+}

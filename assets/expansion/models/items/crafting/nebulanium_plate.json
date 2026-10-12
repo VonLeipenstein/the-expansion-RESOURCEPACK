@@ -1,11 +1,11 @@
 {
 	"textures": {
-		"0": "expansion:items/amethonium_plate",
-		"particle": "expansion:items/amethonium_plate"
+		"0": "expansion:items/nebulanium_plate",
+		"particle": "expansion:items/nebulanium_plate"
 	},
 	"elements": [
 		{
-			"name": "amethonium_plate_0",
+			"name": "nebulanium_plate_0",
 			"from": [1, 1, 7.5],
 			"to": [15, 15, 8.5],
 			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 7.5]},
@@ -54,7 +54,7 @@
 	},
 	"groups": [
 		{
-			"name": "amethonium_plate",
+			"name": "nebulanium_plate",
 			"origin": [8, 8, 8],
 			"color": 0,
 			"nbt": "{}",

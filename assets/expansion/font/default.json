@@ -16,7 +16,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/amethonium_ingot.png",
+            "file": "expansion:items/nebulanium_ingot.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff01"]
@@ -107,7 +107,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/amethonium_plate.png",
+            "file": "expansion:items/nebulanium_plate.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff14"]
@@ -352,7 +352,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/amethonium_smelt.png",
+            "file": "expansion:guides/basic_guide/recipes/nebulanium_smelt.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff51"]
@@ -429,7 +429,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/amethonium_plate_recipe.png",
+            "file": "expansion:guides/basic_guide/recipes/nebulanium_plate_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff62"]
@@ -661,14 +661,14 @@
 		{
             "type": "bitmap",
             "file": "expansion:items/cryonite_crystal.png",
-			"ascent": 12,
+			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff96"]
 		},
 		{
             "type": "bitmap",
             "file": "expansion:items/vulcanium_shard.png",
-			"ascent": 12,
+			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff97"]
 		},
@@ -794,7 +794,7 @@
 		{
             "type": "bitmap",
             "file": "expansion:items/ai_core.png",
-			"ascent": 12,
+			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufb15"]
 		},
@@ -989,28 +989,28 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk2_helmet_recipe.png",
+            "file": "expansion:guides/basic_guide/recipes/mk3_helmet_recipe.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\ufa25"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk2_chestplate_recipe.png",
+            "file": "expansion:guides/basic_guide/recipes/mk3_chestplate_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa26"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk2_leggings_recipe.png",
+            "file": "expansion:guides/basic_guide/recipes/mk3_leggings_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa27"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk2_boots_recipe.png",
+            "file": "expansion:guides/basic_guide/recipes/mk3_boots_recipe.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa28"]
@@ -1182,6 +1182,146 @@
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa52"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/rocket_segments/tier1_engine_icon.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa53"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/rocket_segments/tier1_fuel_icon.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa54"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/rocket_segments/tier1_control_icon.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa55"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/rocket_segments/tier1_top_icon.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa56"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/rocket_segments/tier1_storage_icon.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa57"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/tier1_engine_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa58"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/tier1_fuel_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa59"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/tier1_control_recipe.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa60"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/tier1_storage_recipe.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa61"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/tier1_top_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa62"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/golem/helmet.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa63"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/golem/chestplate.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa64"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/golem/leggings.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa65"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/armor/golem/boots.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa66"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk2_helmet_recipe.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa67"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk2_chestplate_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa68"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk2_leggings_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa69"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/recipes/mk2_boots_recipe.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa70"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:items/nebulite.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa71"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:guides/basic_guide/nebulite_ore_displayitem.png",
+			"ascent": 12,
+			"height": 64,
+			"chars": ["\ufa72"]
 		}
 	]
 }

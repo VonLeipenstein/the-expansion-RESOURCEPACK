@@ -3,8 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "expansion:vehicles/cargo_rocket/tier1",
-		"particle": "expansion:blocks/launch_pad/launch_pad"
+		"1": "expansion:vehicles/cargo_rocket/tier1"
 	},
 	"elements": [
 		{
@@ -633,18 +632,21 @@
 		{
 			"name": "octagon",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [19, 20, 21, 22, 23, 24, 25, 26, 27]
 		},
 		{
 			"name": "octagon",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [28, 29, 30, 31, 32, 33, 34, 35]
 		},
 		{
 			"name": "octagon",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [36, 37, 38, 39, 40, 41, 42, 43]
 		}

@@ -217,6 +217,7 @@
 		{
 			"from": [4, 0, 4],
 			"to": [12, 1, 12],
+			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
 			"faces": {
 				"north": {"uv": [9, 4.5, 11, 4.75], "texture": "#3"},
@@ -253,10 +254,10 @@
 		},
 		"gui": {
 			"rotation": [30, -135, 0],
-			"scale": [0.625, 0.625, 0.625]
+			"translation": [0, 2, 0]
 		},
 		"fixed": {
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, 2, 0]
 		}
 	}
 }
