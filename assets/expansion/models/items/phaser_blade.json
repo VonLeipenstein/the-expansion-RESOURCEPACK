@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "expansion:weapons/phaser_blade",
-		"particle": "expansion:weapons/phaser_blade"
+		"0": "expansion:items/phaser_blade",
+		"particle": "expansion:items/phaser_blade"
 	},
 	"elements": [
 		{

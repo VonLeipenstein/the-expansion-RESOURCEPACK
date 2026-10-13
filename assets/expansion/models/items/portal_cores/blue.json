@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "expansion:structures/portal_core_blue",
-		"particle": "expansion:structures/portal_core_blue"
+		"2": "expansion:items/portal_cores/blue",
+		"particle": "expansion:items/portal_cores/blue"
 	},
 	"elements": [
 		{

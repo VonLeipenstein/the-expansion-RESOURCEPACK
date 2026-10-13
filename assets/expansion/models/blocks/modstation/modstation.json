@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "expansion:blocks/modstation/modstation",
-		"particle": "expansion:blocks/modstation/modstation"
+		"2": "expansion:blocks/modstation/block",
+		"particle": "expansion:blocks/modstation/block"
 	},
 	"elements": [
 		{

@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "display_context",
+        "cases": [
+            {
+                "when": "gui",
+                "model": {
+                    "type": "model",
+                    "model": "expansion:items/rocket/class1/control"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "expansion:vehicles/rocket/class1/control"
+        }
+    }
+}

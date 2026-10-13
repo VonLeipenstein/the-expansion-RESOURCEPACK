@@ -1,8 +1,8 @@
 {
 	"texture_size": [1024, 256],
 	"textures": {
-		"0": "expansion:structures/assembler/assembler",
-		"particle": "expansion:structures/assembler/assembler"
+		"0": "expansion:blocks/assembler/block",
+		"particle": "expansion:blocks/assembler/block"
 	},
 	"elements": [
 		{

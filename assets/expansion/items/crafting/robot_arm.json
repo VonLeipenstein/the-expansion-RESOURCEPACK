@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "expansion:items/crafting/robot_arm",
+        "model": "expansion:items/robot_arm",
         "tints": []
     }
 }

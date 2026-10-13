@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "expansion:mobs/pet_drone_icon",
-		"particle": "expansion:mobs/pet_drone_icon"
+		"0": "expansion:mobs/pet_drone/icon",
+		"particle": "expansion:mobs/pet_drone/icon"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "expansion:mobs/pet_drone",
-		"1": "expansion:mobs/drone_face",
-		"particle": "expansion:mobs/pet_drone"
+		"0": "expansion:mobs/pet_drone/mob",
+		"1": "expansion:mobs/pet_drone/face",
+		"particle": "expansion:mobs/pet_drone/mob"
 	},
 	"elements": [
 		{

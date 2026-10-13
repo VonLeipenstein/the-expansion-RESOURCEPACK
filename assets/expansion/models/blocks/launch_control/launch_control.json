@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "expansion:blocks/launch_control/launch_control",
-		"particle": "expansion:blocks/launch_control/launch_control"
+		"1": "expansion:blocks/launch_control/block",
+		"particle": "expansion:blocks/launch_control/block"
 	},
 	"elements": [
 		{

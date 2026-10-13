@@ -72,7 +72,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/mk1_frame.png",
+            "file": "expansion:items/oxygen_tank/mk1_frame.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff09"]
@@ -149,504 +149,469 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/arc_furnace_displayitem.png",
+            "file": "expansion:blocks/arc_furnace/icon.png",
 			"ascent": 10,
 			"height": 21.3,
 			"chars": ["\uff20"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/fabricator_displayitem.png",
+            "file": "expansion:blocks/fabricator/icon.png",
 			"ascent": 27,
 			"height": 42.7,
 			"chars": ["\uff21"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/assembler_displayitem.png",
+            "file": "expansion:blocks/assembler/icon.png",
 			"ascent": 21,
 			"height": 74.667,
 			"chars": ["\uff22"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/compressor_displayitem.png",
+            "file": "expansion:blocks/compressor/icon.png",
 			"ascent": 29,
 			"height": 42.7,
 			"chars": ["\uff23"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/oxygenator_displayitem.png",
+            "file": "expansion:blocks/oxygenator/icon.png",
 			"ascent": 8,
 			"height": 21.3,
 			"chars": ["\uff24"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/terraformer_displayitem.png",
+            "file": "expansion:blocks/terraformer/icon.png",
 			"ascent": 8,
 			"height": 21.3,
 			"chars": ["\uff25"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/planetarium_displayitem.png",
+            "file": "expansion:blocks/planetarium/icon.png",
 			"ascent": 8,
 			"height": 21.3,
 			"chars": ["\uff26"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/extractor_displayitem.png",
+            "file": "expansion:blocks/extractor/icon.png",
 			"ascent": 29,
 			"height": 42.7,
 			"chars": ["\uff27"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/enhancer_displayitem.png",
+            "file": "expansion:blocks/enhancer/icon.png",
 			"ascent": 29,
 			"height": 42.7,
 			"chars": ["\uff28"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/teslaturret_displayitem.png",
+            "file": "expansion:blocks/tesla_coil/icon.png",
 			"ascent": 29,
 			"height": 42.7,
 			"chars": ["\uff29"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/rocket_icon.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff30"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:guides/basic_guide/buggy_icon.png",
+            "file": "expansion:vehicles/buggy/icon.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff31"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/spaceship_icon.png",
+            "file": "expansion:vehicles/spaceship/icon.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff32"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/crafting_table_displayitem.png",
+            "file": "expansion:blocks/crafting_table_icon.png",
 			"ascent": 8,
 			"height": 21.3,
 			"chars": ["\uff33"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:weapons/railgun/icon.png",
+            "file": "expansion:items/railgun/icon.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff36"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/cryoblaster_displayitem.png",
+            "file": "expansion:items/cryoblaster/icon.png",
 			"ascent": 8,
 			"height": 21.3,
 			"chars": ["\uff37"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/wrench.png",
+            "file": "expansion:items/wrench.png",
 			"ascent": 10,
 			"height": 16,
 			"chars": ["\uff38"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/heatresist_mk1_displayitem.png",
+            "file": "expansion:items/modules/heat_resistance_mk1.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff39"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/coldresist_mk1_displayitem.png",
+            "file": "expansion:items/modules/cold_resistance_mk1.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff40"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/rocket_bottom_displayitem.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff41"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:guides/basic_guide/rocket_cockpit_displayitem.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff42"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:guides/basic_guide/rocket_top_displayitem.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff43"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:guides/basic_guide/rocket_top_displayitem.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\uff43"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:guides/basic_guide/spaceship_leftwing_displayitem.png",
+            "file": "expansion:items/spaceship/leftwing.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff44"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/spaceship_rightwing_displayitem.png",
+            "file": "expansion:items/spaceship/rightwing.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff45"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/spaceship_engines_displayitem.png",
+            "file": "expansion:items/spaceship/engines.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff46"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/spaceship_cockpit_displayitem.png",
+            "file": "expansion:items/spaceship/cockpit.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff47"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/spaceship_nose_displayitem.png",
+            "file": "expansion:items/spaceship/nose.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\uff48"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/steel_ingot_recipe.png",
+            "file": "expansion:pictures/recipes/steel_ingot.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff50"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/nebulanium_smelt.png",
+            "file": "expansion:pictures/recipes/nebulanium_smelt.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff51"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/steel_plate_recipe.png",
+            "file": "expansion:pictures/recipes/steel_plate.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff52"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/gear_recipe.png",
+            "file": "expansion:pictures/recipes/gear.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff53"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/copper_wire_recipe.png",
+            "file": "expansion:pictures/recipes/copper_wire.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff54"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/simple_mechanism_recipe.png",
+            "file": "expansion:pictures/recipes/simple_mechanism.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff55"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/cpu_recipe.png",
+            "file": "expansion:pictures/recipes/cpu.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff56"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/oxygen_filter_recipe.png",
+            "file": "expansion:pictures/recipes/oxygen_filter.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\uff57"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/elektromagnet_recipe.png",
+            "file": "expansion:pictures/recipes/elektromagnet.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff58"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/elektromotor_recipe.png",
+            "file": "expansion:pictures/recipes/elektromotor.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff59"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/buggy_wheel_recipe.png",
+            "file": "expansion:pictures/recipes/buggy_wheel.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff60"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/thruster_recipe.png",
+            "file": "expansion:pictures/recipes/thruster.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff61"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/nebulanium_plate_recipe.png",
+            "file": "expansion:pictures/recipes/nebulanium_plate.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff62"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/circuit_board_recipe.png",
+            "file": "expansion:pictures/recipes/circuit_board.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff63"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/complex_mechanism_recipe.png",
+            "file": "expansion:pictures/recipes/complex_mechanism.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff64"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/robot_arm_recipe.png",
+            "file": "expansion:pictures/recipes/robot_arm.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff65"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/cooling_element_recipe.png",
+            "file": "expansion:pictures/recipes/cooling_element.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff66"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/heating_element_recipe.png",
+            "file": "expansion:pictures/recipes/heating_element.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff67"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/arc_furnace_recipe.png",
+            "file": "expansion:pictures/recipes/arc_furnace.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\uff68"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/fabricator_recipe.png",
+            "file": "expansion:pictures/recipes/fabricator.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\uff69"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/assembler_recipe.png",
+            "file": "expansion:pictures/recipes/assembler.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff70"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/compressor_recipe.png",
+            "file": "expansion:pictures/recipes/compressor.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff71"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/oxygenator_recipe.png",
+            "file": "expansion:pictures/recipes/oxygenator.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff72"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/terraformer_recipe.png",
+            "file": "expansion:pictures/recipes/terraformer.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff73"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/extractor_recipe.png",
+            "file": "expansion:pictures/recipes/extractor.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff74"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/planetarium_recipe.png",
+            "file": "expansion:pictures/recipes/planetarium.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff75"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/enhancer_recipe.png",
+            "file": "expansion:pictures/recipes/enhancer.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\uff76"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/oxygen_tank_recipe.png",
+            "file": "expansion:pictures/recipes/oxygen_tank.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff78"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/railgun_recipe.png",
+            "file": "expansion:pictures/recipes/railgun.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff79"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/cryoblaster_recipe.png",
+            "file": "expansion:pictures/recipes/cryoblaster.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff80"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/wrench_recipe.png",
+            "file": "expansion:pictures/recipes/wrench.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff81"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/cooling_module_recipe.png",
+            "file": "expansion:pictures/recipes/cooling_module.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff82"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/heating_module_recipe.png",
+            "file": "expansion:pictures/recipes/heating_module.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff83"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/buggy_recipe.png",
+            "file": "expansion:pictures/recipes/buggy.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff84"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/rocket_bottom_recipe.png",
+            "file": "expansion:pictures/recipes/rocket_bottom.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff85"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/rocket_cockpit_recipe.png",
+            "file": "expansion:pictures/recipes/rocket_cockpit.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff86"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/rocket_top_recipe.png",
+            "file": "expansion:pictures/recipes/rocket_top.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff87"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/buggy_recipe.png",
+            "file": "expansion:pictures/recipes/buggy.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff88"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/spaceship_recipe.png",
+            "file": "expansion:pictures/recipes/spaceship.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff89"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/spaceship_leftwing_recipe.png",
+            "file": "expansion:pictures/recipes/spaceship_leftwing.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff90"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/spaceship_rightwing_recipe.png",
+            "file": "expansion:pictures/recipes/spaceship_rightwing.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff91"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/spaceship_cockpit_recipe.png",
+            "file": "expansion:pictures/recipes/spaceship_cockpit.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\uff92"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/spaceship_engines_recipe.png",
+            "file": "expansion:pictures/recipes/spaceship_engines.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff93"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/fan_recipe.png",
+            "file": "expansion:pictures/recipes/fan.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\uff94"]
@@ -674,21 +639,21 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/titanium_ore_displayitem.png",
+            "file": "expansion:blocks/titanium_ore/icon.png",
 			"ascent": 12,
 			"height": 64,
 			"chars": ["\uff98"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/cryonite_ore_displayitem.png",
+            "file": "expansion:blocks/cryonite_ore/icon.png",
 			"ascent": 12,
 			"height": 64,
 			"chars": ["\uff99"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/vulcanium_ore_displayitem.png",
+            "file": "expansion:blocks/vulcanium_ore/icon.png",
 			"ascent": 12,
 			"height": 64,
 			"chars": ["\ufb00"]
@@ -702,42 +667,42 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/tesla_turret_recipe.png",
+            "file": "expansion:pictures/recipes/tesla_coil.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb02"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/modstation_recipe.png",
+            "file": "expansion:pictures/recipes/modstation.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb03"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/pet_drone_recipe.png",
+            "file": "expansion:pictures/recipes/pet_drone.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb04"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/durability_mk1_recipe.png",
+            "file": "expansion:pictures/recipes/durability_mk1.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb05"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/durability_mk2_recipe.png",
+            "file": "expansion:pictures/recipes/durability_mk2.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb06"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/monochrome_monitor_recipe.png",
+            "file": "expansion:pictures/recipes/monochrome_monitor.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\ufb07"]
@@ -751,42 +716,42 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:mobs/pet_drone_icon.png",
+            "file": "expansion:mobs/pet_drone/icon.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufb09"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/modstation_displayitem.png",
+            "file": "expansion:blocks/modstation/icon.png",
 			"ascent": 8,
 			"height": 21.3,
 			"chars": ["\ufb10"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/spaceship_mods/fuel1.png",
+            "file": "expansion:items/modules/vehicle/fuel1.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufb11"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/spaceship_mods/speed1.png",
+            "file": "expansion:items/modules/vehicle/speed1.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufb12"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/fuelmod1_recipe.png",
+            "file": "expansion:pictures/recipes/fuelmod1.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb13"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/speedmod1_recipe.png",
+            "file": "expansion:pictures/recipes/speedmod1.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb14"]
@@ -800,105 +765,105 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/magneticmodule_displayitem.png",
+            "file": "expansion:items/modules/magnetic_icon.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufb16"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/rocketmodule_displayitem.png",
+            "file": "expansion:items/modules/rocket_icon.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufb17"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/magneticmodule_recipe.png",
+            "file": "expansion:pictures/recipes/magneticmodule.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb18"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/rocketmodule_recipe.png",
+            "file": "expansion:pictures/recipes/rocketmodule.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb19"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/spaceship_nose_recipe.png",
+            "file": "expansion:pictures/recipes/spaceship_nose.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufb20"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/landscapes/moon_landscape.png",
+            "file": "expansion:pictures/landscapes/moon.png",
 			"ascent": 12,
 			"height": 56,
 			"chars": ["\ufa00"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/landscapes/mars_landscape.png",
+            "file": "expansion:pictures/landscapes/mars.png",
 			"ascent": 12,
 			"height": 56,
 			"chars": ["\ufa01"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/landscapes/venus_landscape.png",
+            "file": "expansion:pictures/landscapes/venus.png",
 			"ascent": 12,
 			"height": 56,
 			"chars": ["\ufa02"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/landscapes/jupiter_landscape.png",
+            "file": "expansion:pictures/landscapes/jupiter.png",
 			"ascent": 12,
 			"height": 56,
 			"chars": ["\ufa03"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/landscapes/europa_landscape.png",
+            "file": "expansion:pictures/landscapes/europa.png",
 			"ascent": 12,
 			"height": 56,
 			"chars": ["\ufa04"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/landscapes/asteroids_landscape.png",
+            "file": "expansion:pictures/landscapes/asteroids.png",
 			"ascent": 12,
 			"height": 56,
 			"chars": ["\ufa05"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/fabricator_infographic.png",
+            "file": "expansion:blocks/fabricator/crafting.png",
 			"ascent": 8,
 			"height": 56,
 			"chars": ["\ufa06"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/frontpage.png",
+            "file": "expansion:pictures/guide_frontpage.png",
 			"ascent": 35,
 			"height": 64,
 			"chars": ["\ufa10"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/mk2_frame.png",
+            "file": "expansion:items/oxygen_tank/mk2_frame.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa11"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/oxygen_tanktier2_recipe.png",
+            "file": "expansion:pictures/recipes/oxygen_tanktier2.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa12"]
@@ -961,168 +926,168 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk1_helmet_recipe.png",
+            "file": "expansion:pictures/recipes/mk1_helmet.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\ufa21"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk1_chestplate_recipe.png",
+            "file": "expansion:pictures/recipes/mk1_chestplate.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa22"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk1_leggings_recipe.png",
+            "file": "expansion:pictures/recipes/mk1_leggings.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa23"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk1_boots_recipe.png",
+            "file": "expansion:pictures/recipes/mk1_boots.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa24"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk3_helmet_recipe.png",
+            "file": "expansion:pictures/recipes/mk3_helmet.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\ufa25"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk3_chestplate_recipe.png",
+            "file": "expansion:pictures/recipes/mk3_chestplate.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa26"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk3_leggings_recipe.png",
+            "file": "expansion:pictures/recipes/mk3_leggings.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa27"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk3_boots_recipe.png",
+            "file": "expansion:pictures/recipes/mk3_boots.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa28"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/coldresist_mk2_displayitem.png",
+            "file": "expansion:items/modules/cold_resistance_mk2.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa29"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/heatresist_mk2_displayitem.png",
+            "file": "expansion:items/modules/heat_resistance_mk2.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa30"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/coldresist_mk2_recipe.png",
+            "file": "expansion:pictures/recipes/coldresist_mk2.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa31"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/heatresist_mk2_recipe.png",
+            "file": "expansion:pictures/recipes/heatresist_mk2.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa32"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/durability_mk1_displayitem.png",
+            "file": "expansion:items/modules/durability_mk1.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa33"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/durability_mk2_displayitem.png",
+            "file": "expansion:items/modules/durability_mk2.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa34"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/repair_kit.png",
+            "file": "expansion:items/repair_kit.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa35"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/repairkit_recipe.png",
+            "file": "expansion:pictures/recipes/repairkit.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa36"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/thermometer.png",
+            "file": "expansion:items/thermometer.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa37"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/thermometer_recipe.png",
+            "file": "expansion:pictures/recipes/thermometer.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa38"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/fuel_cell/mk1_frame.png",
+            "file": "expansion:items/fuel_cell/mk1_frame.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa39"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/fuel_cell_mk1_recipe.png",
+            "file": "expansion:pictures/recipes/fuel_cell_mk1.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa40"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/fuel_cell/mk2_frame.png",
+            "file": "expansion:items/fuel_cell/mk2_frame.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa41"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/fuel_cell_mk2_recipe.png",
+            "file": "expansion:pictures/recipes/fuel_cell_mk2.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa42"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:blocks/launch_pad/launch_pad_icon.png",
+            "file": "expansion:blocks/launch_pad/icon.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa43"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/launchpad_recipe.png",
+            "file": "expansion:pictures/recipes/launchpad.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa44"]
@@ -1143,112 +1108,112 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/titanium_ingot_recipe.png",
+            "file": "expansion:pictures/recipes/titanium_ingot.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa47"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/titanium_plate_recipe.png",
+            "file": "expansion:pictures/recipes/titanium_plate.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa48"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/launch_control_displayitem.png",
+            "file": "expansion:blocks/launch_control/icon.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa49"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/launch_control_recipe.png",
+            "file": "expansion:pictures/recipes/launch_control.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa50"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:tools/oxygen_tank/mk3_frame.png",
+            "file": "expansion:items/oxygen_tank/mk3_frame.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa51"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/oxygen_tanktier2_recipe.png",
+            "file": "expansion:pictures/recipes/oxygen_tanktier2.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa52"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/rocket_segments/tier1_engine_icon.png",
+            "file": "expansion:items/rocket/class1/engine.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa53"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/rocket_segments/tier1_fuel_icon.png",
+            "file": "expansion:items/rocket/class1/fuel.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa54"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/rocket_segments/tier1_control_icon.png",
+            "file": "expansion:items/rocket/class1/control.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa55"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/rocket_segments/tier1_top_icon.png",
+            "file": "expansion:items/rocket/class1/top.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa56"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:items/rocket_segments/tier1_storage_icon.png",
+            "file": "expansion:items/rocket/class1/cargo.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": ["\ufa57"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/tier1_engine_recipe.png",
+            "file": "expansion:pictures/recipes/tier1_engine.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa58"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/tier1_fuel_recipe.png",
+            "file": "expansion:pictures/recipes/tier1_fuel.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa59"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/tier1_control_recipe.png",
+            "file": "expansion:pictures/recipes/tier1_control.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\ufa60"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/tier1_storage_recipe.png",
+            "file": "expansion:pictures/recipes/tier1_storage.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\ufa61"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/tier1_top_recipe.png",
+            "file": "expansion:pictures/recipes/tier1_top.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa62"]
@@ -1283,28 +1248,28 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk2_helmet_recipe.png",
+            "file": "expansion:pictures/recipes/mk2_helmet.png",
 			"ascent": 8,
 			"height": 77,
 			"chars": ["\ufa67"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk2_chestplate_recipe.png",
+            "file": "expansion:pictures/recipes/mk2_chestplate.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa68"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk2_leggings_recipe.png",
+            "file": "expansion:pictures/recipes/mk2_leggings.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa69"]
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/recipes/mk2_boots_recipe.png",
+            "file": "expansion:pictures/recipes/mk2_boots.png",
 			"ascent": 8,
 			"height": 58,
 			"chars": ["\ufa70"]
@@ -1318,7 +1283,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "expansion:guides/basic_guide/nebulite_ore_displayitem.png",
+            "file": "expansion:blocks/nebulite_ore/icon.png",
 			"ascent": 12,
 			"height": 64,
 			"chars": ["\ufa72"]

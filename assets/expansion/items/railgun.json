@@ -7,13 +7,13 @@
                 "when": "gui",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "expansion:items/railgun_icon"
+                    "model": "expansion:items/railgun/icon"
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "expansion:items/railgun"
+            "model": "expansion:items/railgun/railgun"
         }
     }
 }

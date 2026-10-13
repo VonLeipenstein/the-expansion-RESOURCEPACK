@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "expansion:tools/cryoblaster",
-		"particle": "expansion:tools/cryoblaster"
+		"1": "expansion:items/cryoblaster/texture",
+		"particle": "expansion:items/cryoblaster/texture"
 	},
 	"elements": [
 		{

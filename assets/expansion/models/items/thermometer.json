@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "expansion:tools/thermometer",
-		"particle": "expansion:tools/thermometer"
+		"0": "expansion:items/thermometer",
+		"particle": "expansion:items/thermometer"
 	},
 	"elements": [
 		{

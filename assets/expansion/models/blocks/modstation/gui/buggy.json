@@ -1,8 +1,8 @@
 {
 	"parent": "expansion:blocks/gui_parent",
 	"textures": {
-		"0": "expansion:blocks/modification_station/buggy_gui",
-		"particle": "expansion:blocks/modification_station/buggy_gui"
+		"0": "expansion:blocks/modstation/gui_buggy",
+		"particle": "expansion:blocks/modstation/gui_buggy"
 	},
 	"display": {
 		"gui": {

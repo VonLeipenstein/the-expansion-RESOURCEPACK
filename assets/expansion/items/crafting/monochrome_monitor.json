@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "expansion:items/crafting/monochrome_monitor",
+        "model": "expansion:items/monochrome_monitor",
         "tints": []
     }
 }

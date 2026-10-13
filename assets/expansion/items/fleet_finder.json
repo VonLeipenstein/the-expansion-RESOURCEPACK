@@ -7,13 +7,13 @@
                 "when": "gui",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "expansion:items/fleet_finder_icon"
+                    "model": "expansion:items/fleet_finder/icon"
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "expansion:items/fleet_finder"
+            "model": "expansion:items/fleet_finder/fleet_finder"
         }
     }
 }

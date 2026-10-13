@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "expansion:tools/pocket_space",
-		"particle": "expansion:tools/pocket_space"
+		"2": "expansion:items/pocket_space",
+		"particle": "expansion:items/pocket_space"
 	},
 	"elements": [
 		{

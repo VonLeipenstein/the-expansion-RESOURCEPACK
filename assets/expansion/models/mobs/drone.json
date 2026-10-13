@@ -1,8 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "expansion:mobs/drone",
-		"particle": "expansion:mobs/drone"
+		"0": "expansion:mobs/evil_drone/drone",
+		"particle": "expansion:mobs/evil_drone/drone"
 	},
 	"elements": [
 		{

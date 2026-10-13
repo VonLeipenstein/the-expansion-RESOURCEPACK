@@ -1,0 +1,7 @@
+{
+	"parent": "expansion:vehicles/rocket/class2/fuel_indicator/parent",
+	"textures": {
+		"0": "expansion:items/fuel_cell/volume/hydrogen/0",
+		"particle": "expansion:items/fuel_cell/volume/hydrogen/0"
+	}
+}

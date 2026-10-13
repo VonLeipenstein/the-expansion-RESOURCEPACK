@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "expansion:blocks/arc_furnace/arc_furnace",
-		"particle": "expansion:blocks/arc_furnace/arc_furnace"
+		"1": "expansion:blocks/arc_furnace/block",
+		"particle": "expansion:blocks/arc_furnace/block"
 	},
 	"elements": [
 		{

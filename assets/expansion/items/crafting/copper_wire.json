@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "expansion:items/crafting/copper_wire",
+        "model": "expansion:items/copper_wire",
         "tints": []
     }
 }

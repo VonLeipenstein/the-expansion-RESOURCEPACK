@@ -7,7 +7,7 @@
           "when": "gui",
           "model": {
               "type": "minecraft:model",
-              "model": "expansion:blocks/launch_pad/launch_pad_icon"
+              "model": "expansion:blocks/launch_pad/icon"
           }
         }
       ],

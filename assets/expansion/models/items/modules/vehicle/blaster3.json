@@ -1,7 +1,7 @@
 {
 	"parent": "expansion:items/modules/vehicle/spaceship_mod",
 	"textures": {
-		"0": "expansion:items/spaceship_mods/blaster3",
-		"particle": "expansion:items/spaceship_mods/blaster3"
+		"0": "expansion:items/modules/vehicle/blaster3",
+		"particle": "expansion:items/modules/vehicle/blaster3"
 	}
 }

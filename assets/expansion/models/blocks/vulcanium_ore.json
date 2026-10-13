@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "expansion:blocks/vulcanium_ore",
-		"particle": "expansion:blocks/vulcanium_ore"
+		"0": "expansion:blocks/vulcanium_ore/block",
+		"particle": "expansion:blocks/vulcanium_ore/block"
 	},
 	"elements": [
 		{

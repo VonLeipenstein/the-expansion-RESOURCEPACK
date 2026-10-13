@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "expansion:items/crafting/nebulanium_plate",
+        "model": "expansion:items/nebulanium_plate",
         "tints": []
     }
 }

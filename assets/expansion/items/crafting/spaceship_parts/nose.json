@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "expansion:items/crafting/spaceship_parts/nose",
+        "model": "expansion:items/spaceship/nose",
         "tints": []
     }
 }

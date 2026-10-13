@@ -1,7 +1,7 @@
 {
 	"parent": "expansion:items/modules/module_icon",
 	"textures": {
-		"0": "expansion:items/equipment_modules/armor",
-		"particle": "expansion:items/equipment_modules/armor"
+		"0": "expansion:items/modules/armor",
+		"particle": "expansion:items/modules/armor"
 	}
 }

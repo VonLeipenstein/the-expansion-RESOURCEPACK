@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "expansion:blocks/deepslate_titanium_ore",
-		"particle": "expansion:blocks/deepslate_titanium_ore"
+		"0": "expansion:blocks/titanium_ore/block",
+		"particle": "expansion:blocks/titanium_ore/block"
 	},
 	"elements": [
 		{

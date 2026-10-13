@@ -2,8 +2,8 @@
 	"parent": "expansion:blocks/gui_parent",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "expansion:blocks/fabricator/fabricator_gui",
-		"particle": "expansion:blocks/fabricator/fabricator_gui"
+		"0": "expansion:blocks/fabricator/gui",
+		"particle": "expansion:blocks/fabricator/gui"
 	},
 	"display": {
 		"gui": {

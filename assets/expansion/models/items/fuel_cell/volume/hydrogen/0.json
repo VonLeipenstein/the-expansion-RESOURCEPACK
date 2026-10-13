@@ -1,7 +1,7 @@
 {
     "parent": "expansion:items/fuel_cell/volume/volume",
     "textures": {
-      "0": "expansion:tools/fuel_cell/volume/hydrogen/0",
-      "particle": "expansion:tools/fuel_cell/volume/hydrogen/0"
+      "0": "expansion:items/fuel_cell/volume/hydrogen/0",
+      "particle": "expansion:items/fuel_cell/volume/hydrogen/0"
     }
   }

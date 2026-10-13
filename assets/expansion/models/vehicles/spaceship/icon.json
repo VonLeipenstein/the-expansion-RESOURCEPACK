@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "expansion:guides/basic_guide/spaceship_icon",
-		"particle": "expansion:guides/basic_guide/spaceship_icon"
+		"0": "expansion:vehicles/spaceship/icon",
+		"particle": "expansion:guides/basic_guide/icon"
 	},
 	"elements": [
 		{

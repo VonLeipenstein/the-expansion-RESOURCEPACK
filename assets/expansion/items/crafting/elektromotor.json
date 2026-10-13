@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "expansion:items/crafting/elektromotor",
+        "model": "expansion:items/elektromotor",
         "tints": []
     }
 }

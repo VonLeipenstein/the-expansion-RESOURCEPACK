@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "expansion:tools/cargo_beacon_icon",
-		"particle": "expansion:tools/cargo_beacon_icon"
+		"0": "expansion:items/cargo_beacon_icon",
+		"particle": "expansion:items/cargo_beacon_icon"
 	},
 	"elements": [
 		{

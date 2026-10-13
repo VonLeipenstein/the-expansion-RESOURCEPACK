@@ -1,8 +1,8 @@
 {
 	"parent": "expansion:blocks/gui_parent",
 	"textures": {
-		"0": "expansion:blocks/oxygenator/oxygenator_gui_flash",
-		"particle": "expansion:blocks/oxygenator/oxygenator_gui_flash"
+		"0": "expansion:blocks/oxygenator/gui_flash",
+		"particle": "expansion:blocks/oxygenator/gui_flash"
 	},
 	"display": {
 		"gui": {

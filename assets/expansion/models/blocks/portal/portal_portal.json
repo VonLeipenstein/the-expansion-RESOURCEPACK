@@ -1,8 +1,8 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "expansion:structures/portal_animation",
-		"particle": "expansion:structures/portal_animation"
+		"0": "expansion:blocks/portal/portal_animation",
+		"particle": "expansion:blocks/portal/portal_animation"
 	},
 	"elements": [
 		{

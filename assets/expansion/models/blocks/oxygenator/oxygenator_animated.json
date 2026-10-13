@@ -1,9 +1,9 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "expansion:blocks/oxygenator/oxygenator",
-		"4": "expansion:blocks/oxygenator/fan_animated",
-		"particle": "expansion:blocks/oxygenator/oxygenator_fan_2"
+		"2": "expansion:blocks/oxygenator/block",
+		"4": "expansion:blocks/oxygenator/block_fan_animated",
+		"particle": "expansion:blocks/oxygenator/block_fan_2"
 	},
 	"elements": [
 		{

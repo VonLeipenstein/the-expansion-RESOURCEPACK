@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "expansion:blocks/nebulite_ore",
-		"particle": "expansion:blocks/nebulite_ore"
+		"0": "expansion:blocks/nebulite_ore/block",
+		"particle": "expansion:blocks/nebulite_ore/block"
 	},
 	"elements": [
 		{

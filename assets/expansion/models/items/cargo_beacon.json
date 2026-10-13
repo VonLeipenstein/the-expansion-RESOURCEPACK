@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "expansion:tools/cargo_beacon",
-		"particle": "expansion:tools/cargo_beacon"
+		"0": "expansion:items/cargo_beacon",
+		"particle": "expansion:items/cargo_beacon"
 	},
 	"elements": [
 		{

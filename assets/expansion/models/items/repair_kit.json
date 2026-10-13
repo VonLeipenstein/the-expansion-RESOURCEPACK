@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "expansion:tools/repair_kit",
-		"particle": "expansion:tools/repair_kit"
+		"1": "expansion:items/repair_kit",
+		"particle": "expansion:items/repair_kit"
 	},
 	"elements": [
 		{

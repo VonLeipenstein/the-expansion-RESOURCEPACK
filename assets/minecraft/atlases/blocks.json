@@ -7,6 +7,11 @@
 		},
 		{
 			"type": "directory",
+			"source": "pictures",
+			"prefix": "pictures/"
+		},
+		{
+			"type": "directory",
 			"source": "armor",
 			"prefix": "armor/"
 		},
@@ -17,23 +22,8 @@
 		},
 		{
 			"type": "directory",
-			"source": "guides",
-			"prefix": "guides/"
-		},
-		{
-			"type": "directory",
 			"source": "items",
 			"prefix": "items/"
-		},
-		{
-			"type": "directory",
-			"source": "statues",
-			"prefix": "statues/"
-		},
-		{
-			"type": "directory",
-			"source": "structures",
-			"prefix": "structures/"
 		},
 		{
 			"type": "directory",

@@ -1,8 +1,8 @@
 {
 	"parent": "expansion:blocks/gui_parent",
 	"textures": {
-		"0": "expansion:blocks/fabricator/fabricator_gui_flash",
-		"particle": "expansion:blocks/fabricator/fabricator_gui_flash"
+		"0": "expansion:blocks/fabricator/gui_flash",
+		"particle": "expansion:blocks/fabricator/gui_flash"
 	},
 	"display": {
 		"gui": {

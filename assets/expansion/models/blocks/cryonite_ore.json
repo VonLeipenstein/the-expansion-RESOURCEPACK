@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "expansion:blocks/cryonite_ore",
-		"particle": "expansion:blocks/cryonite_ore"
+		"0": "expansion:blocks/cryonite_ore/block",
+		"particle": "expansion:blocks/cryonite_ore/block"
 	},
 	"elements": [
 		{

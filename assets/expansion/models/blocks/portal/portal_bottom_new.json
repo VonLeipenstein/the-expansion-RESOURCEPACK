@@ -1,8 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "expansion:structures/portal",
-		"particle": "expansion:structures/portal"
+		"0": "expansion:blocks/portal/portal",
+		"particle": "expansion:blocks/portal/block"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "expansion:items/crafting/processing_unit",
+        "model": "expansion:items/processing_unit",
         "tints": []
     }
 }
