@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "expansion:vehicles/spaceship/icon",
-		"particle": "expansion:guides/basic_guide/icon"
+		"particle": "expansion:vehicles/spaceship/icon"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "expansion:guides/basic_guide/module_icon",
-		"particle": "expansion:guides/basic_guide/module_icon"
+		"0": "expansion:vehicles/lunar_module/module_icon",
+		"particle": "expansion:vehicles/lunar_module/module_icon"
 	},
 	"elements": [
 		{
