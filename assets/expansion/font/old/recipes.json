@@ -1,0 +1,592 @@
+{
+    "providers": [
+		{
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/steel_ingot.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff50"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/nebulanium_smelt.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff51"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/steel_plate.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff52"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/gear.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff53"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/copper_wire.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff54"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/simple_mechanism.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff55"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/cpu.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff56"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/oxygen_filter.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\uff57"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/elektromagnet.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff58"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/elektromotor.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff59"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/buggy_wheel.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff60"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/thruster.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff61"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/nebulanium_plate.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff62"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/circuit_board.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff63"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/complex_mechanism.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff64"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/robot_arm.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff65"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/cooling_element.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff66"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/heating_element.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff67"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/arc_furnace.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\uff68"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/fabricator.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\uff69"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/assembler.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff70"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/compressor.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff71"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/oxygenator.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff72"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/terraformer.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff73"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/extractor.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff74"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/planetarium.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff75"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/enhancer.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\uff76"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/oxygen_tank.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff78"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/railgun.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff79"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/cryoblaster.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff80"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/wrench.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff81"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/cooling_module.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff82"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/heating_module.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff83"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/buggy.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff84"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/rocket_bottom.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff85"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/rocket_cockpit.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff86"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/rocket_top.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff87"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/buggy.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff88"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/spaceship.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff89"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/spaceship_leftwing.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff90"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/spaceship_rightwing.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff91"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/spaceship_cockpit.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\uff92"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/spaceship_engines.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\uff93"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/tesla_coil.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb02"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/modstation.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb03"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/pet_drone.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb04"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/durability_mk1.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb05"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/durability_mk2.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb06"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/monochrome_monitor.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufb07"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/fuelmod1.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb13"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/speedmod1.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb14"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/magneticmodule.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb18"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/rocketmodule.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb19"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/spaceship_nose.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufb20"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/oxygen_tanktier2.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa12"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk1_helmet.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa21"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk1_chestplate.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa22"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk1_leggings.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa23"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk1_boots.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa24"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk3_helmet.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa25"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk3_chestplate.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa26"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk3_leggings.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa27"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk3_boots.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa28"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/coldresist_mk2.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa31"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/heatresist_mk2.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa32"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/repairkit.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa36"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/thermometer.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa38"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/fuel_cell_mk1.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa40"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/fuel_cell_mk2.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa42"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/launchpad.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa44"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/titanium_ingot.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa47"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/titanium_plate.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa48"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/launch_control.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa50"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/oxygen_tanktier2.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa52"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/tier1_engine.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa58"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/tier1_fuel.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa59"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/tier1_control.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa60"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/tier1_storage.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa61"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/tier1_top.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa62"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk2_helmet.png",
+			"ascent": 8,
+			"height": 77,
+			"chars": ["\ufa67"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk2_chestplate.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa68"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk2_leggings.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa69"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:pictures/recipes/mk2_boots.png",
+			"ascent": 8,
+			"height": 58,
+			"chars": ["\ufa70"]
+		}
+	]
+}

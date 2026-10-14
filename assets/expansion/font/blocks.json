@@ -1,137 +1,173 @@
 {
-    "providers": [
-		{
-            "type": "space",
-            "advances": {
-                " ": 4,
-                "\u200c": 0
-            }
-        },
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/arc_furnace/icon.png",
-			"ascent": 10,
-			"height": 21.3,
-			"chars": ["\uff20"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/fabricator/icon.png",
-			"ascent": 27,
-			"height": 42.7,
-			"chars": ["\uff21"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/assembler/icon.png",
-			"ascent": 21,
-			"height": 74.667,
-			"chars": ["\uff22"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/compressor/icon.png",
-			"ascent": 29,
-			"height": 42.7,
-			"chars": ["\uff23"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/oxygenator/icon.png",
-			"ascent": 8,
-			"height": 21.3,
-			"chars": ["\uff24"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/terraformer/icon.png",
-			"ascent": 8,
-			"height": 21.3,
-			"chars": ["\uff25"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/planetarium/icon.png",
-			"ascent": 8,
-			"height": 21.3,
-			"chars": ["\uff26"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/extractor/icon.png",
-			"ascent": 29,
-			"height": 42.7,
-			"chars": ["\uff27"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/enhancer/icon.png",
-			"ascent": 29,
-			"height": 42.7,
-			"chars": ["\uff28"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/tesla_coil/icon.png",
-			"ascent": 29,
-			"height": 42.7,
-			"chars": ["\uff29"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/crafting_table_icon.png",
-			"ascent": 8,
-			"height": 21.3,
-			"chars": ["\uff33"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/titanium_ore/icon.png",
-			"ascent": 12,
-			"height": 64,
-			"chars": ["\uff98"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/cryonite_ore/icon.png",
-			"ascent": 12,
-			"height": 64,
-			"chars": ["\uff99"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/vulcanium_ore/icon.png",
-			"ascent": 12,
-			"height": 64,
-			"chars": ["\ufb00"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/nebulite_ore/icon.png",
-			"ascent": 12,
-			"height": 64,
-			"chars": ["\ufa72"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/modstation/icon.png",
-			"ascent": 8,
-			"height": 21.3,
-			"chars": ["\ufb10"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/launch_pad/icon.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\ufa43"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/launch_control/icon.png",
-			"ascent": 8,
-			"height": 16,
-			"chars": ["\ufa49"]
-		}
-	]
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4,
+        "\u200c": 0
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/arc_furnace/icon.png",
+      "ascent": 10,
+      "height": 21.3,
+      "chars": [
+        "\uff00"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/fabricator/icon.png",
+      "ascent": 27,
+      "height": 42.7,
+      "chars": [
+        "\uff01"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/assembler/icon.png",
+      "ascent": 21,
+      "height": 74.667,
+      "chars": [
+        "\uff02"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/compressor/icon.png",
+      "ascent": 29,
+      "height": 42.7,
+      "chars": [
+        "\uff03"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/oxygenator/icon.png",
+      "ascent": 8,
+      "height": 21.3,
+      "chars": [
+        "\uff04"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/terraformer/icon.png",
+      "ascent": 8,
+      "height": 21.3,
+      "chars": [
+        "\uff05"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/planetarium/icon.png",
+      "ascent": 8,
+      "height": 21.3,
+      "chars": [
+        "\uff06"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/extractor/icon.png",
+      "ascent": 29,
+      "height": 42.7,
+      "chars": [
+        "\uff07"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/enhancer/icon.png",
+      "ascent": 29,
+      "height": 42.7,
+      "chars": [
+        "\uff08"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/tesla_coil/icon.png",
+      "ascent": 29,
+      "height": 42.7,
+      "chars": [
+        "\uff09"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/crafting_table_icon.png",
+      "ascent": 8,
+      "height": 21.3,
+      "chars": [
+        "\uff0a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/titanium_ore/icon.png",
+      "ascent": 12,
+      "height": 64,
+      "chars": [
+        "\uff0b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/cryonite_ore/icon.png",
+      "ascent": 12,
+      "height": 64,
+      "chars": [
+        "\uff0c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/vulcanium_ore/icon.png",
+      "ascent": 12,
+      "height": 64,
+      "chars": [
+        "\uff0d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/modstation/icon.png",
+      "ascent": 8,
+      "height": 21.3,
+      "chars": [
+        "\uff0e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/launch_pad/icon.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": [
+        "\uff0f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/launch_control/icon.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": [
+        "\uff10"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/nebulite_ore/icon.png",
+      "ascent": 12,
+      "height": 64,
+      "chars": [
+        "\uff11"
+      ]
+    }
+  ]
 }

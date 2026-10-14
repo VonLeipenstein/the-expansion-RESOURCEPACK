@@ -1,67 +1,83 @@
 {
-    "providers": [
-		{
-            "type": "space",
-            "advances": {
-                " ": 4,
-                "\u200c": 0
-            }
-        },
-		{
-            "type": "bitmap",
-            "file": "expansion:pictures/landscapes/moon.png",
-			"ascent": 12,
-			"height": 56,
-			"chars": ["\ufa00"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:pictures/landscapes/mars.png",
-			"ascent": 12,
-			"height": 56,
-			"chars": ["\ufa01"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:pictures/landscapes/venus.png",
-			"ascent": 12,
-			"height": 56,
-			"chars": ["\ufa02"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:pictures/landscapes/jupiter.png",
-			"ascent": 12,
-			"height": 56,
-			"chars": ["\ufa03"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:pictures/landscapes/europa.png",
-			"ascent": 12,
-			"height": 56,
-			"chars": ["\ufa04"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:pictures/landscapes/asteroids.png",
-			"ascent": 12,
-			"height": 56,
-			"chars": ["\ufa05"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:blocks/fabricator/crafting.png",
-			"ascent": 8,
-			"height": 56,
-			"chars": ["\ufa06"]
-		},
-		{
-            "type": "bitmap",
-            "file": "expansion:pictures/guide_frontpage.png",
-			"ascent": 35,
-			"height": 64,
-			"chars": ["\ufa10"]
-		}
-	]
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4,
+        "\u200c": 0
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/landscapes/moon.png",
+      "ascent": 12,
+      "height": 56,
+      "chars": [
+        "\uff00"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/landscapes/mars.png",
+      "ascent": 12,
+      "height": 56,
+      "chars": [
+        "\uff01"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/landscapes/venus.png",
+      "ascent": 12,
+      "height": 56,
+      "chars": [
+        "\uff02"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/landscapes/jupiter.png",
+      "ascent": 12,
+      "height": 56,
+      "chars": [
+        "\uff03"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/landscapes/europa.png",
+      "ascent": 12,
+      "height": 56,
+      "chars": [
+        "\uff04"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/landscapes/asteroids.png",
+      "ascent": 12,
+      "height": 56,
+      "chars": [
+        "\uff05"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:blocks/fabricator/crafting.png",
+      "ascent": 8,
+      "height": 56,
+      "chars": [
+        "\uff06"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/guide_frontpage.png",
+      "ascent": 35,
+      "height": 64,
+      "chars": [
+        "\uff07"
+      ]
+    }
+  ]
 }
