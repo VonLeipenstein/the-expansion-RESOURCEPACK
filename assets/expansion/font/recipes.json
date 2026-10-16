@@ -252,7 +252,7 @@
     },
     {
       "type": "bitmap",
-      "file": "expansion:pictures/recipes/oxygen_tank.png",
+      "file": "expansion:pictures/recipes/oxygen_tank_mk1.png",
       "ascent": 8,
       "height": 58,
       "chars": [
@@ -504,7 +504,7 @@
     },
     {
       "type": "bitmap",
-      "file": "expansion:pictures/recipes/oxygen_tanktier2.png",
+      "file": "expansion:pictures/recipes/oxygen_tank_mk2.png",
       "ascent": 8,
       "height": 58,
       "chars": [
@@ -675,7 +675,7 @@
     },
     {
       "type": "bitmap",
-      "file": "expansion:pictures/recipes/oxygen_tanktier2.png",
+      "file": "expansion:pictures/recipes/oxygen_tank_mk3.png",
       "ascent": 8,
       "height": 58,
       "chars": [
@@ -684,7 +684,7 @@
     },
     {
       "type": "bitmap",
-      "file": "expansion:pictures/recipes/tier1_engine.png",
+      "file": "expansion:pictures/recipes/class1_engine.png",
       "ascent": 8,
       "height": 58,
       "chars": [
@@ -693,7 +693,7 @@
     },
     {
       "type": "bitmap",
-      "file": "expansion:pictures/recipes/tier1_fuel.png",
+      "file": "expansion:pictures/recipes/class1_fuel.png",
       "ascent": 8,
       "height": 58,
       "chars": [
@@ -702,7 +702,7 @@
     },
     {
       "type": "bitmap",
-      "file": "expansion:pictures/recipes/tier1_control.png",
+      "file": "expansion:pictures/recipes/class1_control.png",
       "ascent": 8,
       "height": 77,
       "chars": [
@@ -711,16 +711,16 @@
     },
     {
       "type": "bitmap",
-      "file": "expansion:pictures/recipes/tier1_storage.png",
+      "file": "expansion:pictures/recipes/class1_top.png",
       "ascent": 8,
-      "height": 77,
+      "height": 58,
       "chars": [
         "\uff4e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "expansion:pictures/recipes/tier1_top.png",
+      "file": "expansion:pictures/recipes/class1_thruster.png",
       "ascent": 8,
       "height": 58,
       "chars": [
@@ -761,6 +761,114 @@
       "height": 58,
       "chars": [
         "\uff53"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/fabricator_alt.png",
+      "ascent": 8,
+      "height": 77,
+      "chars": [
+        "\uff54"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/class2_engine.png",
+      "ascent": 8,
+      "height": 58,
+      "chars": [
+        "\uff55"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/class2_fuel.png",
+      "ascent": 8,
+      "height": 58,
+      "chars": [
+        "\uff56"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/class2_control.png",
+      "ascent": 8,
+      "height": 77,
+      "chars": [
+        "\uff57"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/class2_top.png",
+      "ascent": 8,
+      "height": 58,
+      "chars": [
+        "\uff58"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/class2_thruster.png",
+      "ascent": 8,
+      "height": 58,
+      "chars": [
+        "\uff59"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/class2_spacer.png",
+      "ascent": 8,
+      "height": 58,
+      "chars": [
+        "\uff5a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/class1_spacer.png",
+      "ascent": 8,
+      "height": 58,
+      "chars": [
+        "\uff5b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/class1_cargo.png",
+      "ascent": 8,
+      "height": 77,
+      "chars": [
+        "\uff5c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/steel_canister.png",
+      "ascent": 8,
+      "height": 58,
+      "chars": [
+        "\uff5d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/titanium_canister.png",
+      "ascent": 8,
+      "height": 58,
+      "chars": [
+        "\uff5e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "expansion:pictures/recipes/nebulanium_canister.png",
+      "ascent": 8,
+      "height": 58,
+      "chars": [
+        "\uff5f"
       ]
     }
   ]

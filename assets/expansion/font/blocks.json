@@ -145,7 +145,7 @@
     {
       "type": "bitmap",
       "file": "expansion:blocks/launch_pad/icon.png",
-      "ascent": 8,
+      "ascent": 7,
       "height": 16,
       "chars": [
         "\uff0f"
